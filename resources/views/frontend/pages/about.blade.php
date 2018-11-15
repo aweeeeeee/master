@@ -28,19 +28,19 @@
         
         <h5 class="font16 c-6600cc"><b>Video with Voice Over</b></h5>
         
-        <p class="text-justify">You receive a photo-based video that includes voice over and music edited into a professional video production. We compile professionally pre-recorded voice over tracks that have been selected to match the inclusion and features of your property. Using voice is
+        <p class="text-justify line-height20">You receive a photo-based video that includes voice over and music edited into a professional video production. We compile professionally pre-recorded voice over tracks that have been selected to match the inclusion and features of your property. Using voice is
         an effective way of describing the property to viewers as they watch. It’s amazing how voice engages with your viewers and makes
         the video much more interesting and enjoyable.</p>
         
         <h5 class="font16 c-6600cc"><b>Images to Life</b></h3>
         
-        <p class="text-justify">Your property images are bought to life using animation, movement and transition – to mimic actual video. It’s pretty close to the real
+        <p class="text-justify  line-height20">Your property images are bought to life using animation, movement and transition – to mimic actual video. It’s pretty close to the real
         thing because most property video recordings typically contain little movement. Each video uses your brand and image – and your
         contact details – integrating the promotion of property and agent to maximum effect.</p>
         
         <h5 class="font16 c-6600cc"><b>Makes Real Estate Video Doable</b></h5>
         
-        <p class="text-justify">REVid gives you a Fast, Low Cost and Easy solution. Yes, it’s not a fully directed film-crew production – it’s not meant to be – <b>it’s a
+        <p class="text-justify  line-height20">REVid gives you a Fast, Low Cost and Easy solution. Yes, it’s not a fully directed film-crew production – it’s not meant to be – <b>it’s a
         low cost doable solution</b> – quick and easy to achieve. The video production framework gives you options of 2-hour to 24-hour
         turn-around or the standard time of 2-3 days. You also get four video formats, including sub-titles, each designed and set-up to cover
         most online, social media and marketing applications. <b>It’s great value for money!</b></p>
@@ -252,7 +252,6 @@
         @include('frontend.register.register-form')
         
     </div>
-        @include('frontend.pages.frontpage.why-use-revid')
 
         @include('frontend.pages.frontpage.footer')
     </div>
