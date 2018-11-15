@@ -24,12 +24,7 @@
                             property images and details
                             directly to the System.</p>
                         <p class="font-weight-bold text-justify line-height20 mb-0">
-                            It’s a really good Video but it’s
-                            not a 'Hollywood’ production.
-                            With Voice, Vision and Music
-                            it covers the general property
-                            features and benefits. It’s
-                            Fast, Low Cost <br>and Easy.</p>
+                            It’s a really great Video but it’s not a 'Hollywood’ production. With Voice-over, Vision and Music it covers the general property features and benefits. It’s Fast, Low Cost and Easy. </p>
                         <div class="d-flex justify-content-start mt-3">
                                 <div><img class="img-fluid" src={{ asset('storage/av-logo.png') }}></div>
                                 <div class="c-6600cc font-t-ms h-v-text align-self-center"><h5 class="color-6600cc font-t-ms font20"><b>We build <br>Your Video</b></h5></div>

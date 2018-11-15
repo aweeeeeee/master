@@ -12,18 +12,14 @@
                        <h5 class="color-ff0033 mb-3 font-t-ms"><b>Custom Video</b></h5>
 
                        <p class="font-weight-bold text-justify line-height22">
-                        When the property is
-                        special and you want to
-                        spend more time and
-                        money to make a ‘one-off’
-                        Custom Video.
+                        When the property is special and you want to spend more time and money to make a ‘one-off’ Custom Video.  
                        </p>
-                       <p class="font-weight-bold text-justify line-height20">You get a professionally
-                        written script that‘s
-                        professionally recorded to
-                        match your property.</p>
+                       <p class="font-weight-bold text-justify line-height20">
+                        You get a professionally written script that‘s professionally recorded to match your property.
+                       </p>
                        <p class="font-weight-bold text-justify line-height22 mb-0">
-                       The Video is made to your requirements with more time and features - so it’s a very good production available for a reasonable Cost.</p>
+                        The  Video is made to your requirements by our team with more time and features - so it’s a very good production available for a reasonable Cost.
+                       </p>
                        <div class="d-flex justify-content-start">
                             <div><i class="make-video premium"></i></div>
                             <div class="color-ff0033 font-t-ms pl-3 align-self-center"><h5 class="color-ff0033 font-t-ms"><b>Fully Customised <br>Video</b></h5></div>
@@ -88,8 +84,8 @@
                                 <ol class="make-v-ol pl-2 m-0 ol-ff0033 text-justify color-000">
                                     <li>You go to a confirmation page which asks you to <b>Approve</b> the order;</li>
                                     <li>A <b>Customer Service Officer</b> will contact you to facilitate your customised Video. They will together with you and the team to develop your
-                                    Video (It’s a one-on-one service) by compiling your personalised one-off script, voice-over, any visual effects and other special
-                                    on-screen content. <b>Your Custom Video production is made to your requirements</b>;</li>
+                                    Video (It’s a one-on-one service) by compiling your personalised one-off script, Voice-over, any visual effects and other special
+                                    on-screen content. <b>Your Custom Video production is made to <br>your requirements</b>;</li>
                                     <li><b>Your Video is Delivered.</b></li>
                                 </ol>
                 </div>

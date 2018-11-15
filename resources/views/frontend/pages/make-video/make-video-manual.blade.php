@@ -9,19 +9,15 @@
                 <div class="col-sm-4 pl-0">
                     <div class="border-0066ff px-3 pt-4 pb-2 h-100">
                        <h5 class="color-0066ff mb-0 font20 font-t-ms px-3 mt-2"><b>What is a</b></h5>
-                       <h5 class="color-0066ff mb-3 font20 font-t-ms px-3"><b>Manual Video</b></h5>
+                       <h5 class="color-0066ff mb-3 font20 font-t-ms px-2"><b>Manual Video</b></h5>
 
-                       <p class="font-weight-bold text-justify line-height24 px-3">If you are happy to spend the
-                        time, you select and match
-                        images to voice over tracks
-                        and make the Video just like
-                        you want it.</p>
-                        <p class="font-weight-bold text-justify line-height24 px-3">You get to make the decisions
-                        and we do the Video
-                        production. It’s a little better
-                        product than generic, and yet
-                        still Fast, Low Cost and Easy.</p>
-                        <div class="d-flex justify-content-start px-3 mt-5">
+                        <p class="font-weight-bold text-justify line-height24 px-2">
+                         If you are happy to spend the time, you use our system to select and match images to the Voice-over tracks and make the Video just like you want it.
+                        </p>
+                        <p class="font-weight-bold text-justify line-height24 px-2">
+                         You get to make the decisions and we do the Video production work. It’s a bit more work from you than the Automatic Video and yet still Fast, Low Cost and Easy.
+                        </p>
+                        <div class="d-flex justify-content-start px-2 mt-5">
                             <div><img src={{ asset('storage/mv-logo.png') }} ></div>
                             <div class="c0066ff font-t-ms h-v-text align-self-center"><h5 class="color-0066ff"><b>You build <br>Your Video</b></h5></div>
                         </div>
