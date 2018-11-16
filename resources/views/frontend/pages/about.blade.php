@@ -87,30 +87,30 @@
                     <div class="b-v-text color-333"><b>Fast, Easy <br>and Low Cost</b></div>
                 </div>
                 
-                <p class="text-justify p-3 mb-0">Video works but has been difficult and expensive to make happen with only about 5% of properties listed using video at the moment.</p>
-                <p class="text-justify px-3 mb-0"><b>REVid</b> is Fast, Low Cost and Easy - your access to a doable solution.</p>
+                <p class="text-justify p-3 mb-0 line-height20">Video works but has been difficult and expensive to make happen with only about 5% of properties listed using video at the moment.</p>
+                <p class="text-justify px-3 mb-0 line-height20"><b>REVid</b> is Fast, Low Cost and Easy - your access to a doable solution.</p>
             </div>
             <div class="col-sm p-0">
                 <div class="text-center bg-efefef pb-2">
                     <i class="link-icon buyers mb-2"></i>
                     <div class="b-v-text color-333"><b>Video <br>Engages</b></div>
                 </div>
-                <p class="text-justify p-3 mb-0">Engage with your buyers using a video with a professional voice over – giving them 90 seconds of positive interaction that informs and interests.</p>
-                <p class="text-justify px-3 mb-0">Video with Voice works.</p>
+                <p class="text-justify p-3 mb-0 line-height20">Engage with your buyers using a video with a professional voice over – giving them 90 seconds of positive interaction that informs and interests.</p>
+                <p class="text-justify px-3 mb-0 line-height20">Video with Voice works.</p>
             </div>
             <div class="col-sm p-0">
                 <div class="text-center bg-efefef pb-2">
                     <i class="link-icon sell mb-2"></i>
                     <div class="b-v-text color-333"><b>Helps List <br>and Sell</b></div>
                 </div>
-                <p class="text-justify p-2 mb-0">Video might help gain a property listing, and is a great marketing tool for your prospective vendors. Video is something your vendors can easily send to their own personal social media friends, family and business networks.</p>
+                <p class="text-justify p-2 mb-0 line-height20">Video might help gain a property listing, and is a great marketing tool for your prospective vendors. Video is something your vendors can easily send to their own personal social media friends, family and business networks.</p>
             </div>
             <div class="col-sm p-0">
                 <div class="text-center bg-efefef pb-2">
                     <i class="link-icon brand mb-2"></i>
                     <div class="b-v-text color-333"><b>Promotes <br>Your Brand</b></div>
                 </div>
-                <p class="text-justify p-3 mb-0">Video strongly incorporates and promotes your personal identity and agency brand. This might help further boost your profile, including online and in social media channels.</p>
+                <p class="text-justify p-3 mb-0 line-height20">Video strongly incorporates and promotes your personal identity and agency brand. This might help further boost your profile, including online and in social media channels.</p>
             </div>
         </div>
         
@@ -188,7 +188,7 @@
                     <div class="b-v-text color-333"><b>Online <br>Sites</b></div>
                 </div>
                 <div class="py-3 pr-2">
-                    <ul class="list-about">
+                    <ul class="list-about line-height20">
                         <li>Video is an effective point-of-difference, increasingly expected and enjoyed by online users.</li>
                         <li>You can engage better with your prospective buyers when you deliver an audio-visual experience whilst exploring your online property listings.</li>
                     </ul>
@@ -200,7 +200,7 @@
                     <div class="b-v-text color-333"><b>Social <br>Media</b></div>
                 </div>
                 <div class="p-3">
-                    <ul class="list-about">
+                    <ul class="list-about line-height20">
                         <li>Using video format on social media has become an easy and important method of getting the best results.</li>
                         <li>You can expand your influence on social media by using video to post on many different platforms through your own, your agency’s and most importantly your clients’ networks.</li>
                     </ul>
@@ -213,7 +213,7 @@
                     
                 </div>
                 <div class="p-3">
-                    <ul class="list-about">
+                    <ul class="list-about line-height20">
                         <li>Playing a video on your tablet, smartphone or laptop is a professional way of presenting your property listings.</li>
                         <li>You can show your prospective listing vendors how you present their property using a professional video with voice-over. This might give them greater confidence in your marketing of their property.</li>
                     </ul>
@@ -237,7 +237,7 @@
                     <div class="b-v-text color-333"><b>Home Opens <br>Office Displays</b></div>
                 </div>
                 <div class="py-3 pl-1">
-                    <ul class="list-about">
+                    <ul class="list-about line-height20">
                         <li>Playing all your property listings during your Home Opens is a function our system provides you.</li>
                         <li>Your real estate office window’s electronic displays can be interesting and up-to-date showing video using sub-titles to promote your properties for both sales and the brand of agent and agency.</li>
                     </ul>
