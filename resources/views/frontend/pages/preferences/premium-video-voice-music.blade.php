@@ -9,7 +9,7 @@
         @endauth
         </div>
         <div class="col-lg-8 my-account-form pb-5">
-            <h3 class="my-account-title">Custom Video Update Voice + Music</h3>
+            <h3 class="my-account-title">Premium Video Update Voice + Music</h3>
             <table class="table-action mb-4" cellpadding="0" cellspacing="0" width="100%">
                 <tr class="bg-ccc font-weight-bold">
                     <td>Video #</td>
@@ -25,23 +25,26 @@
                     </td>
                 </tr>
             </table>
-            <h3 class="mt-5 mb-3">Voice Preference</h3>
-                <span class="font-t-ms color-404"><b>You can select from 3 options</b></span>
-                <div class="row m-r-l">
-                    <div class="col-md-auto text-center">
-                        <div class="c0066ff font-weight-bold">1. RANDOM VOICE</div>
-                        <div>We Pick Random Voices <br>for Your Videos</div>
+            <div class="border-bot4 my-3">
+                    <div class="font20 mb-3 color-414142"><b>Voice Selection</b></div>
+                    <div class="font14 color-303030"><b>SELECT VOICE OPTIONS</b></div>
+                    <div class="font14">Please select Your Voice Options and nominated Voice Talent.</div>
+            </div>
+            <div class="row mb-2 m-r-l font14">
+                    <div class="col-sm-auto">
+                        <div class="c0066ff font-weight-bold">RANDOM VOICE</div>
+                        <div>We Select <b>Random</b> Voices <br>for <b>ALL</b> Your Videos</div>
                     </div>
-                    <div class="col-md-auto text-center p-0">
-                        <div class="c0066ff font-weight-bold">2. ONE VOICE</div>
-                        <div>You use the same Voice <br>for all Your Videos</div>
+                    <div class="col-sm-auto mx-auto border-left-right-ccc">
+                        <div class="c0066ff font-weight-bold">SAME VOICE</div>
+                        <div>You Select the <b>Same</b> Voice <br>for <b>ALL</b> Your Videos</div>
                     </div>
-                    <div class="col-md-auto text-center p-0">
-                        <div class="c0066ff font-weight-bold">3. ROTATED VOICE</div>
-                        <div>You pick many voices and they are <br>rotated for each new individual video</div>
+                    <div class="col-sm text-justify">
+                        <div class="c0066ff font-weight-bold">ROTATED VOICE</div>
+                        <div>You Select <b>Many</b> Voices and they are <b>Rotated</b> for Your Videos</div>
                     </div>
                 </div>
-                <div class="color-404 mt-4"><b>Voice</b></div>
+                <div class="color-404 mt-4"><b>Select</b></div>
                 <div class="row m-r-l">
                     <div class="col-sm-8 select-form">
                          <select name="" class="col-11 form-control mt-2 mb-4">
@@ -207,23 +210,29 @@
                                 </div>
                         </div>
                 </div>
-                <h3>Music Preference</h3>
-                <b>You can select from 3 options</b>
-                <div class="row m-r-l">
-                    <div class="col-md-auto text-center">
-                        <div class="c0066ff font-weight-bold">1. RANDOM Music</div>
-                        <div>We Pick Random Music <br>for Your Videos</div>
+                <div class="border-bot4 my-3">
+                    <div class="font20 mb-3 color-414142"><b>Music Selection</b></div>
+                    <div class="font14 color-303030"><b>SELECT MUSIC OPTIONS</b></div>
+                    <div class="font14">Please select Your Music Options and nominated Music Tracks</div>
+                </div>
+                <div class="row mb-4 m-r-l font14">
+                    <div class="col-sm-auto">
+                        <div class="c0066ff font-weight-bold">RANDOM MUSIC</div>
+                        <div>We Select <b>Random</b> Music <br>for <b>ALL</b> Your Videos</div>
                     </div>
-                    <div class="col-md-auto text-center p-0">
-                        <div class="c0066ff font-weight-bold">2. ONE MUSIC TRACK</div>
-                        <div>You use the same Music <br>for all Your Videos</div>
+                    <div class="col-sm-auto border-left-right-ccc">
+                        <div class="mx-auto">
+                            <div class="c0066ff font-weight-bold">ONE MUSIC TRACK</div>
+                            <div>You Select the <b>Same</b> <br>Music for <b>ALL</b> Your Videos</div>
+                        </div>
                     </div>
-                    <div class="col-md-auto text-center p-0">
-                        <div class="c0066ff font-weight-bold">3. ROTATED MUSIC TRACKS</div>
-                        <div>You pick many Music Tracks and <br>they are rotated for each new <br>individual video</div>
+                    <div class="col-sm text-justify">
+                        <div class="c0066ff font-weight-bold">ROTATED MUSIC TRACKS</div>
+                        <div>You Select <b>Many</b> Music Tracks and they are <b>Rotated</b> for Your Videos</div>
                     </div>
                 </div>
-                <div class="color-404"><b>Select Music Style</b></div>
+                
+                <div class="color-404"><b>Select</b></div>
                 <div class="row m-r-l">
                     <div class="col-sm-8 select-form">
                          <select name="state" class="col-11 form-control mt-2 mb-4">
