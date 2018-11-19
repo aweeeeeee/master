@@ -17,7 +17,7 @@
                         <div class="d-flex flex-column mb-3 p-0">
                             <div><input type="text" class="form-control" placeholder="Address 1" name="" required autofocus></div>
                             <div class="my-3"><input type="text" class="form-control" placeholder="Address 2" name="" required autofocus></div>
-                            <div class="row m-r-l">
+                            <div class="row m-r-l mt-0">
                                 <div class="col-lg-6 pr-3">
                                     <input type="text" class="form-control w-100 b-radius-0" placeholder="Suburb">
                                 </div>
@@ -102,6 +102,17 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+                <div class="row m-r-l">
+                    <div class="col-sm-3">Due <br>Date</div>
+                    <div class="col-sm-9">
+                        <b>New</b>
+                        <div class="my-2">Estimated completion time is</div>
+                         <div class="row">
+                                <div class="col-sm p-0"><div class="form-control b-radius-0">## hours</div></div>
+                                <div class="col-sm p-0"><div class="form-control b-radius-0">Date Due</div></div>
+                         </div>
                     </div>
                 </div>
                 <div class="row m-r-l">

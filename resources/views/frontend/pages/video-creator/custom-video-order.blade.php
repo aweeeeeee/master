@@ -17,7 +17,7 @@
                         <div class="d-flex flex-column mb-3 p-0">
                             <div><input type="text" class="form-control" placeholder="Address 1" name="" required autofocus></div>
                             <div class="my-3"><input type="text" class="form-control" placeholder="Address 2" name="" required autofocus></div>
-                            <div class="row m-r-l">
+                            <div class="row m-r-l mt-0">
                                            <div class="col-lg-6 pr-3">
                                                 <input type="text" class="form-control w-100 b-radius-0" placeholder="Suburb">
                                            </div>
@@ -31,7 +31,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row m-r-l my-3">
+                <div class="row m-r-l my-2">
                     <div class="col-sm-3">Action Receipt #</div>
                     <div class="col-sm-9">
                          Your Video Number is<br>
@@ -73,7 +73,7 @@
                         <div class="mb-4"><b>Email Distribution</b></div>
                         <div class="row">
                             <div class="col-sm pl-0 align-self-center">People on <br>Email List</div>
-                            <div class="col-sm">
+                            <div class="col-sm align-self-center">
                                   <div class="form-control b-radius-0">On</div>
                             </div>
                             <div class="col-sm">
@@ -91,7 +91,7 @@
                         <div class="my-4"><b>Broadcast Distribution (When Available)</b></div>
                         <div class="row">
                             <div class="col-sm pl-0">Agents in <br>Selected Suburbs</div>
-                            <div class="col-sm"><div class="form-control b-radius-0">On</div></div>
+                            <div class="col-sm align-self-center"><div class="form-control b-radius-0">On</div></div>
                             <div class="col-sm">
                                   <div class="row mt-2">
                                         <div class="col-sm align-self-center text-right p-0">$0</div>
