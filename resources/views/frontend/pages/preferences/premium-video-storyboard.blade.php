@@ -8,8 +8,8 @@
             @include('frontend.layouts.parts.sidebar')
         @endauth
         </div>
-        <div class="col-lg-8 my-account-form">
-            <h3 class="my-account-title">Custom Video - Storyboard</h3>
+        <div class="col-lg-8 my-account-form pb-4">
+            <h3 class="my-account-title">premium Video - Storyboard</h3>
             <table class="table-action mb-4" cellpadding="0" cellspacing="0" width="100%">
                 <tr class="bg-eae">
                     <td><b>Video #</b></td>
@@ -44,7 +44,7 @@
                           <label class="custom-control-label ml-1" for="customCheck2"></label>
                     </div>
               </div>
-              <div class="mr-auto p-0 align-self-center">Ready to proceed, please commence building my video</div>
+              <div class="mr-auto pt-2 align-self-center">Ready to proceed, please commence building my video</div>
               <div><button class="btn btn-primary btn-no-border b-radius-7 bg-009900 px-3"><b>GO</b></button></div>
             </div>
             <div class="video-system-con p-3">
@@ -183,6 +183,16 @@
                                 </div>
                             </div>
                     </div>
+            </div>
+            <div class="d-flex py-3 mb-4">
+              <div class="my-account-subcription mr-3">
+                    <div class="custom-control custom-checkbox basic">
+                          <input type="checkbox" class="custom-control-input" id="customCheck2">
+                          <label class="custom-control-label ml-1" for="customCheck2"></label>
+                    </div>
+              </div>
+              <div class="mr-auto pt-2 align-self-center">Ready to proceed, please commence building my video</div>
+              <div><button class="btn btn-primary btn-no-border b-radius-7 bg-009900 px-3"><b>GO</b></button></div>
             </div>
         </div>
     </div>
