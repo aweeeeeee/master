@@ -466,6 +466,8 @@ i.sv-save { background-position:-1px 0px; }
 i.sv-browse { background-position:-49px 0px; } 
 i.sv-move { background-position:-24px 0px; } 
 i.sv-pdf { background-position:-97px 0px; } 
+i.b-word { background-position:-117px 0px; } 
+i.sv-pdf2 { background-position:-138px 0px; } 
 i.account-icon { background:url(backgrounds/side-bar-icon.png); height:40px; width:41px; display:inline-block; vertical-align: middle; padding:10px 20px 10px 10px; }
 i.my-account { background-position:-83px 0px; }
 i.my-videos { background-position:-164px 0px; }

@@ -201,6 +201,8 @@ Route::get('/account/help/','MyVideoController@Help');
 
 Route::get('/account/direct-upload/','MyVideoController@DirectUpload');
 
+Route::get('/account/toolset/','MyVideoController@ToolSet');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

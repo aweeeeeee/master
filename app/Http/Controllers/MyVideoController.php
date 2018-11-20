@@ -121,4 +121,8 @@ class MyVideoController extends Controller
     {
         return view('frontend.pages.make-video.direct-upload');
     }
+    public function Toolset()
+    {
+        return view('frontend.pages.toolset');
+    }
 }
