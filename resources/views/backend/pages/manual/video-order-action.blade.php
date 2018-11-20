@@ -4,7 +4,7 @@
     <div class="content">
         <div class="row my-4">
             <div class="col-sm vao-content">
-                <h3 >Video Action Order</h3>
+                <h3 class="mb-4">Video Action Order</h3>
                 <table class="tbl-order tbl-w-1">
                     <tr>
                         <td>Type of Order</td>
@@ -45,7 +45,7 @@
                             <td>Post Code</td>
                         </tr>
                      </table>
-                     <div class="border-property mt-4">
+                     <div class="border-property mt-3 py-3">
                         <div class="row">
                             <div class="col-sm">
                                 <div class="d-flex flex-row">
@@ -75,17 +75,6 @@
                             </tr>
                         </table>
                 </div>
-                
-                <table>
-                    <tr>
-                        <td>
-                            
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Property Type</td>
-                    </tr>
-                </table>
             </div>
             <div class="col-sm">
                 <table class="tbl-order tbl-w-2">
@@ -157,16 +146,18 @@
               <table class="tbl-summary">
                 <tr>
                     <td>Summary of Video Parameters</td>
-                    <td> a </td>
+                    <td></td>
                     <td class="text-center">QA</td>
                     <td class="text-center">Time Stamp #</td>
                 </tr>
                 <tr>
                     <td>Details</td>  
-                    <td>
-                        #Pictures #00
-                        Template #00
-                        Est. Duration #00m:00s
+                    <td class="p-0">
+                        <div class="d-flex justify-content-start tbl-col-3">
+                            <div>#Pictures <span>#00</span></div>
+                            <div>Template <span>#00</span></div>
+                            <div>Est. Duration <span>#00m:00s</span></div>
+                        </div>
                     </td>
                     <td>
                         <div class="custom-control custom-checkbox">
@@ -178,7 +169,7 @@
                 </tr>
                 <tr>
                     <td>Script</td>
-                    <td>
+                    <td class="p-0">
                         <select class="form-control">
                             <option value="">< Compiled/Completed ></option>
                         </select>
@@ -274,7 +265,7 @@
                 <tr>
                     <td>Quality Assessment</td>
                     <td class="text-center">QA</td>  
-                    <td>Time Stamp #</td>  
+                    <td class="text-center">Time Stamp #</td>  
                 </tr>
                 <tr>
                     <td>
