@@ -142,7 +142,7 @@
           </li>
         </ul>
         <div class="tab-content" id="myTabContent">
-          <div class="tab-pane fade show active" id="summary" role="tabpanel" aria-labelledby="home-tab">
+          <div class="tab-pane fade show active p-3" id="summary" role="tabpanel" aria-labelledby="home-tab">
               <table class="tbl-summary">
                 <tr>
                     <td>Summary of Video Parameters</td>
@@ -326,7 +326,106 @@
             
           </div>
           <div class="tab-pane fade" id="activate-video" role="tabpanel" aria-labelledby="contact-tab">
-            
+                <div class="d-flex flex-column m-v-scroll p-3">
+                    <div>
+                        <div class="row tbl-av">
+                            <div class="col-sm-7 align-self-center"><input type="text" name="" class="form-control" placeholder="address (Short Format)"></div>
+                            <div class="col-sm align-self-center text-left">
+                                <div class="row">
+                                    <div class="col-sm">
+                                        <div><b>STATUS</b></div>
+                                        <div class="custom-control custom-checkbox open">
+                                                <input type="checkbox" class="custom-control-input" id="customOpen">
+                                                <label class="custom-control-label pl-3" for="customOpen">OPEN</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm">
+                                        <div> &nbsp; </div>
+                                        <div class="custom-control custom-checkbox closed">
+                                                <input type="checkbox" class="custom-control-input" id="customClosed">
+                                                <label class="custom-control-label pl-3" for="customClosed">CLOSED</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm">
+                                        <b>MY VIDEOS</b>
+                                        <div class="custom-control custom-checkbox on-off">
+                                                <input type="checkbox" class="custom-control-input" id="customON">
+                                                <label class="custom-control-label pl-3" for="customON">ON/OFF</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="my-3">
+                        <b>Video Template (No Subtitles)</b>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-rev"></i></div>
+                                <div class="col-sm">
+                                    <div>URL location</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-yt"></i></div>
+                                <div class="col-sm">
+                                    <div>URL location</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="my-3">
+                        <b>Video Template (Subtitles)</b>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-rev"></i></div>
+                                <div class="col-sm">
+                                    <div>URL location</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-yt"></i></div>
+                                <div class="col-sm">
+                                    <div>URL location</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="my-3">
+                        <b>Video No-Template (Subtitles)</b>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-rev"></i></div>
+                                <div class="col-sm">
+                                    <div>URL location</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-yt"></i></div>
+                                <div class="col-sm">
+                                    <div>URL location</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="my-3">
+                        <b>Video No-Template (No Subtitles)</b>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-rev"></i></div>
+                                <div class="col-sm">
+                                    <div>URL location</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-yt"></i></div>
+                                <div class="col-sm">
+                                    <div>URL location</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
           </div>
         </div>
         <div class="my-5"></div>
