@@ -75,7 +75,32 @@ i.a-s-icons-yt { background-position:-399px 0px; }
 .open .custom-control-input:checked~.custom-control-label::before { background:#3333cc; }
 .closed .custom-control-input:checked~.custom-control-label::before { background:#ff0033; }
 .on-off .custom-control-input:checked~.custom-control-label::before { background:#009900; }
-
+.pdf-icon { background:url(backgrounds/pdf.png); background-repeat:no-repeat; height:63px; width:51px; display:inline-block; }
+.storyboard-tab h3 { font-size:22px; font-family:Myriad Pro; margin:0px; margin-left:10px; }
+.storyboard-tab select { border:1px solid #cccccc; background-color: #ffffff; background-image: url(backgrounds/arrow-down.jpg); -moz-appearance: none; -webkit-appearance: none; background-repeat: no-repeat; background-position: right; border-radius:0px !important; }
+.storyboard-tab button { background:#006633; border:none; border-radius:7px; }
+i.standard-video { background:url(backgrounds/standard-video-icons.png); height:23px; width:23px; display:inline-block; margin-right:10px; vertical-align:middle; background-repeat:no-repeat; }
+i.sv-save { background-position:-1px 0px; } 
+.picture-uploader { border:1px solid #ccc; text-align:center; height:135px;padding:10% 0; }
+.board-data { background:#eaeaea; }
+.board-data div:first-child { width:250px; text-align:center; }
+.board-data div:last-child { border:1px solid #cccccc; background:#ffffff; width:450px; }
+.bg-efefef { background:#efefef; }
+.color-333 { color:#333333; }
+.border-data { border:1px solid #cccccc; } 
+.board-title > div { width:357px; }
+.board-title > div:first-child { margin-left:-15px; }
+.storyboard-tab img { width:215px; padding:20px 0px; }
+.border-data2 { border-left:1px solid #cccccc; width:160px; }
+.board-row > .col-md { border-left:1px solid #ccc; }
+.board-row > .col-md-3 div { margin-right:-15px; }
+.height-65 { height:65px; }
+.board-row2 .col-md { border-left:1px solid #cccccc; padding-left:14px; }
+.storyboard-form { margin-top:55px; }
+.storyboard-form input { width:100px; }
+.storyboard-form select { width:475px; }
+.board-upload { border-bottom:1px solid #ccc; }
+.height-90 { height:90px; }
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
     .bg-light { background:none !important; }
