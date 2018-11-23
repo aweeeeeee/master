@@ -54,11 +54,11 @@
                     <div>REVid Internal Systems</div>
                 </div>
             </div>
-            <div class="d-flex justify-content-end">
-                <div>
-                    <div class="d-inline-block"><a href="" class="nav-item">Log Out</a></div> 
-                    <div class="d-inline-block"><i class="menu-icon logout"></i></div>
-                </div>
+            <div class="d-flex justify-content-end mx-1">
+                    <div class="d-flex justify-content-start">
+                         <div><a href="" class="nav-item">Log Out</a></div>
+                         <div class="mx-2"><i class="menu-icon logout"></i></div>
+                    </div>
             </div>
         </div>
     </div>

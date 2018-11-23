@@ -205,7 +205,9 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Route::get('/video-action-order','OrderController@Home');
 
-Route::get('/video-action-manual','OrderController@Manual');
+Route::get('/video-action/{any}', function ($any) {
 
+    return view('backend.pages.order.video-order-action');
+
+})->where('any', '.*');
