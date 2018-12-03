@@ -129,7 +129,7 @@
                                 bg-ffbc00
                             @elseif (Request::segment(2) == 'custom')
                                 bg-0066ff
-                            @elseif (Request::segment(2) == 'auto')
+                            @elseif (Request::segment(2) == 'auto' || Request::segment(2) == 'auto-url')
                                 bg-ff3300
                             @endif color-fff">Date</td>
                         <td class="
@@ -137,7 +137,7 @@
                                 bg-ffbc00
                             @elseif (Request::segment(2) == 'custom')
                                 bg-0066ff
-                            @elseif (Request::segment(2) == 'auto')
+                            @elseif (Request::segment(2) == 'auto' || Request::segment(2) == 'auto-url')
                                 bg-ff3300
                             @endif color-fff">Time</td>
                     </tr>
@@ -633,7 +633,7 @@
                     </div>
                 </div>
           </div>
-          <div class="tab-pane fade" id="activate-video" role="tabpanel" aria-labelledby="contact-tab">
+          <div class="tab-pane fade" id="activate-video" role="tabpanel" aria-labelledby="video-tab">
                 <div class="d-flex flex-column m-v-scroll p-3">
                     <div>
                         <div class="row tbl-av">

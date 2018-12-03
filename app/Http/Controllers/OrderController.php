@@ -6,8 +6,8 @@ use Illuminate\Http\Request;
 
 class OrderController extends Controller
 {
-    public function Order()
+    public function UserSystem()
     {
-        return view('backend.pages.order.video-order-action');
+        return view('backend.pages.order.user');
     }
 }
