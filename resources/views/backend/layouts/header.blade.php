@@ -15,7 +15,7 @@
   <body>
     <div class="header-internal pt-4 pb-2">
         <div class="content">
-            @if (Request::segment(2) == 'user-system')
+            @if (Request::segment(1) == 'user-system')
                 <div class="d-flex justify-content-end mx-1">
                         <div class="d-flex justify-content-start">
                              <div><a href="" class="nav-item">Log Out</a></div>

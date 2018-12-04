@@ -59,19 +59,19 @@
                             <div class="col-sm">
                                 <div class="d-flex flex-row">
                                     <div class="bg-eae px-2 pt-2"><i class="d-u-icon"></i></div>
-                                    <input type="text" name="" class="form-control b-radius-0 ml-2 w-100" placeholder="Bedroom">
+                                    <div class="video-text ml-2">Bedroom</div>
                                 </div>
                             </div>
-                            <div class="col-sm">
+                            <div class="col-sm px-0">
                                  <div class="d-flex flex-row">
                                      <div class="bg-eae p-2"><i class="d-u-icon d-u-icon-bat"></i></div>
-                                     <input type="text" name="" class="form-control b-radius-0 ml-2 w-100" placeholder="Bathrooms">
+                                     <div class="video-text ml-2">Bathroom</div>
                                  </div>
                             </div>
                             <div class="col-sm">
                                  <div class="d-flex flex-row">
                                      <div class="bg-eae p-2"><i class="d-u-icon d-u-icon-car"></i></div>
-                                     <input type="text" name="" class="form-control b-radius-0 ml-2 w-100" placeholder="Cars">
+                                     <div class="video-text ml-2 w-100">Cars</div>
                                  </div>
                             </div>
                         </div>
@@ -248,6 +248,18 @@
                     <td></td>
                 </tr>
                 <tr>
+                    <td>Colour Selected</td>
+                    <td class="p-0">
+                        <div class="d-flex justify-content-start tbl-col-2">
+                            <div class="w-100">#XXXColour</span></div>
+                            <div class="w-100">#XXXColour</span></div>
+                        </div>
+                    </td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
                     <td>End Frame Template Selected</td>
                     <td></td>
                     <td></td>
@@ -257,6 +269,18 @@
                             <label class="custom-control-label" for="customControlInline"></label>
                         </div>
                     </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Colour Selected</td>
+                    <td class="p-0">
+                        <div class="d-flex justify-content-start tbl-col-2">
+                            <div class="w-100">#XXXColour</span></div>
+                            <div class="w-100">#XXXColour</span></div>
+                        </div>
+                    </td>
+                    <td></td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>

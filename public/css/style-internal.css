@@ -16,7 +16,7 @@ i.vs { background-position:0px 0px; width:20px; }
 i.us { background-position:-21px 0px; width:21px; }
 i.mngr { background-position:-47px 0px; width:21px; }
 i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:inline-block; width:21px; }
-.tbl-order,.tbl-summary,.tbl-order-2 { border:1px solid #cccccc; }
+.tbl-order,.tbl-summary,.tbl-order-2 { border:1px solid #cccccc; font-family:arial; }
 .tbl-order tr td,.tbl-order-2 tr td,.tbl-order-3 tr td,.tbl-order-4 tr td,.tbl-order-5 tr td  { padding:10px; }
 .tbl-order-2 { width:458px; }
 .tbl-order tr td:first-child,.tbl-order-5 tr td:first-child { border-right:1px solid #cccccc; }
@@ -48,7 +48,7 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .nav-tabs-user .nav-link:hover { background:#ffce00; border-color:#ffce00; }
 .tab-content { border-left:2px solid #ffce00; border-right:2px solid #ffce00; border-bottom:2px solid #ffce00; }
 .tab-content input { border-radius:0px; }
-.tbl-summary tr td:nth-child(2) { border-left:1px solid #ccc; border-right:1px solid #ccc; width:435px; }
+.tbl-summary tr td:nth-child(2) { border-left:1px solid #ccc; border-right:1px solid #ccc; width:430px; }
 .tbl-qa tr td:nth-child(3) { border-left:1px solid #ccc; border-right:1px solid #ccc; }
 .tbl-summary tr td:not(:nth-child(3)),.tbl-qa tr td:not(:nth-child(2)) { border-bottom:1px solid #ccc; padding:10px; }
 .tbl-summary tr:first-child td,.tbl-qa tr:first-child td { background:#e5e5e5; }
@@ -59,7 +59,7 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .tbl-summary .custom-control-label::before,.tbl-qa .custom-control-label::before,.tbl-pay .custom-control-label::before { margin-top:-5px; width:22px; height:22px; background-color:#fff; border:1px solid #666666; }
 .tbl-summary .custom-control-label::after,.tbl-qa .custom-control-label::after,.tbl-pay .custom-control-label::after  { margin-top:-5px; width:22px; height:22px; } 
 .tbl-col-3 div:nth-child(2) { border-left:1px solid #cccccc; border-right:1px solid #cccccc; }
-.tbl-col-3 div { padding:10px; }
+.tbl-col-3 div,.tbl-col-2 div { padding:10px; }
 .tbl-col-3 span { color:#ff3300; }
 .tbl-qa { width:940px; }
 .tbl-qa tr:last-child td:first-child { border-left:1px solid #ccc; }
@@ -141,7 +141,27 @@ button.per-month { background-color: #0066ff; color: #fff; width: 100%; font-fam
 .plan-data { border:1px solid #ccc; margin-top:20px; }
 .plan-data div { padding:5px 10px; }
 .plan-data div:first-child { border-right:1px solid #ccc; }
-
+.form-color .col-sm:first-child,.tbl-col-2 div:first-child { border-right:1px solid #ccc; }
+.billing-button button { padding:5px 10px 0px 5px; width:128px; border:1px solid #f292a5; background-color:#ff0033; border-radius:7px; }
+.billing-button span { vertical-align:text-bottom; padding-left:10px; }
+.billing-a { padding:0px 10px; width:120px; }
+.billing-border { border:1px solid #999999; padding:10px 15px; margin-bottom:20px; }
+.billing-border h3,.balance-amount h3 { color: #424244; font-size: 20px; font-weight: bold; margin:0px; }
+.billing-arrow { border-left: 20px solid transparent; border-right: 20px solid transparent; border-bottom: 20px solid #939393; width:0px; height:0px; }
+.billing-table { border:1px solid #999999; }
+.billing-data { border:1px solid #999999; background:#e8e8e8; padding:5px 10px 5px 30px; margin-top:20px; }
+.billing-table tr td { border-bottom:1px solid #999999; padding:10px; }
+.billing-table tr td:nth-child(2) { border-left:1px solid #999999; border-right:1px solid #999999; width:715px; }
+.billing-table tr td:first-child { text-align:center; }
+.billing-table tr td:last-child,.billing-table span { text-align:right; }
+.billing-amount { border:1px solid #999999; padding:5px 10px; font-size:20px; }
+.border-l-r-666 { border-left: 1px solid #cccccc; border-right: 1px solid #cccccc; }
+i.billing-icon { background:url(backgrounds/billing-icon.png);  display:inline-block; }
+i.billing-print { height:25px; width:24px; background-position:-1px 0px; } 
+i.billing-download { height:25px; width:24px; background-position:-26px 0px; } 
+i.billing-email { height:25px; width:27px; background-position:-51px 0px; } 
+i.billing-query { height:25px; width:27px; background-position:-78px 0px; } 
+.paid-amount { color:#ff0033; }
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
     .bg-light { background:none !important; }
