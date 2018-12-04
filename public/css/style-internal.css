@@ -34,7 +34,7 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .tbl-w-4 td { width:260px; }
 .tbl-last { border-bottom:1px solid #cccccc; border-left:1px solid #cccccc; border-right:1px solid #cccccc; }
 .tbl-last tr td,.tbl-w-2 tr td { width:240px; padding:10px; }
-.tbl-last tr td:first-child,.tbl-summary tr td:nth-child(3) { border-right:1px solid #cccccc; }
+.tbl-last tr td:first-child,.tbl-summary tr td:nth-child(4) { border-right:1px solid #cccccc; }
 .nav-tabs { border-bottom:5px solid #FFCE00; }
 .nav-tabs .nav-item { width:calc(980px/3); }
 .nav-tabs .nav-link.active { background:#ffce00; border-color:#ffce00; border-radius:0px; color:#333333; }
@@ -49,11 +49,12 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .tab-content { border-left:2px solid #ffce00; border-right:2px solid #ffce00; border-bottom:2px solid #ffce00; }
 .tab-content input { border-radius:0px; }
 .tbl-summary tr td:nth-child(2) { border-left:1px solid #ccc; border-right:1px solid #ccc; width:435px; }
-.tbl-qa tr td:nth-child(2) { border-left:1px solid #ccc; border-right:1px solid #ccc; }
-.tbl-summary tr td,.tbl-qa tr td { border-bottom:1px solid #ccc; padding:10px; }
+.tbl-qa tr td:nth-child(3) { border-left:1px solid #ccc; border-right:1px solid #ccc; }
+.tbl-summary tr td:not(:nth-child(3)),.tbl-qa tr td:not(:nth-child(2)) { border-bottom:1px solid #ccc; padding:10px; }
 .tbl-summary tr:first-child td,.tbl-qa tr:first-child td { background:#e5e5e5; }
-.tbl-summary tr td:nth-child(3) { width:120px; }
-.tbl-summary tr td:nth-child(3) div { margin-left:40px; }
+.tbl-summary tr td:nth-child(3),.tbl-qa tr td:nth-child(2) { border-bottom:1px solid #ccc; border-left:1px solid #ccc; border-right:1px solid #ccc; width:3px; }
+.tbl-summary tr td:nth-child(4) { width:120px; }
+.tbl-summary tr td:nth-child(4) div { margin-left:40px; }
 .tbl-summary tr td:last-child { width:150px; }
 .tbl-summary .custom-control-label::before,.tbl-qa .custom-control-label::before,.tbl-pay .custom-control-label::before { margin-top:-5px; width:22px; height:22px; background-color:#fff; border:1px solid #666666; }
 .tbl-summary .custom-control-label::after,.tbl-qa .custom-control-label::after,.tbl-pay .custom-control-label::after  { margin-top:-5px; width:22px; height:22px; } 
@@ -63,8 +64,8 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .tbl-qa { width:940px; }
 .tbl-qa tr:last-child td:first-child { border-left:1px solid #ccc; }
 .tbl-qa tr:last-child td:last-child { border-right:1px solid #ccc; }
-.tbl-qa tr td:first-child { width:675px; }
-.tbl-qa tr td:nth-child(2) { width:120px; }
+.tbl-qa tr td:first-child { width:670px; }
+.tbl-qa tr td:nth-child(3) { width:120px; }
 .tbl-summary select { border:none; background-color: #ffffff; background-image: url(backgrounds/arrow-down.jpg); -moz-appearance: none; -webkit-appearance: none; background-repeat: no-repeat; background-position: right; border-radius:0px !important; }
 .tbl-qa .custom-control { width:22px !important; margin:0px auto !important; }
 .tbl-av .custom-control { width:22px !important; }
@@ -137,6 +138,10 @@ button.per-month { background-color: #0066ff; color: #fff; width: 100%; font-fam
 .tbl-order-5 td:last-child { width:359px; }
 .email-scroll { overflow-y: scroll; overflow-x: hidden; background: #ffffff; border: 1px solid #cccccc; height: 200px; }
 .email-scroll ul { list-style-type: none; padding: 10px; } 
+.plan-data { border:1px solid #ccc; margin-top:20px; }
+.plan-data div { padding:5px 10px; }
+.plan-data div:first-child { border-right:1px solid #ccc; }
+
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
     .bg-light { background:none !important; }

@@ -161,7 +161,7 @@
                         <td></td>
                     </tr>
                     <tr>
-                        <td>email</td>
+                        <td>Email</td>
                         <td></td>
                     </tr>
                 </table>
@@ -185,6 +185,7 @@
                 <tr>
                     <td>Summary of Video Parameters</td>
                     <td></td>
+                    <td></td>
                     <td class="text-center">QA</td>
                     <td class="text-center">Time Stamp #</td>
                 </tr>
@@ -197,6 +198,7 @@
                             <div>Est. Duration <span>#00m:00s</span></div>
                         </div>
                     </td>
+                    <td></td>
                     <td>
                         <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="customControlInline">
@@ -212,6 +214,7 @@
                             <option value="">< Compiled/Completed ></option>
                         </select>
                     </td>
+                    <td></td>
                     <td>
                         <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="customControlInline">
@@ -222,6 +225,7 @@
                 </tr>
                 <tr>
                     <td>Opening Animation</td>
+                    <td></td>
                     <td></td>
                     <td>
                         <div class="custom-control custom-checkbox">
@@ -234,6 +238,7 @@
                 <tr>
                     <td>Main Frame Template Selected</td>
                     <td></td>
+                    <td></td>
                     <td>
                         <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="customControlInline">
@@ -245,6 +250,7 @@
                 <tr>
                     <td>End Frame Template Selected</td>
                     <td></td>
+                    <td></td>
                     <td>
                         <div class="custom-control custom-checkbox">
                             <input type="checkbox" class="custom-control-input" id="customControlInline">
@@ -255,6 +261,7 @@
                 </tr>
                 <tr>
                     <td>Closing Animation</td>
+                    <td></td>
                     <td></td>
                     <td>
                         <div class="custom-control custom-checkbox">
@@ -269,9 +276,11 @@
                     <td></td>
                     <td></td>
                     <td></td>
+                    <td></td>
                 </tr>
                 <tr>
                     <td>Voice Selected for this Video</td>
+                    <td></td>
                     <td></td>
                     <td>
                         <div class="custom-control custom-checkbox">
@@ -286,9 +295,11 @@
                     <td></td>
                     <td></td>
                     <td></td>
+                    <td></td>
                 </tr>
                 <tr>
                     <td>Music Selected for this Video</td>
+                    <td></td>
                     <td></td>
                     <td>
                         <div class="custom-control custom-checkbox">
@@ -302,6 +313,7 @@
               <table class="tbl-qa mt-4">
                 <tr>
                     <td>Quality Assessment</td>
+                    <td></td>
                     <td class="text-center">QA</td>  
                     <td class="text-center">Time Stamp #</td>  
                 </tr>
@@ -344,7 +356,8 @@
                                 Great
                             </div>
                         </div>     
-                    </td>  
+                    </td>
+                    <td></td>
                     <td>
                         <div class="custom-control custom-checkbox">
                                     <input type="checkbox" class="custom-control-input" id="customControlInline">
