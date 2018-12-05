@@ -213,3 +213,7 @@ Route::get('/video-action/{any}', function ($any) {
 })->where('any', '.*');
 
 Route::get('/user-system', 'OrderController@UserSystem');
+
+Route::get('/internal-login', function () {
+    return view('backend.pages.order.login');
+});
