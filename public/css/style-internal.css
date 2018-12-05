@@ -176,9 +176,9 @@ i.billing-query { height:25px; width:27px; background-position:-78px 0px; }
 .internal-form form { padding:20px; background:#ffe780; margin:20px 0px 10px; }
 .internal-form form h3 { font-size:18px; }
 .internal-form form a { color:#666666; }
-.internal-form button { background:#ff3300; border:none; border-radius:7px; }
+.internal-form button { background:#ff3300; border:none; border-radius:7px; font-family:arial; }
 .internal-form input { border:1px solid #ccc; border-radius:0px; }
- .FormContaniner{ display:table; height:100%; margin: 0 auto; }
+.FormContaniner{ display:table; height:100%; margin: 0 auto; }
 .parentContainer{ display:table-cell; vertical-align:middle; }
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
