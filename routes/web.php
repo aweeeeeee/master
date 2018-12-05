@@ -145,6 +145,10 @@ Route::get('/direct-upload', function () {
     return view('frontend.pages.direct-upload');
 });
 
+Route::get('/session-expired', function () {
+    return view('frontend.pages.session-expired');
+});
+
 Route::get('/account/home','MyAccountController@index');
 
 Route::get('/account/videos','MyVideoController@index');

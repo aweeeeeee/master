@@ -1,6 +1,6 @@
 <footer class="py-3 bg-dark">
       <div class="container">
-                  @if (Request::segment(2) != '1') 
+                  @if (Request::segment(2) != '1' && Request::segment(1) != 'session-expired') 
                       <div class="footer-con">
                           <h6 class="text-center">Your First Real Estate Video is <span>FREE</span>, Try Today!</h6>
                           <form>
