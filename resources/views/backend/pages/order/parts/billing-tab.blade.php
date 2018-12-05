@@ -126,39 +126,31 @@
                     </tr>
                 </table>
                 <div class="d-flex justify-content-end">
-                    <table cellpadding="0" cellspacing="0" class="billing-table bg-e8e8e8" width="250">
+                    <table cellpadding="0" cellspacing="0" class="billing-table-2 bg-e8e8e8">
                         <tr class="bg-e8e8e8">
-                            <td class="text-right" width="128"><span class="font-weight-bold">GST</span></td>
+                            <td class="text-right"><span><b>GST</b></span></td>
                             <td>$10.00</td>
                         </tr>
                         <tr>
-                            <td class="text-right"><span class="font-weight-bold">Total</span></td>
+                            <td class="text-right"><span><b>Total</b></span></td>
                             <td>$110.00</td>
                         </tr>
                     </table>
                 </div>
                 <div class="mt-3 mb-2"><b>PAYMENT/RECEIPT</b></div>
-                <div class="row mb-2">
-                    <div class="col-sm-2 text-right">Paid</div>
-                    <div class="col-sm-5">Credit Card XXX-0004</div>
-                    <div class="col-sm-5 pr-0">
-                        <div class="d-flex justify-content-between">
-                            <div>Amount Paid</div>
-                            <div class="billing-a border-l-r-666 text-right">$0.00</div>
-                        </div>
-                    </div>
+                <div class="d-flex flex-row payment-data mb-3">
+                    <div>Paid</div>
+                    <div>Credit Card XXX-0004</div>
+                    <div>Amount Paid</div>  
+                    <div>$0.00</div>
                 </div>
-                <div class="row">
-                    <div class="col-sm-2 text-right">Date</div>
-                    <div class="col-sm-5">November 6 2017</div>
-                    <div class="col-sm-5 pr-0">
-                        <div class="d-flex justify-content-between">
-                            <div>Balance</div>
-                            <div class="billing-a border-l-r-666 text-right">$0.00</div>
-                        </div>
-                    </div>
+                <div class="d-flex flex-row payment-data">
+                    <div>Date</div>
+                    <div>November 6 2017</div>
+                    <div>Balance</div>  
+                    <div>$0.00</div>
                 </div>
-                <div class="d-flex justify-content-end mt-3">
+                <div class="d-flex flex-row mt-3 payment-button">
                     <div>
                         <div class="billing-button text-right">
                             <div class="d-inline-block">

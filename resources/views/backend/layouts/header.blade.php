@@ -69,7 +69,7 @@
                              <div class="mx-2"><i class="menu-icon logout"></i></div>
                         </div>
                 </div>
-            @endif
+            @else <br> @endif
         </div>
     </div>
   @yield('content')

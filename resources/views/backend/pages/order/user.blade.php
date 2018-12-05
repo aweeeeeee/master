@@ -41,6 +41,9 @@
           <div class="tab-pane fade p-3" id="billing" role="tabpanel" aria-labelledby="billing-tab">
                 @include('backend.pages.order.parts.billing-tab')
           </div>
+          <div class="tab-pane fade p-3" id="security" role="tabpanel" aria-labelledby="security-tab">
+                @include('backend.pages.order.parts.security-tab')
+          </div>
         </div>
     </div>
 @endsection
