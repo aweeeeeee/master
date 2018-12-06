@@ -75,6 +75,9 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 i.d-u-icon { background:url(backgrounds/direct-upload-icon2.png); background-repeat:no-repeat; height:15px; width:25px; display:inline-block; }
 i.d-u-icon-bat { background-position:-23px 0px; }
 i.d-u-icon-car { background-position:-47px 0px; }
+i.a-s-icons { background:url(backgrounds/social-icons-v3.png); height:60px; width:60px; display:inline-block; }
+i.a-s-icons-rev { background-position:-334px 0px; }
+i.a-s-icons-yt { background-position:-399px 0px; }
 .bg-eae { background:#eaeaea; }
 .border-property { padding:10px; border-top:1px solid #cccccc; border-left:1px solid #cccccc; border-right:1px solid #cccccc; }
 .border-property input,.user-form input,.search-container input { border-radius:0px; }
