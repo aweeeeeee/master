@@ -6,7 +6,7 @@
         <div class="border-bot5 mb-5 pb-5">
         <div class="col-6 mx-auto h-col-1">
             <div class="text-center my-3"><img class="img-fluid" src={{ asset('storage/session-expired.png') }} /></div>
-            <form class="frontpage-login mt-2" method="POST" action="{{ route('login') }}">
+            <form class="frontpage-login mt-4" method="POST" action="{{ route('login') }}">
                             {{ csrf_field() }}
                         <h3><b>Your session has expired due to inactivity</b></h3>
                         <div class="color-666 font14 my-3">Please <b>Log In</b> to continue creating your next great REVid Video:</div>
