@@ -46,7 +46,7 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .nav-tabs-user .nav-link.active { background:#ffce00; border-color:#ffce00; border-radius:0px; color:#333333; }
 .nav-tabs-user .nav-link { background:#e5e5e5; border-radius:0px; color:#333333; border-left:2px solid #fff; font-size:18px; font-weight:bold; }
 .nav-tabs-user .nav-link:hover { background:#ffce00; border-color:#ffce00; }
-.tab-content { border-left:2px solid #ffce00; border-right:2px solid #ffce00; border-bottom:2px solid #ffce00; }
+.tab-content { border-left:2px solid #ffce00; border-right:2px solid #ffce00; border-bottom:2px solid #ffce00; font-family:arial; }
 .tab-content input { border-radius:0px; }
 .tbl-summary tr td:nth-child(2) { border-left:1px solid #ccc; border-right:1px solid #ccc; width:430px; }
 .tbl-qa tr td:nth-child(3) { border-left:1px solid #ccc; border-right:1px solid #ccc; }

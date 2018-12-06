@@ -110,7 +110,6 @@
                             <div class="video-text">ACN/ABN</div>
                             <div class="video-text">Address 1</div>
                             <div class="video-text">Address 2</div>
-                            <div class="video-text">ACN/ABN</div>
                             <div class="video-text">Suburb</div>
                             <div>
                                 <div class="row m-r-l">

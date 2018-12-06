@@ -1,7 +1,7 @@
 
             <div class="d-flex flex-row-reverse mb-3">
                  <div class="billing-amount">$XXX.XX</div>
-                 <div class="align-self-center balance-amount mx-3"><h3>Balance Amount</h3></div>
+                 <div class="align-self-center balance-amount mx-3"><h3>Balance Outstanding</h3></div>
             </div>
             <div class="row font-weight-bold mb-5">
                 <div class="col-sm-2 pl-4">Date</div>
@@ -155,22 +155,22 @@
                         <div class="billing-button text-right">
                             <div class="d-inline-block">
                                 <button type="submit" class="btn btn-primary btn-ff0033">
-                                    <i class="billing-icon billing-print"></i><span class="align-self-center">Print</span>
+                                    <i class="billing-icon billing-print"></i><span class="align-self-center"><b>Print</b></span>
                                 </button>
                             </div>
                             <div class="d-inline-block">
                                 <button type="submit" class="btn btn-primary btn-ff0033">
-                                   <i class="billing-icon billing-download"></i><span>Download</span>
+                                   <i class="billing-icon billing-download"></i><span><b>Download</b></span>
                                 </button>
                             </div>
                             <div class="d-inline-block">
                                 <button type="submit" class="btn btn-primary btn-ff0033">
-                                   <i class="billing-icon billing-email"></i><span class="pl-2">Email</span>
+                                   <i class="billing-icon billing-email"></i><span class="pl-2"><b>Email</b></span>
                                 </button>
                             </div>
                             <div class="d-inline-block">
                                 <button type="submit" class="btn btn-primary btn-ff0033">
-                                   <i class="billing-icon billing-query"></i><span class="pl-2">Query</span>
+                                   <i class="billing-icon billing-query"></i><span class="pl-2"><b>Query</b></span>
                                 </button>
                             </div>
                         </div>
