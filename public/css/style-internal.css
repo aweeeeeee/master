@@ -180,6 +180,11 @@ i.billing-query { height:25px; width:27px; background-position:-78px 0px; }
 .internal-form input { border:1px solid #ccc; border-radius:0px; }
 .FormContaniner{ display:table; height:100%; margin: 0 auto; }
 .parentContainer{ display:table-cell; vertical-align:middle; }
+.setting-r-1 > div:first-child { width:348px; }
+.setting-r-1 > div:nth-child(2),.setting-r-1 > div:nth-child(3) { width:140px; }
+.setting-r-1 > div:last-child { width:200px; }
+.setting-r-3 > div:nth-child(odd) { width:157px; }
+.setting-r-1 .video-text,.setting-r-2 > div,.setting-r-3 .video-text { width:315px; }
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
     .bg-light { background:none !important; }

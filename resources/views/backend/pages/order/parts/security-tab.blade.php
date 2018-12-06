@@ -1,31 +1,31 @@
-<div class="row">
-    <div class="col-sm balance-amount"><h3>Settings</h3></div>
-    <div class="col-sm-2 tbl-pay">
+<div class="d-flex justify-content-start setting-r-1">
+    <div class="balance-amount align-self-center"><h3>Settings</h3></div>
+    <div class="tbl-pay align-self-center">
             <div class="custom-control custom-checkbox">
                     <input type="checkbox" class="custom-control-input" id="Active">
                     <label class="custom-control-label pl-3" for="Active">Active</label>
             </div>
     </div>
-    <div class="col-sm-2 tbl-pay">
+    <div class="tbl-pay align-self-center">
             <div class="custom-control custom-checkbox">
                     <input type="checkbox" class="custom-control-input" id="Suspend">
                     <label class="custom-control-label pl-3" for="Suspend">Suspend</label>
             </div>
     </div>
-    <div class="col-sm">
+    <div class="">
         <div class="video-text">Date of Suspend</div>
     </div>
 </div>
-<div class="d-flex flex-row">
-    <div class="video-text w-100">Terms and Conditions</div>
-    <div class="video-text w-100">Version</div>
-    <div class="video-text w-100">Date</div>
+<div class="d-flex flex-row setting-r-2 my-3">
+    <div class="video-text">Terms and Conditions</div>
+    <div class="video-text">Version</div>
+    <div class="video-text">Date</div>
 </div>
-<div class="row">
-    <div class="col-sm">Security Email</div>
-    <div class="col-sm"><div class="video-text">Email #</div></div>
-    <div class="col-sm">Security Mobile</div>
-    <div class="col-sm"><div class="video-text">Mobile #</div></div>
+<div class="d-flex justify-content-start setting-r-3">
+    <div class="align-self-center text-center">Security Email</div>
+    <div><div class="video-text">Email #</div></div>
+    <div class="align-self-center text-center">Security Mobile</div>
+    <div><div class="video-text">Mobile #</div></div>
 </div>
 <table class="tbl-account w-100 mt-3">
     <tr>
