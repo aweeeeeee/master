@@ -17,7 +17,7 @@ i.us { background-position:-21px 0px; width:21px; }
 i.mngr { background-position:-47px 0px; width:21px; }
 i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:inline-block; width:21px; }
 .tbl-order,.tbl-summary,.tbl-order-2 { border:1px solid #cccccc; font-family:arial; }
-.tbl-order tr td,.tbl-order-2 tr td,.tbl-order-3 tr td,.tbl-order-4 tr td,.tbl-order-5 tr td,.tbl-account tr td { padding:10px; }
+.tbl-order tr td,.tbl-order-2 tr td,.tbl-order-3 tr td,.tbl-order-4 tr td,.tbl-order-5 tr td,.tbl-account tr td,.tbl-list-order tr td { padding:10px; }
 .tbl-order-2 { width:458px; }
 .tbl-order tr td:first-child,.tbl-order-5 tr td:first-child { border-right:1px solid #cccccc; }
 .tbl-order tr:not(:last-child) td { border-bottom:1px solid #cccccc; }
@@ -51,7 +51,7 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .tbl-summary tr td:nth-child(2) { border-left:1px solid #ccc; border-right:1px solid #ccc; width:430px; }
 .tbl-qa tr td:nth-child(3) { border-left:1px solid #ccc; border-right:1px solid #ccc; }
 .tbl-summary tr td:not(:nth-child(3)),.tbl-qa tr td:not(:nth-child(2)) { border-bottom:1px solid #ccc; padding:10px; }
-.tbl-summary tr:first-child td,.tbl-qa tr:first-child td { background:#e5e5e5; }
+.tbl-summary tr:first-child td,.tbl-qa tr:first-child td,.tbl-list-order tr:first-child td { background:#e5e5e5; }
 .tbl-summary tr td:nth-child(3),.tbl-qa tr td:nth-child(2) { border-bottom:1px solid #ccc; border-left:1px solid #ccc; border-right:1px solid #ccc; width:3px; }
 .tbl-summary tr td:nth-child(4) { width:120px; }
 .tbl-summary tr td:nth-child(4) div { margin-left:40px; }
@@ -185,6 +185,9 @@ i.billing-query { height:25px; width:27px; background-position:-78px 0px; }
 .setting-r-1 > div:last-child { width:200px; }
 .setting-r-3 > div:nth-child(odd) { width:157px; }
 .setting-r-1 .video-text,.setting-r-2 > div,.setting-r-3 .video-text { width:315px; }
+.tbl-list-order tr:nth-child(n+2) td { border-top:1px solid #666; }
+.tbl-list-order tr td:nth-child(-n+5) { border-right:1px solid #666; }
+.manager-form select { background-color:#ffffff; background-image:url(backgrounds/arrow-down.jpg);  -moz-appearance: none;  -webkit-appearance:none; background-repeat:no-repeat; background-position:right; border-radius:0px; }
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
     .bg-light { background:none !important; }

@@ -217,3 +217,7 @@ Route::get('/user-system', 'OrderController@UserSystem');
 Route::get('/internal-login', function () {
     return view('backend.pages.order.login');
 });
+
+Route::get('/manager', function () {
+    return view('backend.pages.order.manager');
+});
