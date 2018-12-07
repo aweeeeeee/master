@@ -190,6 +190,12 @@
                 @include('backend.pages.order.parts.activate-video')
           </div>
         </div>
+        
+        <!--use for tab storybord -->
+        <!--<div class="my-3 back-btn">
+            <button class="btn btn-primary bg-333 px-4"><i class="arrow-left"></i> BACK</button>
+        </div>-->
+        <!-- end -->
     </div>
 
 @endsection

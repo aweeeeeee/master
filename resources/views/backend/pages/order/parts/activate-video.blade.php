@@ -79,6 +79,13 @@
                                     <div><input type="text" name="" class="form-control"></div>
                                 </div>
                         </div>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-url"></i></div>
+                                <div class="col-sm">
+                                    <div>URL location</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
                     </div>
                     <div class="my-3">
                         <b>Video No-Template (No Subtitles)</b>

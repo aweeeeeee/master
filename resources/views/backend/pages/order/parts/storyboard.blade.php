@@ -1,6 +1,50 @@
-                <div class="board-upload">
+<div class="row">
+    <div class="col-sm">
+        <div class="storyboard-title my-3"><b>Main Template</b></div>
+        <img class="img-fluid w-100 p-0" src={{ asset('storage/blank-template.jpg') }} />
+        <div class="row mt-3">
+            <div class="col-sm align-self-center">
+                <b>Colour Selector</b>
+                <div class="d-flex flex-row colour-width">
+                     <div class="circle-area bg-6600cc"></div>
+                     <div>#6600cc</div>
+                     <div class="circle-area bg-333"></div>
+                     <div>#333333</div>
+                </div>
+
+            </div>
+            <div class="col-sm-auto align-self-center">
+                 <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-0066ff">
+                        <i class="standard-video sv-export"></i><b>EXPORT</b>
+                 </button>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm">
+        <div class="storyboard-title my-3"><b>End Template</b></div>
+        <img class="img-fluid w-100 p-0" src={{ asset('storage/blank-template.jpg') }} />
+        <div class="row mt-3">
+            <div class="col-sm align-self-center">
+                <b>Colour Selector</b>
+                <div class="d-flex flex-row colour-width">
+                     <div class="circle-area bg-6600cc"></div>
+                     <div>#6600cc</div>
+                     <div class="circle-area bg-333"></div>
+                     <div>#333333</div>
+                </div>
+
+            </div>
+            <div class="col-sm-auto align-self-center">
+                 <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-0066ff">
+                        <i class="standard-video sv-export"></i><b>EXPORT</b>
+                 </button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="board-upload mt-3">
                 <div class="row board-row2">
-                    <div class="col-md-3 pt-3">
+                    <div class="col-md-3">
                         <b>Uploads</b>
                         <div>Property Description</div>
                         <div class="d-flex justify-content-start bg-eae p-2 mt-2 mb-3">
