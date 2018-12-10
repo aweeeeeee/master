@@ -62,7 +62,7 @@
                     <div>REVid Internal Systems</div>
                 </div>
             </div>
-            @if (Request::segment(1) == 'video-action')
+            @if (Request::segment(1) == 'video-action' || Request::segment(1) == 'manager')
                 <div class="d-flex justify-content-end mx-1">
                         <div class="d-flex justify-content-start">
                              <div><a href="" class="nav-item">Log Out</a></div>

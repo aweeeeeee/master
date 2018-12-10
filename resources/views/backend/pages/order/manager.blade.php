@@ -8,19 +8,18 @@
     </div>
    
     <div class="content">
-        <div class="row">
+        <div class="row dashboard-form mb-5">
             <div class="col-sm-3 manager-form">
-                <h3>Dashboard</h3>
+                <h3 class="top">Dashboard</h3>
                 <div class="video-text my-3">Today’s Date</div>
                 <select class="form-control" name="">
                     <option>Period</option>
                 </select>
                 <div class="video-text my-3">Set Date Range</div>
-                <div class="d-flex flex-row">
-                    <div class="video-text">FROM</div>
-                    <div class="video-text">TO</div>
+                <div class="d-flex justify-content-between">
+                    <div class="video-text">From</div>
+                    <div class="video-text">To</div>
                 </div>
-                
             </div>
             <div class="col-sm">
                 <div class="row">
@@ -39,24 +38,29 @@
                     <div class="col-sm"><div class="video-text text-right">%</div></div>
                 </div>
                 <div class="row my-3">
-                    <div class="col-sm">Video Types Auto</div>
+                    <div class="col-sm">
+                        <div class="d-flex justify-content-between line-height20">
+                            <div>Video <br>Types</div>
+                            <div class="align-self-center">Auto</div>
+                        </div>
+                    </div>
                     <div class="col-sm"><div class="video-text">#</div></div>
                     <div class="col-sm"><div class="video-text text-right">%</div></div>
                 </div>
                 <div class="row">
-                    <div class="col-sm">Manual</div>
+                    <div class="col-sm text-right">Manual</div>
                     <div class="col-sm"><div class="video-text">#</div></div>
                     <div class="col-sm"><div class="video-text text-right">%</div></div>
                 </div>
                 <div class="row my-3">
-                    <div class="col-sm">Custom</div>
+                    <div class="col-sm text-right">Custom</div>
                     <div class="col-sm"><div class="video-text">#</div></div>
                     <div class="col-sm"><div class="video-text text-right">%</div></div>
                 </div>
 
             </div>
             <div class="col-sm-3">
-                <h3>Total Videos</h3>
+                <h3 class="top">Total Videos</h3>
                 <div class="video-text my-3">#</div>
                 <div class="row">
                     <div class="col-sm"><div class="video-text">#</div></div>
@@ -70,11 +74,11 @@
                     <div class="col-sm"><div class="video-text">#</div></div>
                     <div class="col-sm"><div class="video-text text-right">%</div></div>
                 </div>
-                <h3>Total Users</h3>
+                <h3 class="my-4">Total Users</h3>
                 <div class="video-text">#</div>
             </div>
         </div>
-        <ul class="nav nav-tabs-user" id="myTab" role="tablist">
+        <ul class="nav nav-tabs-manager" id="myTab" role="tablist">
               <li class="nav-item">
                 <a class="nav-link active" id="open-tab" data-toggle="tab" href="#open-orders" role="tab" aria-controls="open-orders" aria-selected="true">OPEN ORDERS</a>
               </li>
@@ -83,15 +87,79 @@
               </li>
             </ul>
             <div class="tab-content mb-5" id="myTabContent">
-              <div class="tab-pane fade user-btn active show" id="open-orders" role="tabpanel" aria-labelledby="open-tab">
+              <div class="tab-pane fade active show user-btn" id="open-orders" role="tabpanel" aria-labelledby="open-tab">
                     <table class="tbl-list-order">
                         <tr>
-                            <td>Video #</td>
-                            <td>Order Date</td>
-                            <td>Due Date</td>
-                            <td>Type</td>
-                            <td>Compiler</td>
-                            <td>Editor</td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Video #</div>
+                                    <div><i class="arrow-down"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Order Date</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Due Date</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Type</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Compiler</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Editor</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> &nbsp; </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td class="compiler-form">
+                                <select class="form-control" name="">
+                                    <option>Compiler 1</option>
+                                    <option>Compiler 2</option>
+                                    <option>Compiler 3</option>
+                                    <option>Compiler 4</option>
+                                    <option>Compiler 5</option>
+                                    <option>Compiler 6</option>
+                                </select>
+                            </td>
+                            <td class="compiler-form">
+                                <select class="form-control" name="">
+                                    <option>Editor 1</option>
+                                    <option>Editor 2</option>
+                                    <option>Editor 3</option>
+                                    <option>Editor 4</option>
+                                    <option>Editor 5</option>
+                                    <option>Editor 6</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> &nbsp; </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
@@ -111,8 +179,79 @@
                         </tr>
                     </table>
               </div>
-              <div class="tab-pane fade active p-3 user-btn" id="closed-orders" role="tabpanel" aria-labelledby="closed-tab">
-                    a
+              <div class="tab-pane fade user-btn" id="closed-orders" role="tabpanel" aria-labelledby="closed-tab">
+                    <table class="tbl-list-order">
+                        <tr>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Video #</div>
+                                    <div><i class="arrow-down"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Order Date</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Due Date</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Type</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Compiler</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Editor</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> &nbsp; </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td> &nbsp; </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td> &nbsp; </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td> &nbsp; </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </table>
               </div>
             </div>
     </div>
