@@ -883,10 +883,11 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
 .login-container { background-color:#eaeaea; }
 .login-container .col-sm:nth-child(2) { border-left:1px solid #ccc; border-right:1px solid #ccc; }
 .login-container button { width:90px; }
-.call-col div:first-child { width:100px; }
+.call-col div:first-child,.call-col-2 div:first-child  { width:100px; }
 .call-col div:nth-child(2) { width:460px; }
 .call-col div:nth-child(3) { width:420px; }
 .btn-help { width:100px; margin-right:10px; }
+.call-col-2 div:nth-child(2) { width:430px; }
 @media (max-width:330px){
     .bg-primary { background-image:linear-gradient(180deg, #424244 50%, #eaeaea 30%); }
     .pricing-data label { font-size:14px; }
