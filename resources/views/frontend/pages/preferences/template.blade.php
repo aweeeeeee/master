@@ -61,29 +61,11 @@
                            <div class="collapse my-template-checkbox pb-3" id="Expanded1">
                                <div class="rules-arrow7"></div>
                                <div class="ExpandForm px-3 pb-3">
-                                        <div class="mt-2">
-                                                    <div class="header-title mb-2 color-303030"><b>Color Change</b><br>Select Colours as it will appear:</div>
-                                                    <div class="row">
-                                                                    <div class="col-md-auto align-self-center">
-                                                                        <div class="circle-area bg-ccc mx-auto" id="color-opt-1-bg"></div>
-                                                                    </div>
-                                                                    <div class="col-md align-self-center">
-                                                                        <div id="color-opt-1" class="input-group colorpicker-component" >
-                                                                            <input type="text" value="#cccccc" class="form-control txt-input-bg" />
-                                                                            <div class="input-group-addon align-self-center bg-eae mx-2"><span class="a-change-clr"><b>Change</b></span> <span class="c-ff0033"><b>+</b></span></div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="col-md-auto align-self-center">
-                                                                        <div class="circle-area bg-ccc mx-auto" id="color-opt-2-bg"></div>
-                                                                    </div>
-                                                                    <div class="col-md">
-                                                                        <div id="color-opt-2" class="input-group colorpicker-component" >
-                                                                            <input type="text" value="#cccccc" class="form-control txt-input-bg " />
-                                                                            <div class="input-group-addon align-self-center bg-eae mx-2"><span class="a-change-clr"><b>Change</b></span> <span class="c-ff0033"><b>+</b></span></div>
-                                                                        </div>
-                                                                    </div>
-                                                    </div>
-                                        </div>
+                                   <div class="register-form col-8">
+                                            <select name="" class="form-control">
+                                                <option>Use Only One as Selected</option>
+                                            </select>
+                                   </div>
                                    <h4 class="my-3 font20">Please select below</h4>
                                    <div class="row m-r-l">
                                         <div class="col-sm">
