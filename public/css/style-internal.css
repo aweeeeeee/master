@@ -97,21 +97,19 @@ i.a-s-icons-url { background-position:-465px 0px; }
 i.standard-video { background:url(backgrounds/standard-video-icons.png); height:23px; width:23px; display:inline-block; margin-right:10px; vertical-align:middle; background-repeat:no-repeat; }
 i.sv-save { background-position:-1px 0px; }
 i.sv-export { background-position:-23px 0px; } 
-.picture-uploader { border:1px solid #ccc; text-align:center; height:135px;padding:10% 0; }
+.picture-uploader { border:1px solid #ccc; text-align:center; height:135px;padding:10% 0; margin-bottom:22px; }
 .board-data { background:#eaeaea; }
 .board-data div:first-child { width:250px; text-align:center; }
 .board-data div:last-child { border:1px solid #cccccc; background:#ffffff; width:450px; }
 .bg-efefef { background:#efefef; }
 .color-333 { color:#333333; }
 .border-data { border:1px solid #cccccc; } 
-.board-title > div { width:357px; }
-.board-title > div:first-child { margin-left:-15px; }
-.storyboard-tab img { width:215px; padding:20px 0px; }
+.board-title > div { width:350px; height:38px; margin-bottom:6px; }
+.storyboard-tab img { padding:20px 0px; }
+.storyboard-list > div:nth-child(even) { margin:20px 0px; }
 .border-data2 { border-left:1px solid #cccccc; width:160px; }
-.board-row > .col-md { border-left:1px solid #ccc; }
-.board-row > .col-md-3 div { margin-right:-15px; }
-.height-65 { height:65px; }
-.board-row2 .col-md { border-left:1px solid #cccccc; padding-left:14px; }
+.height-62 { height:62px; }
+.board-row2 .col-md { padding-left:14px; }
 .storyboard-form { margin-top:55px; }
 .storyboard-form input { width:100px; }
 .storyboard-form select { width:470px; }

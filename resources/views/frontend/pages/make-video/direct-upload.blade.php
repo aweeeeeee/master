@@ -19,7 +19,6 @@
                             <div class="my-3"><input type="text" class="form-control" name="" placeholder="Address 2" required></div>
                             <div>
                                  <div class="row m-r-l my-0">
-                                     <div class="col-sm"><input type="text" class="form-control" name="" placeholder="Suburb" required></div>
                                      <div class="col-sm"><input type="text" class="form-control" name="" placeholder="State" required></div>
                                      <div class="col-sm-3"><input type="text" class="form-control" name="" placeholder="Post Code" required></div>
                                  </div>
