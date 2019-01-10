@@ -818,7 +818,7 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
 .direct-upload-3 input {  position: absolute; margin:0px; padding: 0; width: 280px; height:80px; opacity: 0; }
 .direct-upload-3 p { text-align: center; font-family: Arial; border:10px solid #ededed; background:#ffffff; padding:10px 0px; }
 .direct-upload-4 input {  position: absolute; margin:0px; padding: 0; width: 285px; height:190px; opacity: 0; }
-.direct-upload-4 p { text-align: center; font-family: Arial; border:1px solid #cccccc; background:#ffffff; padding:60px 30px; margin-bottom:10px; font-family:tilium; font-size:20px; }
+.direct-upload-4 p { text-align: center; font-family: Arial; border:1px solid #cccccc; background:#ffffff; padding:60px 30px; margin-bottom:10px; font-size:20px; }
 .d-u-border { border-left:1px solid #999; padding-left:10px; margin-left:10px; }
 .d-u-width { width:230px; }
 .d-u-width-260 { width:260px; }
