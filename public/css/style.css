@@ -883,6 +883,7 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
 .m-v-border { border:5px solid #ededed; }
 .m-v-add { font-size:26px; line-height:20px; }
 .small-text { color:#666666; font-size:14px; }
+.m2 { margin-top:-2px; }
 @media (max-width:330px){
     .bg-primary { background-image:linear-gradient(180deg, #424244 50%, #eaeaea 30%); }
     .pricing-data label { font-size:14px; }

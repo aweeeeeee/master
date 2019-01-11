@@ -44,13 +44,12 @@
                         <div class="row m-0">
                             <div class="col-sm-8 pl-0">
                                  <b>Manual Video</b>
-                                 <div class="my-2">Estimated completion time is</div>
                             </div>
-                            <div class="col-sm-4 align-self-center">
+                            <div class="col-sm-4">
                                 <div class="row m-0">
                                     <div class="col-sm align-self-center p-0"><div class="form-control b-radius-0">$</div></div>
-                                    <div class="col-sm-5 my-account-subcription pr-0">
-                                          <div class="custom-control custom-checkbox basic">
+                                    <div class="col-sm-5 my-account-subcription">
+                                          <div class="custom-control custom-checkbox basic m2">
                                               <input type="checkbox" class="custom-control-input" id="customCheck2">
                                               <label class="custom-control-label" for="customCheck2"></label>
                                           </div>
@@ -58,6 +57,7 @@
                                 </div>
                             </div>
                          </div>
+                         <div class="my-2">Estimated completion time is</div>
                          <div class="row">
                                 <div class="col-sm p-0"><div class="form-control b-radius-0">## hours</div></div>
                                 <div class="col-sm p-0"><div class="form-control b-radius-0">Date Due</div></div>
