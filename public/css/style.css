@@ -946,7 +946,6 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
     .make-my-video .col-sm,.make-video-con .col-md-4 { border:none; }
     .surge-button { margin:20px 0px; }
     .my-account-video { margin:20px 0px; }
-    .f-av-home .border-left-666 { border-left:none; }
     .f-r2-video .col-lg:first-child { text-align:center; } 
 }
 
@@ -976,6 +975,7 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
     .h-r-0 { padding-right:15px; }
     .h-l-0 { padding-left:15px; }
     .h-1 { padding:0px 15px; margin:10px 0px; }
+    .f-av-home .border-left-666 { border-left:none; }
 }
 @media (max-width:1200px){
     .join-step-container .col-md-auto:last-child div { display:none; }
