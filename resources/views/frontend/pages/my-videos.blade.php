@@ -29,7 +29,7 @@
                                                                 <label class="custom-control-label font12" for="customCheck2"></label>
                                                          </div>
                                                     </div>
-                                                    <div class="col-6 pl-3 text-center"><input type="text" name="" class="form-control" Placeholder="Download to USB TV Format"></div>
+                                                    <div class="col-md-6 pl-3 text-center"><input type="text" name="" class="form-control" Placeholder="Download to USB TV Format"></div>
                                                     <div class="col pr-0">
                                                         <div class="d-flex justify-content-between">
                                                             <div><button class="btn btn-primary btn-120 h-100 bg-ff0033 btn-no-border"><b>BROWSE</b></button></div>
@@ -44,7 +44,7 @@
                                                                 <label class="custom-control-label font12" for="customCheck3"></label>
                                                          </div>
                                                     </div>
-                                                    <div class="col-6 pl-3 text-center">
+                                                    <div class="col-md-6 pl-3 text-center">
                                                                 <input type="text" name="" class="form-control" Placeholder="Download to USB">
                                                     </div>
                                                     <div class="col pr-0">

@@ -19,8 +19,8 @@
         <div class="row m-r-l">
                 <div class="col-sm-9 pr-1">
                     <div class="row m-r-l my-0">
-                        <div class="col-lg-9 pr-2"><input type="text" class="form-control" name="" Placeholder="State" required autofocus></div>
-                        <div class="col-lg pl-2"><input type="text" class="form-control" name="" Placeholder="Post Code" required autofocus></div>
+                        <div class="col-lg-9"><input type="text" class="form-control" name="" Placeholder="State" required autofocus></div>
+                        <div class="col-lg"><input type="text" class="form-control" name="" Placeholder="Post Code" required autofocus></div>
                     </div>
                 </div>
                 <div class="col-sm align-self-center"><button type="submit" class="btn btn-primary b-radius-7 bg-ff6600 <!--bg-009900--> btn-no-border px-1 py-2"><div class="font15"><b>UPDATE DETAILS</b></div></button></div>
