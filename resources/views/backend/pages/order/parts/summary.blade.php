@@ -92,8 +92,8 @@
                     <td>Colour Selected</td>
                     <td class="p-0">
                         <div class="d-flex justify-content-start tbl-col-2">
-                            <div class="w-100">#XXXColour</span></div>
-                            <div class="w-100">#XXXColour</span></div>
+                            <div class="w-100">#XXXColour</div>
+                            <div class="w-100">#XXXColour</div>
                         </div>
                     </td>
                     <td></td>

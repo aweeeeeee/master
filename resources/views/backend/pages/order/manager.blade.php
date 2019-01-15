@@ -88,7 +88,7 @@
             </ul>
             <div class="tab-content mb-5" id="myTabContent">
               <div class="tab-pane fade active show user-btn" id="open-orders" role="tabpanel" aria-labelledby="open-tab">
-                    <table class="tbl-list-order">
+                    <table class="tbl-list-order table-responsive">
                         <tr>
                             <td>
                                 <div class="d-flex justify-content-between">
@@ -180,7 +180,7 @@
                     </table>
               </div>
               <div class="tab-pane fade user-btn" id="closed-orders" role="tabpanel" aria-labelledby="closed-tab">
-                    <table class="tbl-list-order">
+                    <table class="tbl-list-order table-responsive">
                         <tr>
                             <td>
                                 <div class="d-flex justify-content-between">
