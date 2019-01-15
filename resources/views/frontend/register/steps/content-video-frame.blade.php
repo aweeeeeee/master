@@ -55,7 +55,19 @@
                 </div>
                 <div class="select-form-2 mt-4">
                     <div class="header-title mb-2 color-303030"><b>End Frame</b><br>Preview</div>
-                    <img class="img-fluid" src="{{ asset('storage/register/end-frame2.jpg') }}">
+                     <div class="d-flex flex-row peard-template">
+                        <div><img src="{{ asset('storage/Jeff-Coghill.png') }}" class="img fluid"></div>
+                        <div class="text-center  align-self-center">
+                            <img src="{{ asset('storage/peard-logo.png') }}" class="w-100">
+                            <div class="d-flex flex-column peard-color">
+                                <div class="my-3"><b>CONTACT ME <br>TODAY!</b></div>
+                                <div><b>JEFF COGHILL</b></div>
+                                <div>0412 928 643</div>
+                                <div>(08) 9270 0000</div>
+                                <div class="mt-2">www.peard.com.au</div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="d-flex justify-content-between mt-2">
                         <div class="align-self-center"><a href="" class="d-inline-block">< Click to Expand ></a></div>
                         <div class="color-666">Change</div>
