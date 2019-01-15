@@ -221,3 +221,7 @@ Route::get('/internal-login', function () {
 Route::get('/manager', function () {
     return view('backend.pages.order.manager');
 });
+
+Route::get('/example-template', function () {
+    return view('backend.layouts.example-template');
+});
