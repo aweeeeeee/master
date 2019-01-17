@@ -32,7 +32,7 @@
         an effective way of describing the property to viewers as they watch. It’s amazing how voice engages with your viewers and makes
         the video much more interesting and enjoyable.</p>
         
-        <h5 class="font16 c-6600cc"><b>Images to Life</b></h3>
+        <h5 class="font16 c-6600cc"><b>Images to Life</b></h5>
         
         <p class="text-justify  line-height20">Your property images are bought to life using animation, movement and transition – to mimic actual video. It’s pretty close to the real
         thing because most property video recordings typically contain little movement. Each video uses your brand and image – and your
@@ -95,7 +95,7 @@
                     <i class="link-icon buyers mb-2"></i>
                     <div class="b-v-text color-333"><b>Video <br>Engages</b></div>
                 </div>
-                <p class="text-justify p-3 mb-0 line-height20">Engage with your buyers using a video with a professional voice over – giving them 90 seconds of positive interaction that informs and interests.</p>
+                <p class="text-justify p-3 mb-0 line-height20">Engage with your buyers using a video with a professional Voice-over – giving them 90 seconds of positive interaction that informs and interests.</p>
                 <p class="text-justify px-3 mb-0 line-height20">Video with Voice works.</p>
             </div>
             <div class="col-sm p-0">
@@ -215,7 +215,7 @@
                 <div class="p-3">
                     <ul class="list-about line-height20">
                         <li>Playing a video on your tablet, smartphone or laptop is a professional way of presenting your property listings.</li>
-                        <li>You can show your prospective listing vendors how you present their property using a professional video with voice-over. This might give them greater confidence in your marketing of their property.</li>
+                        <li>You can show your prospective listing vendors how you present their property using a professional video with Voice-over. This might give them greater confidence in your marketing of their property.</li>
                     </ul>
                 </div>
             </div>
