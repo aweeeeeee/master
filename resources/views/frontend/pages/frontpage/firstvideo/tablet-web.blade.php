@@ -3,7 +3,7 @@
                         <div class="d-inline-block"><i class="first-video-icon f-v-fast"></i></div>
                         <div class="d-inline-block">
                             <h4 class="m-0">Fast</h4>
-                            <span>From 2hrs</span>
+                            <span>From 24hrs</span>
                         </div>
                   </div>
                   <div class="p-2 my-3">
