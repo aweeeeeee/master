@@ -69,7 +69,7 @@
             <p class="m-0"><a href="/use-revid/marketing">Promotes <br>Your Brand</a></p>
         </div>
         <div class="col-md-auto">
-            <img class="img-fluid" src={{ asset('storage/included-free.jpg') }} />
+            <img class="img-fluid" src={{ asset('storage/driveby-soon.jpg') }} />
         </div>
     </div>  
 </div>

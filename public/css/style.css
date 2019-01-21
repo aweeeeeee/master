@@ -664,7 +664,7 @@ i.a-f-mov { background-position:-211px 0px; }
 .h-col-1 h3,.h-col-2 h3,.h-col-3 h4,.col-border h4 { color:#ff0033; font-size:20px; font-family: 'tilium'; font-weight:bold; }
 .h-col-2 .col-bg { background:#eaeaea; }
 .h-col-3 { border:1px solid #ff0033; }
-.h-col-3 h3 {  background: linear-gradient(to right, #ff0169 , #ff1e05); color:#ffffff; margin-bottom:0px; font-family: 'tilium'; }
+.h-col-3 h3 {  background: linear-gradient(to right, #ff0169 , #ff1e05); color:#ffffff; margin-bottom:0px; font-family: 'tilium'; font-size:25px; }
 .h-col-3 .d-flex .p-2 { background:#eaeaea; font-family: 'tilium'; }
 .h-col-3 span { font-size:20px; }
 .border-f75777 { border:1px solid #f75777; }

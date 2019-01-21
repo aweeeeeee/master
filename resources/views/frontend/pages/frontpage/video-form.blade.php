@@ -2,7 +2,7 @@
         <div class="col-sm">
             <div class="row mt-4">
                 <div class="col-lg-7">
-                    <h3 class="c-6600cc font-weight-bold">$99 Automatic Video</h3>
+                    <h3 class="c-6600cc font-weight-bold">$99 Automatic Video (Plan)</h3>
                     <p class="text-justify"><b>We do it all, and make your
                     Video using the images and
                     information in your online
@@ -17,7 +17,7 @@
         <div class="col-sm">
             <div class="row mt-4">
                 <div class="col-lg-8">
-                    <h3 class="c0066ff font-weight-bold">$139 Manual Video</h3>
+                    <h3 class="c0066ff font-weight-bold">$139 Manual Video (Plan)</h3>
                     <p class="text-justify"><b>If you are happy to spend the time,
                     you select and match images to
                     voice over tracks and make the

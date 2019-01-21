@@ -2,7 +2,7 @@
       <div class="container">
                   @if (Request::segment(2) != '1') 
                       <div class="footer-con">
-                          <h6 class="text-center">Your First Real Estate Video is <span>FREE</span>, Try Today!</h6>
+                          <h6 class="text-center">Your First Real Estate Video is <span>EASY</span>, Try Today!</h6>
                           <form>
                               <div class="row">
                                     <div class="col-sm-8"><input type="email" class="form-control" placeholder="Add Your Email Address"></div>
@@ -24,7 +24,7 @@
                               <div class="col-auto p-0"><a href=""><i class="social-icon2 pin2"></i></a></div>
                               <div class="col-auto p-0"><a href=""><i class="social-icon2 glg2"></i></a></div>
                       </div>
-                      <div class="my-2 text-center text-white">REVid Systems Pty Ltd 2018 - <br>Terms and Conditions - Copyright - <br>Privacy Policy - Contact</div>
+                      <div class="my-2 text-center text-white">REVid Systems Pty Ltd 2019 - <br>Terms and Conditions - Copyright - <br>Privacy Policy - Contact</div>
                   </div>
                   <div class="fv-web text-center">
                       <a href=""><i class="social-icon fb"></i></a>
@@ -34,7 +34,7 @@
                       <a href=""><i class="social-icon ytb"></i></a>
                       <a href=""><i class="social-icon pin"></i></a>
                       <a href=""><i class="social-icon glg"></i></a>
-                      <p class="my-2 text-center text-white">REVid Systems Pty Ltd 2018 - Terms and Conditions - Copyright - Privacy Policy - Contact</p>
+                      <p class="my-2 text-center text-white">REVid Systems Pty Ltd 2019 - Terms and Conditions - Copyright - Privacy Policy - Contact</p>
                   </div>
       </div>
 </footer>
