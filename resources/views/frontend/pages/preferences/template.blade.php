@@ -14,11 +14,16 @@
            <h3 class="my-account-title pb-3 font-weight-bold mb-4">My Templates</h3>
            <h3 class="font20 mt-4 mb-0">Content</h3>
            Enter Content as it will appear:
-           <div class="d-flex flex-column register-form">
-              <div><input id="name" type="text" class="form-control" name="" required="" autofocus="" placeholder="Name"></div>
+           <div class="d-flex flex-column register-form col-9 p-0">
+              <div class="mt-3"><input id="name" type="text" class="form-control" name="" required="" autofocus="" placeholder="Name"></div>
               <div class="my-3"><input id="name" type="text" class="form-control" name="" required="" autofocus="" placeholder="Mobile"></div>
               <div><input id="name" type="email" class="form-control" name="" required="" autofocus="" placeholder="Email"></div>
-              <div class="my-3"><input id="name" type="text" class="form-control" name="" required="" autofocus="" placeholder="Web Address"></div>
+           </div>
+           <div class="row m-r-l mt-3">
+                <div class="col-sm-9 pr-2"><input id="name" type="text" class="form-control" name="" required="" autofocus="" placeholder="Web Address"></div>
+                <div class="col-sm align-self-center">
+                    <button type="submit" class="btn btn-primary b-radius-7 bg-ff6600 <!--bg-009900--> btn-no-border px-1 py-2"><div class="font15"><b>UPDATE DETAILS</b></div></button>
+                </div>
            </div>
            <div class="header-title my-2 color-303030"><b>Color Change</b><br>Select Colours as it will appear:</div>
            <div class="row m-r-l">
