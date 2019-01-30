@@ -294,6 +294,7 @@ button.per-month { background-color:#0066ff; color:#fff; width:100%; font-family
 .register-form select { background-color:#ffffff; background-image:url(backgrounds/arrow-down.jpg);  -moz-appearance: none;  -webkit-appearance:none; background-repeat:no-repeat; background-position:right; color:#808080; font-size:13px; }
 .select-form select { background-color:#ffffff; background-image:url(backgrounds/arrow-down-2.jpg);  -moz-appearance: none;  -webkit-appearance:none; background-repeat:no-repeat; background-position:right; padding-right:30px; }
 .search-input { background-color:#ffffff; background-image:url(backgrounds/search.png);  -moz-appearance: none;  -webkit-appearance:none; background-repeat:no-repeat; background-position:right 5px bottom 8px; padding-right:30px; }
+.search-input::placeholder { color:#acacac; }
 .account-payment .col-sm-8,.account-payment .col-md-auto { padding:0px; }
 .reg-step-link a,.select-form a { color:#414142; font-family:Trebuchet MS; }
 .reg-step-link span { color:#ff0033; }
@@ -401,6 +402,7 @@ button.per-month { background-color:#0066ff; color:#fff; width:100%; font-family
 .color-404 { color:#404041; font-family:Trebuchet MS; }
 .color-363636 { color:#363636; }
 .color-303030 { color:#303030; }
+.color-ac { color:#acacac; }
 .bg-ff0033 { background-color:#ff0033; }
 .bg-ff0000 { background-color:#ff0000; }
 .bg-0066ff { background-color:#0066ff; }
@@ -884,6 +886,7 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
 .m-v-add { font-size:26px; line-height:20px; }
 .small-text { color:#666666; font-size:14px; }
 .m2 { margin-top:-2px; }
+.margin-2 { margin-top:2px; }
 @media (max-width:330px){
     .bg-primary { background-image:linear-gradient(180deg, #424244 50%, #eaeaea 30%); }
     .pricing-data label { font-size:14px; }
