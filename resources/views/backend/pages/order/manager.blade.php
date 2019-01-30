@@ -224,8 +224,8 @@
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td></td>
-                            <td></td>
+                            <td class="pl-2"></td>
+                            <td class="pl-2"></td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
