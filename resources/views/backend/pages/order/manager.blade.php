@@ -126,6 +126,7 @@
                                     <div><i class="arrow-up"></i></div>
                                 </div>
                             </td>
+                            <td>Action</td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
@@ -152,6 +153,7 @@
                                     <option>Editor 6</option>
                                 </select>
                             </td>
+                            <td class="text-center"><a href="">Delete</a></td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
@@ -160,17 +162,20 @@
                             <td></td>
                             <td></td>
                             <td></td>
-                        </tr>
-                        <tr>
-                            <td> &nbsp; </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
                             <td></td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td> &nbsp; </td>
+                            <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -218,6 +223,8 @@
                                     <div><i class="arrow-up"></i></div>
                                 </div>
                             </td>
+                            
+                            <td>Action</td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
@@ -226,6 +233,7 @@
                             <td></td>
                             <td class="pl-2"></td>
                             <td class="pl-2"></td>
+                            <td class="text-center"><a href="">Delete</a></td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
@@ -234,17 +242,20 @@
                             <td></td>
                             <td></td>
                             <td></td>
-                        </tr>
-                        <tr>
-                            <td> &nbsp; </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
                             <td></td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td> &nbsp; </td>
+                            <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
