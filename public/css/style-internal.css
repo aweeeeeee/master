@@ -111,7 +111,7 @@ i.sv-export { background-position:-23px 0px; }
 .color-333 { color:#333333; }
 .border-data { border:1px solid #cccccc; } 
 .board-title > div { width:350px; height:38px; margin-bottom:6px; }
-.storyboard-tab img { padding:20px 0px; }
+.storyboard-tab img { padding:20px 0px 0px; }
 .storyboard-list > div:nth-child(even) { margin:20px 0px; }
 .border-data2 { border-left:1px solid #cccccc; width:160px; }
 .height-62 { height:62px; }

@@ -83,30 +83,39 @@
                         </div>
                         <div class="bg-efefef p-2 color-333"><b>Picture 1</b></div>
                         <img src="{{ asset('storage/manual-video-sample.jpg') }}" >
+                        <div class="text-right mb-1"><a href="">Delete</a></div>
                         
                         <div class="bg-efefef p-2 color-333"><b>Picture 2</b></div>
                         <img src="{{ asset('storage/manual-video-default.jpg') }}" >
+                        <div class="text-right mb-1"><a href="">Delete</a></div>
                         
                         <div class="bg-efefef p-2 color-333"><b>Picture 3</b></div>
                         <img src="{{ asset('storage/manual-video-default.jpg') }}" >
+                        <div class="text-right mb-1"><a href="">Delete</a></div>
                         
                         <div class="bg-efefef p-2 color-333"><b>Picture 4</b></div>
                         <img src="{{ asset('storage/manual-video-default.jpg') }}" >
+                        <div class="text-right mb-1"><a href="">Delete</a></div>
                         
                         <div class="bg-efefef p-2 color-333"><b>Picture 5</b></div>
                         <img src="{{ asset('storage/manual-video-default.jpg') }}" >
+                        <div class="text-right mb-1"><a href="">Delete</a></div>
                         
                         <div class="bg-efefef p-2 color-333"><b>Picture 6</b></div>
                         <img src="{{ asset('storage/manual-video-default.jpg') }}" >
+                        <div class="text-right mb-1"><a href="">Delete</a></div>
                         
                         <div class="bg-efefef p-2 color-333"><b>Picture 7</b></div>
                         <img src="{{ asset('storage/manual-video-default.jpg') }}" >
+                        <div class="text-right mb-1"><a href="">Delete</a></div>
                         
                         <div class="bg-efefef p-2 color-333"><b>Picture 8</b></div>
                         <img src="{{ asset('storage/manual-video-default.jpg') }}" >
+                        <div class="text-right mb-1"><a href="">Delete</a></div>
                         
                         <div class="bg-efefef p-2 color-333"><b>Picture 9</b></div>
                         <img src="{{ asset('storage/manual-video-default.jpg') }}" >
+                        <div class="text-right mb-1"><a href="">Delete</a></div>
                         
                         <div class="bg-efefef p-2 color-333"><b>Picture 10</b></div>
                         <img src="{{ asset('storage/manual-video-default.jpg') }}" >
@@ -139,7 +148,7 @@
                                 </select>
                             </div>
                             <div>
-                                <div class="d-flex justify-content-start board-title">
+                                <div class="d-flex justify-content-start board-title mt-2">
                                     <div class="bg-efefef p-2 color-333"><b>General Statement About Property</b></div>
                                     <div class="border-data d-flex justify-content-between">
                                         <div class="p-2">Audio.File Identification</div>
@@ -153,7 +162,7 @@
                                 </select>
                             </div>
                             <div>
-                                <div class="d-flex justify-content-start board-title">
+                                <div class="d-flex justify-content-start board-title mt-2">
                                     <div class="bg-efefef p-2 color-333"><b>Linked General Statement About Property</b></div>
                                     <div class="border-data d-flex justify-content-between">
                                         <div class="p-2">Audio.File Identification</div>
@@ -167,7 +176,7 @@
                                 </select>
                             </div>
                             <div>
-                                <div class="d-flex justify-content-start board-title">
+                                <div class="d-flex justify-content-start board-title mt-2">
                                     <div class="bg-efefef p-2 color-333"><b>Layout Property Style Statement</b></div>
                                     <div class="border-data d-flex justify-content-between">
                                         <div class="p-2">Audio.File Identification</div>
@@ -181,7 +190,7 @@
                                 </select>
                             </div>
                             <div>
-                                <div class="d-flex justify-content-start board-title">
+                                <div class="d-flex justify-content-start board-title mt-2">
                                     <div class="bg-efefef p-2 color-333"><b>Key Feature Statement</b></div>
                                     <div class="border-data d-flex justify-content-between">
                                         <div class="p-2">Audio.File Identification</div>
@@ -195,7 +204,7 @@
                                 </select>
                             </div>
                             <div>
-                                <div class="d-flex justify-content-start board-title">
+                                <div class="d-flex justify-content-start board-title mt-2">
                                     <div class="bg-efefef p-2 color-333"><b>Linked Key Feature Statement 1</b></div>
                                     <div class="border-data d-flex justify-content-between">
                                         <div class="p-2">Audio.File Identification</div>
@@ -209,7 +218,7 @@
                                 </select>
                             </div>
                             <div>
-                                 <div class="d-flex justify-content-start board-title">
+                                 <div class="d-flex justify-content-start board-title mt-2">
                                     <div class="bg-efefef p-2 color-333"><b>Linked Key Feature Statement 2</b></div>
                                     <div class="border-data d-flex justify-content-between">
                                         <div class="p-2">Audio.File Identification</div>
@@ -223,7 +232,7 @@
                                 </select>
                             </div>
                             <div>
-                                <div class="d-flex justify-content-start board-title">
+                                <div class="d-flex justify-content-start board-title mt-2">
                                     <div class="bg-efefef p-2 color-333"><b>Uniqueness Statement</b></div>
                                     <div class="border-data d-flex justify-content-between">
                                         <div class="p-2">Audio.File Identification</div>
@@ -237,7 +246,7 @@
                                 </select>
                             </div>
                             <div>
-                                <div class="d-flex justify-content-start board-title">
+                                <div class="d-flex justify-content-start board-title mt-2">
                                     <div class="bg-efefef p-2 color-333"><b>Linked Uniqueness Statement</b></div>
                                     <div class="border-data d-flex justify-content-between">
                                         <div class="p-2">Audio.File Identification</div>
@@ -251,7 +260,7 @@
                                 </select>
                             </div>
                             <div>
-                                <div class="d-flex justify-content-start board-title">
+                                <div class="d-flex justify-content-start board-title mt-2">
                                     <div class="bg-efefef p-2 color-333"><b>Closing Statement with Call to Action</b></div>
                                     <div class="border-data d-flex justify-content-between">
                                         <div class="p-2">Audio.File Identification</div>
