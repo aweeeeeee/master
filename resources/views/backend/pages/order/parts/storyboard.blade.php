@@ -77,9 +77,12 @@
                 <div class="row board-row mt-3">
                     <div class="col-md-3">
                         <div class="picture-uploader">
-                            <h3>Picture</h3>
-                            <h3>+</h3>
-                            <h3>Uploader</h3>
+                            <input type="file" style="display:none;" id="inputfile" name="filename[]" multiple="">
+                            <a href="">
+                                <h3>Picture</h3>
+                                <h3>+</h3>
+                                <h3>Uploader</h3>
+                            </a>
                         </div>
                         <div class="bg-efefef p-2 color-333"><b>Picture 1</b></div>
                         <img src="{{ asset('storage/manual-video-sample.jpg') }}" >
@@ -125,15 +128,15 @@
                             <div>
                                 <div class="d-flex justify-content-start board-data">
                                     <div class="p-2"><b>VOICE Identification #</b></div>
-                                    <div></div>
+                                    <div class="p-2">text</div>
                                 </div>
                                 <div class="d-flex justify-content-start board-data my-2">
                                     <div class="p-2"><b>MUSIC Identification #</b></div>
-                                    <div></div>
+                                    <div class="p-2">text</div>
                                 </div>
                                 <div class="d-flex justify-content-start board-data">
                                     <div class="p-2"><b>VOICE Identification #</b></div>
-                                    <div></div>
+                                    <div class="p-2">text</div>
                                 </div>
                             </div>
                             <div>
@@ -142,7 +145,7 @@
                                     <div class="border-data p-2">Audio.File Identification</div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
@@ -156,7 +159,7 @@
                                     </div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
@@ -170,7 +173,7 @@
                                     </div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
@@ -184,7 +187,7 @@
                                     </div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
@@ -198,7 +201,7 @@
                                     </div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
@@ -212,7 +215,7 @@
                                     </div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
@@ -226,7 +229,7 @@
                                     </div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
@@ -240,7 +243,7 @@
                                     </div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
@@ -254,7 +257,7 @@
                                     </div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
@@ -268,7 +271,7 @@
                                     </div>
                                 </div>
 
-                                <div class="border-data my-3 px-3 height-62">here</div>
+                                <div class="border-data my-3 px-3 height-80">here</div>
                                 <select class="form-control">
                                     <option value="">No Statement</option>
                                 </select>
