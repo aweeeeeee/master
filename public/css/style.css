@@ -887,6 +887,14 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
 .small-text { color:#666666; font-size:14px; }
 .m2 { margin-top:-2px; }
 .margin-2 { margin-top:2px; }
+.billing-border { border:1px solid #999999; padding:10px; }
+.billing-arrow { border-left: 20px solid transparent; border-right: 20px solid transparent; border-bottom: 20px solid #939393; width:0px; height:0px; }
+.billing-table { border:1px solid #999999; }
+.billing-table tr td { border-bottom:1px solid #999999; padding:10px; }
+.billing-table tr td:nth-child(2) { border-left:1px solid #999999; border-right:1px solid #999999;  }
+.billing-table tr td:first-child { text-align:center; }
+.billing-table tr td:last-child,.billing-table span { text-align:right; width:120px; }
+.billing-amount { border:1px solid #999999; padding:5px 10px; font-size:20px; }
 @media (max-width:330px){
     .bg-primary { background-image:linear-gradient(180deg, #424244 50%, #eaeaea 30%); }
     .pricing-data label { font-size:14px; }

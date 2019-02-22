@@ -1,16 +1,6 @@
 @extends('frontend.layouts.main')
 
 @section('content')
-<style type="text/css">
-.billing-border { border:1px solid #999999; padding:10px; }
-.billing-arrow { border-left: 20px solid transparent; border-right: 20px solid transparent; border-bottom: 20px solid #939393; width:0px; height:0px; }
-.billing-table { border:1px solid #999999; }
-.billing-table tr td { border-bottom:1px solid #999999; padding:10px; }
-.billing-table tr td:nth-child(2) { border-left:1px solid #999999; border-right:1px solid #999999;  }
-.billing-table tr td:first-child { text-align:center; }
-.billing-table tr td:last-child,.billing-table span { text-align:right; }
-.billing-amount { border:1px solid #999999; padding:5px 10px; font-size:20px; }
-</style>
 <div class="container">
     <div class="row my-account-container">
       <div class="col-lg-4">
@@ -158,7 +148,7 @@
                 <div class="d-flex justify-content-end">
                     <table cellpadding="0" cellspacing="0" class="billing-table bg-e8e8e8" width="250">
                         <tr class="bg-e8e8e8">
-                            <td class="text-right" width="128"><span class="font-weight-bold">GST</span></td>
+                            <td class="text-right"><span class="font-weight-bold">GST</span></td>
                             <td>$10.00</td>
                         </tr>
                         <tr>
