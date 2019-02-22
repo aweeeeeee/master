@@ -98,98 +98,7 @@
                             </td>
                             <td>
                                 <div class="d-flex justify-content-between">
-                                    <div>Order Date</div>
-                                    <div><i class="arrow-up"></i></div>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="d-flex justify-content-between">
-                                    <div>Due Date</div>
-                                    <div><i class="arrow-up"></i></div>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="d-flex justify-content-between">
-                                    <div>Type</div>
-                                    <div><i class="arrow-up"></i></div>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="d-flex justify-content-between">
-                                    <div>Compiler</div>
-                                    <div><i class="arrow-up"></i></div>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="d-flex justify-content-between">
-                                    <div>Editor</div>
-                                    <div><i class="arrow-up"></i></div>
-                                </div>
-                            </td>
-                            <td>Action</td>
-                        </tr>
-                        <tr>
-                            <td> &nbsp; </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td class="compiler-form">
-                                <select class="form-control" name="">
-                                    <option>Compiler 1</option>
-                                    <option>Compiler 2</option>
-                                    <option>Compiler 3</option>
-                                    <option>Compiler 4</option>
-                                    <option>Compiler 5</option>
-                                    <option>Compiler 6</option>
-                                </select>
-                            </td>
-                            <td class="compiler-form">
-                                <select class="form-control" name="">
-                                    <option>Editor 1</option>
-                                    <option>Editor 2</option>
-                                    <option>Editor 3</option>
-                                    <option>Editor 4</option>
-                                    <option>Editor 5</option>
-                                    <option>Editor 6</option>
-                                </select>
-                            </td>
-                            <td class="text-center"><a href="">Delete</a></td>
-                        </tr>
-                        <tr>
-                            <td> &nbsp; </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                       
-                        </tr>
-                        <tr>
-                            <td> &nbsp; </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                         
-                        </tr>
-                        <tr>
-                            <td> &nbsp; </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                           
-                        </tr>
-                    </table>
-              </div>
-              <div class="tab-pane fade user-btn" id="closed-orders" role="tabpanel" aria-labelledby="closed-tab">
-                    <table class="tbl-list-order table-responsive">
-                        <tr>
-                            <td>
-                                <div class="d-flex justify-content-between">
-                                    <div>Video #</div>
+                                    <div>Agent Name</div>
                                     <div><i class="arrow-down"></i></div>
                                 </div>
                             </td>
@@ -223,20 +132,49 @@
                                     <div><i class="arrow-up"></i></div>
                                 </div>
                             </td>
-                            
                             <td>Action</td>
                         </tr>
                         <tr>
-                            <td> &nbsp; </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td class="pl-2"></td>
-                            <td class="pl-2"></td>
+                            <td>123</td>
+                            <td>Firstname Lastname Firstname</td>
+                            <td>day</td>
+                            <td>day</td>
+                            <td>casual</td>
+                            <td class="compiler-form">
+                                <select class="form-control" name="">
+                                    <option>Compiler 1</option>
+                                    <option>Compiler 2</option>
+                                    <option>Compiler 3</option>
+                                    <option>Compiler 4</option>
+                                    <option>Compiler 5</option>
+                                    <option>Compiler 6</option>
+                                </select>
+                            </td>
+                            <td class="compiler-form">
+                                <select class="form-control" name="">
+                                    <option>Editor 1</option>
+                                    <option>Editor 2</option>
+                                    <option>Editor 3</option>
+                                    <option>Editor 4</option>
+                                    <option>Editor 5</option>
+                                    <option>Editor 6</option>
+                                </select>
+                            </td>
                             <td class="text-center"><a href="">Delete</a></td>
                         </tr>
                         <tr>
+                            <td>123</td>
+                            <td>Firstname Lastname</td>
+                            <td>day</td>
+                            <td>day</td>
+                            <td>automatic</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
                             <td> &nbsp; </td>
+                            <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -252,9 +190,108 @@
                             <td></td>
                             <td></td>
                             <td></td>
+                            <td></td>
+                        </tr>
+                    </table>
+              </div>
+              <div class="tab-pane fade user-btn" id="closed-orders" role="tabpanel" aria-labelledby="closed-tab">
+                    <table class="tbl-list-order table-responsive">
+                        <tr>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Video #</div>
+                                    <div><i class="arrow-down"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Agent Name</div>
+                                    <div><i class="arrow-down"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Order Date</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Due Date</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Type</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Compiler</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
+                                    <div>Editor</div>
+                                    <div><i class="arrow-up"></i></div>
+                                </div>
+                            </td>
+                            <td>Action</td>
+                        </tr>
+                        <tr>
+                            <td>123</td>
+                            <td>Firstname Lastname</td>
+                            <td>day</td>
+                            <td>day</td>
+                            <td>casual</td>
+                            <td class="compiler-form">
+                                <select class="form-control" name="">
+                                    <option>Compiler 1</option>
+                                    <option>Compiler 2</option>
+                                    <option>Compiler 3</option>
+                                    <option>Compiler 4</option>
+                                    <option>Compiler 5</option>
+                                    <option>Compiler 6</option>
+                                </select>
+                            </td>
+                            <td class="compiler-form">
+                                <select class="form-control" name="">
+                                    <option>Editor 1</option>
+                                    <option>Editor 2</option>
+                                    <option>Editor 3</option>
+                                    <option>Editor 4</option>
+                                    <option>Editor 5</option>
+                                    <option>Editor 6</option>
+                                </select>
+                            </td>
+                            <td class="text-center"><a href="">Delete</a></td>
+                        </tr>
+                        <tr>
+                            <td>123</td>
+                            <td>Firstname Lastname</td>
+                            <td>day</td>
+                            <td>day</td>
+                            <td>automatic</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td> &nbsp; </td>
+                            <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
