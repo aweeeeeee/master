@@ -242,62 +242,7 @@
                             <td>Action</td>
                         </tr>
                         <tr>
-                            <td>123</td>
-                            <td>Firstname Lastname</td>
-                            <td>day</td>
-                            <td>day</td>
-                            <td>casual</td>
-                            <td class="compiler-form">
-                                <select class="form-control" name="">
-                                    <option>Compiler 1</option>
-                                    <option>Compiler 2</option>
-                                    <option>Compiler 3</option>
-                                    <option>Compiler 4</option>
-                                    <option>Compiler 5</option>
-                                    <option>Compiler 6</option>
-                                </select>
-                            </td>
-                            <td class="compiler-form">
-                                <select class="form-control" name="">
-                                    <option>Editor 1</option>
-                                    <option>Editor 2</option>
-                                    <option>Editor 3</option>
-                                    <option>Editor 4</option>
-                                    <option>Editor 5</option>
-                                    <option>Editor 6</option>
-                                </select>
-                            </td>
-                            <td class="text-center"><a href="">Delete</a></td>
-                        </tr>
-                        <tr>
-                            <td>123</td>
-                            <td>Firstname Lastname</td>
-                            <td>day</td>
-                            <td>day</td>
-                            <td>automatic</td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td> &nbsp; </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td> &nbsp; </td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td colspan="8" width="975" class="no-border text-center">No Orders Available</td>
                         </tr>
                     </table>
               </div>

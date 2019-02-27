@@ -204,7 +204,7 @@ i.billing-query { height:25px; width:27px; background-position:-78px 0px; }
 .tbl-list-order tr:nth-child(n+2) td:not(.compiler-form) { padding:10px; }
 .tbl-list-order tr td.compiler-form { width:152px; }
 .manager-form select,.compiler-form select { background-color:#ffffff; background-image:url(backgrounds/arrow-down.jpg);  -moz-appearance: none;  -webkit-appearance:none; background-repeat:no-repeat; background-position:right; border-radius:0px; }
-.compiler-form select,.no-border { border:none; }
+.compiler-form select,.no-border { border:none !important; }
 .arrow-left { border: 1px solid #ffffff; border-width: 0 3px 3px 0; display: inline-block; padding: 8px 8px 4px 4px; transform: rotate(135deg); -webkit-transform: rotate(135deg); margin: 6px 10px 0px 0px; }
 .back-btn button { border:none; border-radius:7px; }
 .dashboard-form > .col-sm:nth-child(2) { border-left:1px solid #666666; border-right:1px solid #666666; }
