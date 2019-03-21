@@ -53,7 +53,7 @@
                             </div>
                             <div class="col-sm-4 align-self-center">
                                 <div class="row m-0">
-                                    <div class="col-sm align-self-center p-0"><div class="form-control b-radius-0">$108.90</div></div>
+                                    <div class="col-sm align-self-center p-0"><div class="form-control b-radius-0 px-1">$108.90</div></div>
                                     <div class="col-sm-5 my-account-subcription pr-0">
                                           <div class="custom-control custom-checkbox basic m2">
                                               <input type="checkbox" class="custom-control-input" id="customCheck2">
