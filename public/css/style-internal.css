@@ -28,6 +28,7 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .tbl-order-2 { width:458px; }
 .tbl-order tr td:first-child,.tbl-order-5 tr td:first-child { border-right:1px solid #cccccc; }
 .tbl-order tr:not(:last-child) td { border-bottom:1px solid #cccccc; }
+.tbl-order tr td:last-child { max-width: 345px; word-wrap: break-word; }
 .tbl-title { background:#efefef; padding:10px; }
 .bg-ffbc00 { background:#ffbc00; }
 .bg-3333cc { background:#3333cc; }
