@@ -23,7 +23,7 @@
         <p class="m-0"><b>Makes Real Estate Video Doable</b></p>
         <p class="text-justify">REVid gives you a Fast, Low Cost and Easy solution. Yes, it’s not a fully directed film-crew production – it’s not meant to be – <b>it’s a low cost doable solution</b> – quick and easy to achieve. The video production framework gives you options of 2-hour to 24-hour turn-around or the standard time of 2-3 days. You also get four video formats, including sub-titles, each designed and set-up to cover most online, social media and marketing applications. <b>It’s great value for money!</b></p>  
 
-        <h3 class="f-t-bg mt-5"><b>Where Use REVid?</b></h3>
+        <h3 class="f-t-bg mt-4"><b>Where Use REVid?</b></h3>
         
         <div class="fv-mobile text-center mt-3">
             <div class="border-ccc pt-2">
@@ -86,7 +86,7 @@
         </div>
     </div>
     @if(Request::is('/')) 
-        @include('frontend.pages.frontpage.video-form')
+        @include('frontend.pages.frontpage.revid-cost')
     @endif
 <script>
     $(document).ready(function(){
