@@ -3,28 +3,63 @@
         <div class="row">
           <div class="col-lg">
             <h3 class="font-weight-bold mb-3">What is REVid?</h3>
-            <p class="text-justify">
-                <b>REVid turns your property listings into Video with Voice-Over</b>.<br>
-                All you need to do is paste the property URL from your agency’s website into the REVid online system or if you prefer, direct upload the images and description. We take care of the rest, turning your property listings into a video that includes voice over and music.
+              
+            <p><b>Online Video System for Real Estate Agents</b></p>
+              
+            <p class="text-justify line-height22">
+               All you need to do is paste the property URL from your agency’s website into the REVid
+               online system and we take care of the rest, turning your property listings into a
+               professional video that includes voice over, music and subtitles.
             </p>
-            <p class="text-justify">
-                <b>Video with Voice Over</b> <br>
-                You receive a photo-based video that  includes voice over and music edited into a professional video production. We compile professionally pre-recorded voice over tracks that have been  selected  to  match the inclusion and features of your property. Using voice is an effective way of describing the property to viewers as they watch. It’s  amazing  how voice engages with your viewers and makes the video much more interesting and enjoyable.
+              
+            <p><b>Video with Voice-Over and Subtitles</b></p>
+                
+            <p class="text-justify line-height22">
+               You receive a photo-based video that includes voice-over, subtitles and music edited into
+               a professional video production. We compile pre-recorded voice over tracks that have
+               been selected to match the inclusion and features of your property. Using voice is an
+               effective way of describing the property to viewers as they watch. It’s amazing how voice
+               engages with your viewers and makes the video much more interesting and enjoyable.
             </p>
+              
+            <p><b>Images to Life with Your Personal Brand</b></p>
+              
+            <p class="text-justify line-height22">
+               Your property images are bought to life using animation, movement and transition – to
+               mimic actual video. It’s pretty close to the real thing because most property video
+               recordings typically contain little movement. Each video uses your brand and image – and
+               your contact details – integrating the promotion of property and agent to maximum effect.
+            </p>
+              
+            
           </div>
-          <div class="col-lg">
-            <h3 class="font-weight-bold mb-3">Sample REVid Video</h3>
-            <img class="img-fluid" src={{ asset('storage/sample-thumb.jpg') }} />
+          <div class="col-lg-auto h-latest-vid">
+            <div class="d-flex flex-column">
+              <div><h3 class="font-weight-bold mb-3">Latest Videos</h3></div>
+              <div><img class="img-fluid" src={{ asset('storage/sample-thumb-1.jpg') }} /></div>
+              <div class="mt-3"><img class="img-fluid" src={{ asset('storage/sample-thumb-2.jpg') }} /></div>
+              <div class="mt-3 text-right"><a href="">More Latest Videos</a></div>
+            </div>
           </div>
         </div>
-        <p class="m-0"><b>Images to Life</b></p>
-        <p class="text-justify">Your property images are bought to life using animation, movement and transition – to mimic actual video. It’s pretty close to the real thing because most property video recordings typically contain little movement. Each video uses your brand and image – and your contact details – integrating the promotion of property and agent to maximum  effect.</p>
+        <div class="row container-top">
+            <div class="col-md-auto">
+                <div class="d-flex flex-row m-icon-con">
+                    <div class="align-self-center"><a href=""><i class="medium-icons m-fb"></i></a></div>
+                    <div class="mx-2"><a href=""><i class="medium-icons m-instag"></i></a></div>
+                    <div><a href=""><i class="medium-icons m-twtr"></i></a></div>
+                    <div class="mx-2"><a href=""><i class="medium-icons m-gplus"></i></a></div>
+                    <div><a href=""><i class="medium-icons m-in"></i></a></div>
+                </div>
+            </div>
+            <div class="col-md">
+                <p><b>Makes Real Estate Video Doable</b></p>
         
-        <p class="m-0"><b>Makes Real Estate Video Doable</b></p>
-        <p class="text-justify">REVid gives you a Fast, Low Cost and Easy solution. Yes, it’s not a fully directed film-crew production – it’s not meant to be – <b>it’s a low cost doable solution</b> – quick and easy to achieve. The video production framework gives you options of 2-hour to 24-hour turn-around or the standard time of 2-3 days. You also get four video formats, including sub-titles, each designed and set-up to cover most online, social media and marketing applications. <b>It’s great value for money!</b></p>  
-
-        <h3 class="f-t-bg mt-4"><b>Where Use REVid?</b></h3>
-        
+                <p class="text-justify line-height22">REVid is a <b>low cost doable solution</b> – quick and easy to achieve. You get many video
+                formats, including subtitles, each designed to cover most online, social media and
+                marketing applications.</p>
+            </div>
+        </div>
         <div class="fv-mobile text-center mt-3">
             <div class="border-ccc pt-2">
                 <div class="row">

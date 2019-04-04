@@ -656,6 +656,12 @@ i.a-f-mp4 { background-position:-52px 0px; }
 i.a-f-flv { background-position:-106px 0px; }
 i.a-f-avi { background-position:-161px 0px; }
 i.a-f-mov { background-position:-211px 0px; }
+i.medium-icons { background:url(backgrounds/social-icons-v4.png); height:50px; width:50px; display:inline-block; }
+i.m-fb { background-position:0px 0px; }
+i.m-instag { background-position:-54px 0px; }
+i.m-twtr { background-position:-109px 0px; }
+i.m-gplus { background-position:-166px 0px; }
+i.m-in { background-position:-222px 0px; }
 /** end icons **/
 
 /**frontpage**/
@@ -717,11 +723,12 @@ i.a-f-mov { background-position:-211px 0px; }
 .premium-table tr:first-child td:nth-child(2) { background:#666666; color:#ffffff; }
 .premium-table tr:first-child td:last-child { background:#ff0033; color:#ffffff; } 
 .premium-table tr:first-child td .custom-control-label:before { background:none !important; }
-.premium-table tr:first-child td .custom-control-label:after { top: -0.10rem;
-    border-radius:5px;
-    border: 2px solid #fff;
-
-}
+.premium-table tr:first-child td .custom-control-label:after { top: -0.10rem; border-radius:5px; border: 2px solid #fff; }
+.h-latest-vid { border-left:1px solid #999999; }
+.h-latest-vid a { color:#ff0000; font-weight:bold; }
+.m-icon-con { border-top:1px solid #ccc; border-bottom:1px solid #ccc; padding:10px 10px 5px 10px; }
+.container-top  { margin-top:-20px; }
+.f-r2-video .col-lg:first-child > div{ font-size:17px; padding-top:20px; padding-bottom:20px; }
 /** end frontpage**/
 
 /** account **/
@@ -729,7 +736,7 @@ i.a-f-mov { background-position:-211px 0px; }
 .line-height19 { line-height:19px; }
 .line-height20 { line-height:20px; }
 .line-height21 { line-height:21px; }
-.line-height22 { line-height:22px; }
+.line-height22 { line-height:22px !important; }
 .line-height24 { line-height:24px; }
 .line-height28 { line-height:28px; }
 .btn-no-border { border:none; }
