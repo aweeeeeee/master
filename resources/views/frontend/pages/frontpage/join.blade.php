@@ -13,11 +13,11 @@
   <h3 class="header-border font-weight-bold">Join Today, and Receive 12-months FREE PREMIUM Package</h3>
     
   <p class="text-justify">As an introductory offer, be one of the few to receive a FREE PREMIUM service for the next 12-months. Valued at over $790; this means
-  you get all the benefits of PREMIUM at no extra cost. Limited Offer available.</p>
+  you get all the benefits of PREMIUM at no extra cost. Limited Offer.</p>
   <div class="border-bot7 pb-4">
           <div class="row box-container">
             <div class="col-md-4">
-                <div><span class="text-medium">$99<sup>+gst</sup> per Property Listing</span></div>
+                <div><span class="text-medium">$99<sup>+gst</sup> per Property</span></div>
                 <div class="mt-2">All Videos include <span class="text-small">Voice-Over,</span></div>
                 <div><span class="text-small">Subtitles</span> and <span class="text-small">Music.</span></div>
                 <div class="row box-block">

@@ -7,28 +7,19 @@
             <p><b>Online Video System for Real Estate Agents</b></p>
               
             <p class="text-justify line-height22">
-               All you need to do is paste the property URL from your agency’s website into the REVid
-               online system and we take care of the rest, turning your property listings into a
-               professional video that includes voice over, music and subtitles.
+               All you need to do is paste the property URL from your agency’s website into the REVid online system and we take care of the rest, turning your property listings into a professional video that includes voice over, music and subtitles.  
             </p>
               
             <p><b>Video with Voice-Over and Subtitles</b></p>
                 
             <p class="text-justify line-height22">
-               You receive a photo-based video that includes voice-over, subtitles and music edited into
-               a professional video production. We compile pre-recorded voice over tracks that have
-               been selected to match the inclusion and features of your property. Using voice is an
-               effective way of describing the property to viewers as they watch. It’s amazing how voice
-               engages with your viewers and makes the video much more interesting and enjoyable.
+               You receive a photo-based video that includes voice-over, subtitles and music edited into a professional video production. We compile pre-recorded voice over tracks that have been selected to match the inclusion and features of your property. Using voice is an effective way of describing the property to viewers as they watch. It’s amazing how voice engages with your viewers and makes the video much more interesting and enjoyable.
             </p>
               
             <p><b>Images to Life with Your Personal Brand</b></p>
               
             <p class="text-justify line-height22">
-               Your property images are bought to life using animation, movement and transition – to
-               mimic actual video. It’s pretty close to the real thing because most property video
-               recordings typically contain little movement. Each video uses your brand and image – and
-               your contact details – integrating the promotion of property and agent to maximum effect.
+               Your property images are bought to life using animation, movement and transition – to mimic actual video. It’s pretty close to the real thing because most property video recordings typically contain little movement. Each video uses your brand and image – and your contact details – integrating the promotion of property and agent to maximum effect.
             </p>
               
             
@@ -55,9 +46,8 @@
             <div class="col-md">
                 <p><b>Makes Real Estate Video Doable</b></p>
         
-                <p class="text-justify line-height22">REVid is a <b>low cost doable solution</b> – quick and easy to achieve. You get many video
-                formats, including subtitles, each designed to cover most online, social media and
-                marketing applications.</p>
+                <p class="text-justify line-height22">REVid is a <b>low cost doable solution</b> - quick and easy to achieve. You get many video formats, including subtitles, each designed to cover most online, social media and marketing applications.
+                </p>
             </div>
         </div>
         <div class="fv-mobile text-center mt-3">

@@ -44,6 +44,9 @@ Route::get('/use-revid/fast', function () {
     return view('frontend.pages.use-revid.use-revid-fast');
 });
 
+Route::get('/latest-videos', function () {
+    return view('frontend.pages.latest-videos');
+});
 
 Route::get('/revid-video', function () {
     return view('frontend.pages.revid-video');

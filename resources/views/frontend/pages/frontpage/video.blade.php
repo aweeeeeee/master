@@ -5,7 +5,7 @@
                       <div class="d-flex flex-column mt-3 border-top-bot-363636 px-2 color-363636">
                             <div><b>Smart</b> Online Video System for</div>
                             <div>Real Estate Agents Only</div>
-                            <div class="mt-3">Video has a <b>Voice-Over</b> and <b>Subtitles</b></div>
+                            <div class="mt-3">Video has a <b>Voice-Over</b> and <b>Subtitles</b>,</div>
                             <div class="mb-3">perfect for Online and Social Media</div>
                             <div>Video uses <b>Your Brand</b> and Personalised</div>
                             <div>details for Maximum Promotion.</div>
