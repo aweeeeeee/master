@@ -54,7 +54,7 @@
          <br><br> <br><br> <br><br>
         <div class="d-flex flex-column agency-template2">
             <div class="text-center">
-                <img src="{{ asset('storage/the-agency-logo.jpg') }}" class="img-fluid col-8 py-4">
+                <img src="{{ asset('storage/the-agency-logo.jpg') }}" class="img-fluid col-8 py-5">
             </div>
             <div class="d-flex align-items-start">
                 <div><img src="{{ asset('storage/Natalie-Kemp.jpg') }}" class="w-100 img-fluid"></div>
