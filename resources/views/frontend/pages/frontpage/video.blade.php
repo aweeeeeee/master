@@ -13,13 +13,13 @@
                 </div>
                 <div class="col-lg">
                   <div class="mt-3">
-                        <a href="/get-started"><img class="m-0 img-fluid w-100" src={{ asset('storage/h-why-revid.jpg') }} /></a>
+                        <iframe width="300" height="165" src="https://www.youtube.com/embed/KgJkKSO751I" frameborder="0" allowfullscreen></iframe>
                         <p class="py-3 mx-0 border-bot-ff0033">How REVid Can Help You Sell More?</p>
                   </div>
                 </div>
                 <div class="col-lg">
                     <div class="mt-3">
-                         <a href="/get-started"><img class="m-0 img-fluid w-100" src={{ asset('storage/vendor-video-thumb.jpg') }} /></a>
+                         <iframe width="300" height="165" src="https://www.youtube.com/embed/qLHe3CLbr9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                          <p class="text-center p-3 border-bot-0066ff">Vendor Video about REVid</p>
                   </div>
                 </div>
