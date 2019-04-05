@@ -33,7 +33,7 @@
             </div>
           </div>
         </div>
-        <div class="row container-top">
+        <div class="row">
             <div class="col-md-auto">
                 <div class="d-flex flex-row m-icon-con">
                     <div class="align-self-center"><a href=""><i class="medium-icons m-fb"></i></a></div>
