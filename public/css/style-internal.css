@@ -12,6 +12,18 @@
    font-weight: normal;
    font-style: normal;
 }
+@font-face {
+   font-family: 'gtamerica';
+   src: url(fonts/GT-America-Regular.otf) format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'gtamericalight';
+   src: url(fonts/GT-America-Light.otf) format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
 body { font-family:arial }
 .header-internal { background:#ffce00; font-family:Trebuchet MS; }
 .content { width:980px; margin:0px auto; }
@@ -240,6 +252,16 @@ i.arrow-down { border: solid #666666; border-width: 0 1px 1px 0; display: inline
 .peard-color-3 div:nth-child(3) { color:#ffffff; font-size:4.3rem; line-height:55px; }
 .peard-color-3 div:nth-child(4) { color:#ffffff; font-size:3.5rem; line-height:55px; }
 .peard-color-3 div:last-child { color:#0199d8; font-size:3rem; }
+.agency-template { width:460px; height:256px; }
+.agency-template > div:first-child,.agency-template .align-items-end { background:#353535; color:#ffffff; }
+.agency-template .align-items-end { padding:20px; font-size:14px; font-family:gtamericalight; }
+.agency-template > .d-flex div { width:230px; }
+.agency-template .bg-fd4640 { font-family:gtamerica; background:#fd4640; color:#ffffff; padding:15px 20px 15px 20px; font-weight:bold; font-size:26px; }
+.agency-template2 { width:920px; height:527px; }
+.agency-template2 > div:first-child,.agency-template2 .align-items-end { background:#353535; color:#ffffff; }
+.agency-template2 .align-items-end { padding:30px; font-size:29px; font-family:gtamericalight; height:350px; }
+.agency-template2 > .d-flex div { width:460px; }
+.agency-template2 .bg-fd4640 { font-family:gtamerica; background:#fd4640; color:#ffffff; padding:25px 30px 25px 30px; font-weight:bold; font-size:50px; }
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
     .bg-light { background:none !important; }
