@@ -8,6 +8,20 @@
             <div class="account-position">Agency Group</div>
             <div class="account-position">Name of Agency</div>
         </div>
+        <div class="row vendor-container mt-3">
+            <div class="col">
+                <div class="d-flex flex-row">
+                  <div><i class="vendor-icon i-v-video"></i></div>
+                  <div><a href="">Vendor Video</a></div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="d-flex flex-row">
+                  <div><i class="vendor-icon i-v-brochure"></i></div>
+                  <div><a href="">Vendor Brochure</a></div>
+                </div>
+            </div>
+        </div>
     </li>
     <li>
         <i class="account-icon my-creator @if (Request::segment(2) == 'video-creator') {{'my-creator-active'}} @else {{'my-creator'}} @endif"></i>

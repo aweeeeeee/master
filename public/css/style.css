@@ -654,6 +654,9 @@ i.a-f-mp4 { background-position:-52px 0px; }
 i.a-f-flv { background-position:-106px 0px; }
 i.a-f-avi { background-position:-161px 0px; }
 i.a-f-mov { background-position:-211px 0px; }
+i.vendor-icon { background:url(backgrounds/vendor-icon.png); height:35px; width:30px; display:inline-block; }
+i.i-v-video { background-position:0px 0px; }
+i.i-v-brochure { background-position:30px 0px; }
 /** end icons **/
 
 /**frontpage**/
@@ -895,6 +898,8 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
 .billing-table tr td:first-child { text-align:center; }
 .billing-table tr td:last-child,.billing-table span { text-align:right; width:120px; }
 .billing-amount { border:1px solid #999999; padding:5px 10px; font-size:20px; }
+.vendor-container { line-height:16px; font-weight:bold; color:#424244; }
+.vendor-container .d-flex { border:1px solid #c1c1c1; padding:10px; }
 @media (max-width:330px){
     .bg-primary { background-image:linear-gradient(180deg, #424244 50%, #eaeaea 30%); }
     .pricing-data label { font-size:14px; }
