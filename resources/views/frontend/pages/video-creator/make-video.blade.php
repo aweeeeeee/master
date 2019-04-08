@@ -30,7 +30,7 @@
                                   <div><input type="text" class="form-control w-100 b-radius-0" placeholder="URL here"></div>
                                   <div class="d-flex justify-content-between my-2">
                                         <div class="align-self-center">
-                                            <button type="submit" class="btn btn-primary b-radius-7 bg-c0c0c0 c-ff0033 btn-no-border"><div class="px-2"><b>ADD Comments</b></div></button>
+                                            <button type="submit" class="btn btn-primary b-radius-7 bg-c0c0c0 <!--c-ff0033--> btn-no-border"><div class="px-2"><b>ADD Comments</b></div></button>
                                         </div>
                                         <div><button type="submit" class="btn btn-primary b-radius-7 bg-009900 btn-no-border px-4"><div class="px-2"><b>GO</b></div></button></div>
                                  </div>
@@ -38,22 +38,20 @@
                                   <div class="color-414142 mb-2"><b>Direct Upload (for Hi-Res Image Upload)</b></div>
                                   <div><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 1"></div>
                                   <div class="my-2"><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 2"></div>
-                                  <div>
+                                  <div><input type="text" class="form-control w-100 b-radius-0" placeholder="Suburb"></div>
+                                  <div class="my-2">
                                      <div class="row">
-                                           <div class="col-lg-5 pr-3">
-                                                <input type="text" class="form-control w-100 b-radius-0" placeholder="Suburb">
-                                           </div>
-                                           <div class="col-lg-3 px-0 m-state">
+                                           <div class="col-lg pr-2 m-state">
                                                <input type="text" class="form-control w-100 b-radius-0" placeholder="State">
                                            </div>
-                                           <div class="col-lg">
+                                           <div class="col-lg-4 pl-2">
                                                <input type="text" class="form-control w-100 b-radius-0" placeholder="Post Code">
                                            </div> 
                                     </div>
                                   </div>   
                                   <div class="d-flex justify-content-between mt-2">
                                         <div class="align-self-center">
-                                            <button type="submit" class="btn btn-primary b-radius-7 bg-c0c0c0 c-ff0033 btn-no-border"><div class="px-2"><b>ADD Comments</b></div></button>
+                                            <button type="submit" class="btn btn-primary b-radius-7 bg-c0c0c0 <!--c-ff0033--> btn-no-border"><div class="px-2"><b>ADD Comments</b></div></button>
                                         </div>
                                         <div><button type="submit" class="btn btn-primary b-radius-7 bg-009900 btn-no-border px-4"><div class="px-2"><b>GO</b></div></button></div>
                                   </div>
@@ -78,19 +76,19 @@
                             <div class="d-flex flex-column">
                                 <div class="font-t-ms color-414142 mb-2"><b>Manual Process</b></div>
                                 <div><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 1"></div>
-                                <div class="my-3"><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 2"></div>
-                                <div class="row">
-                                           <div class="col-lg-5 pr-3">
-                                                <input type="text" class="form-control w-100 b-radius-0" placeholder="Suburb">
-                                           </div>
-                                           <div class="col-lg-3 px-0 m-state">
+                                <div class="my-2"><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 2"></div>
+                                <div><input type="text" class="form-control w-100 b-radius-0" placeholder="Suburb"></div>
+                                  <div class="my-2">
+                                     <div class="row">
+                                           <div class="col-lg pr-2 m-state">
                                                <input type="text" class="form-control w-100 b-radius-0" placeholder="State">
                                            </div>
-                                           <div class="col-lg">
+                                           <div class="col-lg-4 pl-2">
                                                <input type="text" class="form-control w-100 b-radius-0" placeholder="Post Code">
                                            </div> 
-                                </div>
-                                <div class="d-flex justify-content-between mt-3">
+                                    </div>
+                                  </div>   
+                                <div class="d-flex justify-content-between mt-2">
                                     <div class="align-self-center">
                                         <a tabindex="0" class="color-ff0033" data-container="body" role="button" data-toggle="popover" data-trigger="focus" data-placement="bottom" data-html="true" data-content="
                                                     
@@ -126,19 +124,19 @@
                             <div class="d-flex flex-column">
                                 <div class="font-t-ms color-414142 mb-2"><b>Custom Process</b></div>
                                 <div><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 1"></div>
-                                <div class="my-3"><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 2"></div>
-                                <div class="row">
-                                           <div class="col-lg-5 pr-3">
-                                                <input type="text" class="form-control w-100 b-radius-0" placeholder="Suburb">
-                                           </div>
-                                           <div class="col-lg-3 px-0 m-state">
+                                <div class="my-2"><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 2"></div>
+                                <div><input type="text" class="form-control w-100 b-radius-0" placeholder="Suburb"></div>
+                                <div class="my-2">
+                                     <div class="row">
+                                           <div class="col-lg pr-2 m-state">
                                                <input type="text" class="form-control w-100 b-radius-0" placeholder="State">
                                            </div>
-                                           <div class="col-lg">
+                                           <div class="col-lg-4 pl-2">
                                                <input type="text" class="form-control w-100 b-radius-0" placeholder="Post Code">
                                            </div> 
-                                </div>
-                                <div class="d-flex justify-content-between mt-3">
+                                    </div>
+                                </div>   
+                                <div class="d-flex justify-content-between mt-2">
                                     <div class="align-self-center">
                                         <a tabindex="0" class="color-ff0033" data-container="body" role="button" data-toggle="popover" data-trigger="focus" data-placement="bottom" data-html="true" data-content="
                                         <div class='color-303030 pl-2 my-2'><b>What Happens Next?</b></div>
