@@ -49,7 +49,7 @@
           </div>
           <div class="col-sm mt-4">
             <div class="h-col-3 h-100">
-                <h3 class="text-center py-2"><b>VIDEO WITH VOICE OVER</b></h3>
+                <h3 class="text-center py-2"><b>JOIN TODAY FOR FREE</b></h3>
                 <div class="fv-mobile">
                      @include('frontend.pages.frontpage.firstvideo.mobile-view')
                 </div>
