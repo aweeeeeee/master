@@ -30,25 +30,12 @@
                                   <div><input type="text" class="form-control w-100 b-radius-0" placeholder="URL here"></div>
                                   <div class="d-flex justify-content-between my-2">
                                         <div class="align-self-center">
-                                            <a tabindex="0" class="color-ff0033" data-container="body" role="button" data-toggle="popover" data-trigger="focus" data-placement="bottom" data-html="true" data-content="
-                               
-                                                    <div class='color-303030 pl-2 my-2'><b>What Happens Next? (When you Press “GO”)</b></div>
-                                                    <ol class='a-make-v-ol pl-4 pr-2 ol-6600cc text-justify color-000'>
-                                                        <li>You go to a confirmation page which asks you to <b>Approve</b> the order;</li>  
-                                                        <li>The REVid team takes over and the URL location property images
-                                                        and details are “Compiled” into your Video storyboard and your
-                                                        Script is built;</li>
-                                                        <li>Your Video is edited - with the images rendered to the Voice-over
-                                                        and music.</li>
-                                                        <li><b>Your Video is Delivered.</b></li>
-                                                    </ol>
-                                     
-                                            ">What Happens Next?</a>
+                                            <button type="submit" class="btn btn-primary b-radius-7 bg-c0c0c0 c-ff0033 btn-no-border"><div class="px-2"><b>ADD Comments</b></div></button>
                                         </div>
                                         <div><button type="submit" class="btn btn-primary b-radius-7 bg-009900 btn-no-border px-4"><div class="px-2"><b>GO</b></div></button></div>
                                  </div>
                                   <div><img class="img-fluid" src={{ asset('storage/or-v2.png') }} /></div>
-                                  <div class="color-414142 mb-2"><b>Direct Upload</b></div>
+                                  <div class="color-414142 mb-2"><b>Direct Upload (for Hi-Res Image Upload)</b></div>
                                   <div><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 1"></div>
                                   <div class="my-2"><input type="text" class="form-control w-100 b-radius-0" placeholder="Address 2"></div>
                                   <div>
@@ -66,20 +53,7 @@
                                   </div>   
                                   <div class="d-flex justify-content-between mt-2">
                                         <div class="align-self-center">
-                                            <a tabindex="0" class="color-ff0033" data-container="body" role="button" data-toggle="popover" data-trigger="focus" data-placement="bottom" data-html="true" data-content="
-                                     
-                                                        <div class='color-303030 pl-2 my-2'><b>What Happens Next? (When you Press “UPLOAD”)</b></div>
-                                                        <ol class='a-make-v-ol pl-4 pr-2 ol-6600cc text-justify color-000'>
-                                                            <li>You go to a <b>Direct Upload</b> page which asks you to enter the
-                                                            property information a description (word or pdf) and upload 10 to 25 images;</li>  
-                                                            <li>You go to a confirmation page which asks you to <b>Approve</b> the order; The REVid team takes over and the property images and details
-                                                            are ‘Compiled’ into your video storyboard and your Voice-over Script is built.</li>
-                                                            <li>Your Video is edited - with images rendered to the Voice-over
-                                                            and music.</li>
-                                                            <li><b>Your Video is Delivered.</b></li>
-                                                        </ol>
-                                
-                                            ">What Happens Next?</a>
+                                            <button type="submit" class="btn btn-primary b-radius-7 bg-c0c0c0 c-ff0033 btn-no-border"><div class="px-2"><b>ADD Comments</b></div></button>
                                         </div>
                                         <div><button type="submit" class="btn btn-primary b-radius-7 bg-009900 btn-no-border px-4"><div class="px-2"><b>GO</b></div></button></div>
                                   </div>
