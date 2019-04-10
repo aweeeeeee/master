@@ -86,7 +86,7 @@
                                     <div class="col-sm">
                                         <form class="register-form quick-order-form">
                                             <input type="text" class="form-control w-100" placeholder="Add Your Email">
-                                            <input type="text" class="form-control w-100 my-3" placeholder="Property Websute Listing URL (address)">
+                                            <input type="text" class="form-control w-100 my-3" placeholder="Property Website Listing URL (address)">
                                             <textarea col="10" rows="10" class="form-control w-100" placeholder="Comments or Instructions Here"></textarea>
                                             <div class="d-flex justify-content-between my-3">
                                                 <div>

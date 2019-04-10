@@ -21,7 +21,7 @@
 
               @include('frontend.pages.frontpage.join')
           
-              @include('frontend.pages.frontpage.order-video')
+              @include('frontend.pages.frontpage.quick-video')
 
               @include('frontend.pages.frontpage.info')
 
