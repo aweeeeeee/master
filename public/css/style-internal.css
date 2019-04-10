@@ -257,10 +257,10 @@ i.arrow-down { border: solid #666666; border-width: 0 1px 1px 0; display: inline
 .agency-template .align-items-end { padding:20px; font-size:14px; font-family:gtamericalight; }
 .agency-template > .d-flex div { width:230px; }
 .agency-template .bg-fd4640 { font-family:gtamerica; background:#fd4640; color:#ffffff; padding:15px 20px 15px 20px; font-weight:bold; font-size:26px; }
-.agency-template2 { width:920px; height:527px; }
+.agency-template2 { width:960px; height:527px; }
 .agency-template2 > div:first-child,.agency-template2 .align-items-end { background:#353535; color:#ffffff; }
-.agency-template2 .align-items-end { padding:30px; font-size:29px; font-family:gtamericalight; height:350px; }
-.agency-template2 > .d-flex div { width:460px; }
+.agency-template2 .align-items-end { padding:30px; font-size:29px; font-family:gtamericalight; height:370px; }
+.agency-template2 > .d-flex div { width:480px; }
 .agency-template2 .bg-fd4640 { font-family:gtamerica; background:#fd4640; color:#ffffff; padding:25px 30px 25px 30px; font-weight:bold; font-size:50px; }
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }

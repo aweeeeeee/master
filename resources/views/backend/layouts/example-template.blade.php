@@ -51,7 +51,7 @@
             </div>
         </div>
         
-         <br><br> <br><br> <br><br>
+        <br><br> <br><br> <br><br>
         <div class="d-flex flex-column agency-template2">
             <div class="text-center">
                 <img src="{{ asset('storage/the-agency-logo.jpg') }}" class="img-fluid col-8 py-5">
@@ -72,7 +72,7 @@
                 </div>
             </div>
         </div>
-        <br><br> <br><br> <br><br>
+        <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
     </div>
 
 
