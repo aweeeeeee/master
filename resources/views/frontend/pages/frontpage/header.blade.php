@@ -39,8 +39,9 @@
                         </div>
                         <div class="col text-center pr-0 pl-1 h-100">
                             <div class="col-bg pt-3 pb-2">
-                                <a href=""><i class="f-video-icon f-video"></i></a>
-                                <h3><a href="/lets-get-started/1">Make Video</a></h3>
+                                <a href=""><i class="f-video-icon f-quick"></i></a>
+                                <h3><a href="/lets-get-started/1" data-toggle="modal" data-target="#QuickModalCenter">Quick Order</a></h3>
+
                             </div>
                         </div>
                       </div>
@@ -58,5 +59,48 @@
                 </div>
             </div>
           </div>
+          <div class="modal fade" id="QuickModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <img class="img-fluid" src={{ asset('storage/quick-order-logo.jpg') }} />
+                                        <div class="border-bot5"><span class="w-100">Cost</span></div>
+                                        <div class="d-flex justify-content-between mt-2">
+                                            <div>Video</div>
+                                            <div>$99.00</div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div>gst</div>
+                                            <div class="border-bot5 pl-4">$9.90</div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div>
+                                                Total<br>
+                                                incl GST
+                                            </div>
+                                            <div class="border-bot5 pl-1 align-self-center py-2"><b>$108.90</b></div>
+                                        </div>
+                                    </div>  
+                                    <div class="col-sm">
+                                        <form class="register-form quick-order-form">
+                                            <input type="text" class="form-control w-100" placeholder="Add Your Email">
+                                            <input type="text" class="form-control w-100 my-3" placeholder="Property Websute Listing URL (address)">
+                                            <textarea col="10" rows="10" class="form-control w-100" placeholder="Comments or Instructions Here"></textarea>
+                                            <div class="d-flex justify-content-between my-3">
+                                                <div>
+                                                    <b>Order My Video Now;</b>
+                                                    <div>See <a href="" class="font-weight-normal">Terms and Conditions</a></div>
+                                                </div>
+                                                <div><button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-4"><b>GO</b></button></div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
       </div>
   </div>
