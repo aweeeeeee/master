@@ -6,19 +6,14 @@
         <div class="row">
            <div class="col-sm col-md-auto pb-3">
                <h1 class="c-6600cc">Where do I use REVid?</h1>
-               <a href=""><img class="img-fluid" src={{ asset('storage/where-use-revid-website.jpg') }} /></a>
+               <iframe width="435" height="245" src="https://www.youtube.com/embed/KgJkKSO751I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
            </div>
            <div class="col-sm">
                <h1 class="c-6600cc pl-4">Online and Websites</h1>
                 <ul class="list text-justify ml-4 line-height20">
-                    <li>Upload your Video with Voice-over to the listing sites and online
-                        property for sale sites to further compliment the photos and enhance
-                        your online listings.</li>
-                    <li>Use the REVid service - <b>Upload to Websites</b> which is designed to make it easy for you as the REVid team uploads the completed REVid Video to the <b>online sites</b> or <b>websites</b> you have nominated</li>
-                    <li>Use the REVid service - <b>Upload to Websites</b> which is designed to
-                        make it easy for you as the REVid team uploads the completed
-                        REVid Video to the <b>online sites</b> or <b>websites</b> you have nominated.</li>
-                    <li>Coming soon (2019) available on <b>DriveBy</b> (free to members).</li>
+                    <li>Upload your Video with Voice-over to the listing sites and online property for sale sites to further compliment the photos and enhance your online listings.</li>
+                    <li>Upload to your company Website. Listings on a webpage receive up to a massive 42% increase in engagement compared to static text and images alone.</li>
+                    <li>Coming soon <b>DriveBy</b> (free to members).</li>
                 </ul>
            </div>
         </div>

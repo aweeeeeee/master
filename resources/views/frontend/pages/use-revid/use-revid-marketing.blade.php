@@ -12,12 +12,10 @@
            <div class="col-sm">
             <h1 class="c-6600cc pl-4">Marketing</h1>
             <ul class="list text-justify ml-4 line-height21">
-                <li>Now your <b>marketing program</b> can include a professional Video with
-                    Voice-over. This could super-charge your online and social media
-                    marketing results.</li>
-                <li><b>Promotions</b> and <b>advertising</b> can be linked to the Video with Voice-over locations. Plus it is a value-proposition when pitching to <b>prospective vendors</b> for a new listing.</li>
+                <li>Now your <b>marketing program</b> can include a professional Video with Voice-over. This could super-charge your online and social media marketing results.</li>
+                <li><b>Promotions</b> and <b>advertising</b> can be linked to the Video with Voice-over locations. Plus it is a value-proposition when pitching to prospective vendors for a new listing.</li>
                 <li>Your <b>personal</b> and <b>agency brand</b> promotion is reinforced everytime your Video with Voice-over is viewed.</li>
-                <li>Video with Voice-over is a vital tool to use in today’s <br>marketing environment.</li>
+                <li>Video with Voice-over is a vital tool to use in today’s  <br>marketing environment.</li>
             </ul>
            </div>
         </div>
