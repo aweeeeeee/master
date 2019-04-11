@@ -36,8 +36,8 @@
             </div>
             <div class="d-flex align-items-start">
                 <div><img src="{{ asset('storage/Natalie-Kemp.jpg') }}" class="w-100 img-fluid"></div>
-                <div class="h-100">
-                    <div class="bg-fd4640">Natalie Kemp</div>
+                <div>
+                    <div class="bg-fd4640 w-100">Natalie Kemp</div>
                     <div class="h-100">
                         <div class="d-flex align-items-end h-100">
                             <div>
