@@ -720,9 +720,9 @@ i.m-in { background-position:-222px 0px; }
 .premium-table { border-top:1px solid #000000; border-bottom:1px solid #000000; color:#000; }
 .premium-table tr:not(:last-child) td { border-bottom:1px solid #999999; }
 .premium-table tr td:not(:first-child) { padding:10px 10px 10px 15px; }
-.premium-table tr td:nth-child(2) { border-left:1px solid #999999; }
-.premium-table tr td:last-child { border-left:1px solid #ff0033; }
-.premium-table tr td:first-child { padding:10px 0px;  }
+.premium-table tr td:nth-child(2) { border-left:1px solid #999999; width:320px; }
+.premium-table tr td:last-child { border-left:1px solid #ff0033; width:320px; }
+.premium-table tr td:first-child { padding:10px 0px; width:340px; }
 .premium-table tr:first-child td { font-size:20px; font-weight:bold; font-family:tilium; }
 .premium-table tr:first-child td:nth-child(2) { background:#666666; color:#ffffff; }
 .premium-table tr:first-child td:last-child { background:#ff0033; color:#ffffff; } 
@@ -736,7 +736,8 @@ i.m-in { background-position:-222px 0px; }
 .quick-order-form button { background:#009933 !important; }
 #QuickModalCenter span { color:#ff0033; font-weight:bold; }
 #QuickModalCenter .modal-content { border-radius:0px; }
-#QuickModalCenter .modal-body { padding:0px 20px; } 
+#QuickModalCenter .modal-body { padding:0px 20px; }
+.premium-table tr:nth-child(n+4):nth-child(-n+5) td:first-child { padding:20px 0px !important; }
 /** end frontpage**/
 
 /** account **/
