@@ -11,10 +11,10 @@
            <div class="col-sm">
             <h1 class="c-6600cc pl-4">Social Media</h1>
             <ul class="list text-justify ml-4 line-height21">
-                <li><b>Social Media</b> is a very important platform for promoting your brand and the listings you have for sale. In fact, agents will get up to 80% better click through using video on Facebook compared to just static text alone.</li>
-                <li>Video with Voice-over is the <b>preferred format</b> for <b>Social Media</b> and is becoming more important for engagement and success.</li>
+                <li><b>Social Media</b> is a very important platform for <b>promoting your brand and the listings</b> you have for sale. In fact, agents will get up to 80% better click through using video on Facebook compared to just static text alone.</li>
+                <li>Video with Voice-over is the <b>preferred format</b> for <b>Social Media</b> and is becoming more important for <b>engagement and success</b>.</li>
                 <li>REVid Video with Voice-over format (full screen with sub-titles) is <b>ideal for Social Media platforms.</b></li>
-                <li>Today, your marketing program can include positive <b>Social Media</b> interaction as <b>REVid gives you Easy, Fast and Low-Cost solution.</b></li>
+                <li>Today, your marketing program can include positive <b>Social Media</b> interaction as <b>REVid gives you Easy, Fast and Low-Cost</b> solution.</li>
             </ul>
            </div>
         </div>

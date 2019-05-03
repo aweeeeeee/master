@@ -11,7 +11,7 @@
            <div class="col-sm">
                 <h1 class="c-6600cc pl-4">Fast</h1>
                 <ul class="list text-justify ml-4">
-                    <li class="mb-0"><b>Normal</b> Video productions take between <b>2 to 3 days</b>.</li>
+                    <li class="mb-0"><b>Normal</b> Video productions take between <b>2 to 3 days</b> maximum.</li>
                     <li><b>Compared to the alternative</b> of getting a film crew on-site, establishing directions, writing a script and having it recorded and then edited – <b>REVid is lighting FAST!</b></li>
                 </ul>
            </div>
