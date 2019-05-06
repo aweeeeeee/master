@@ -8,7 +8,7 @@
                 
                 <p class="text-justify line-height20">We turn your property listings into Video with Voice-over. REVid is a NO
                 FUSS Online System that makes it Easy (one-click ordering), Fast (from
-                2 hrs) and Lost Cost to access professional Video for use in many
+                2 hrs) and Low Cost to access professional Video for use in many
                 applications and media.</p>
                 
                 <h1>What is REVid</h1>
