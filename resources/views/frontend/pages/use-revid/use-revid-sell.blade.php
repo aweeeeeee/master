@@ -14,7 +14,7 @@
                     <li class="mb-1">The Voice-over tracks speak to your potential buyers when describing the property and presenting the Video. Your online property listing are complimented by adding Video with Voice-over.</li>
                     <li class="mb-1">It is easy and quick for potential buyers to watch your Video with Voice-over and look, see and hear about it – it makes a better connection than just pictures.</li>
                     <li class="mb-1">Video supports your brand and profile – and video supports formats like Social Media – which is becoming more important in the sales and branding process of selling.</li>
-                    <li>Using DriveBy (coming soon in 2020) with is FREE for subscribers and gives you more value-added exposure for your property listing.</li>
+                    <li>Using <b>DriveBy</b> (coming soon in 2020) with is FREE for subscribers and gives you more value-added exposure for your property listing.</li>
                 </ul>
            </div>
         </div>
