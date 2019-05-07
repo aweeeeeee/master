@@ -22,51 +22,36 @@
                         </div>
                         <div class="col-sm pl-0"><button type="submit" class="btn btn-primary bg-009900 px-4 btn-no-border b-radius-7 w-100"><b>GO</b></button></div>
                   </div>
-                  <div class="row m-r-l my-5">
+                  <div class="row m-r-l my-4">
                         <div class="col-sm-10">
-                             <h3 class="color-6600cc pb-2">Email</h3>
-                             <div><b>help@revid.com.au</b></div>
+                             <div class="d-flex justify-content-between">
+                                <div>
+                                    <h3 class="color-6600cc pb-2">Email</h3>
+                                    <div><b>help@revid.com.au</b></div> 
+                                </div>
+                                <div>
+                                    <h3 class="color-6600cc pb-2">Telephone</h3>
+                                    <div><b>1300 100 111</b></div> 
+                                </div>
+                             </div>
                         </div>
-                        <div class="col-sm pl-0"><button type="submit" class="btn btn-primary btn-6600cc px-1 btn-no-border b-radius-7 w-100"><b>EMAIL</b></button></div>
                   </div>
-                  <h3 class="color-6600cc">Online Live Chat</h3>
-                  <div class="form-group{{ $errors->has('name') ? ' has-error' : '' }} m-0">
-                        <div class="textarea"></div>
+                  <h3 class="color-6600cc mt-5">Call Me Back (next 24 hours)</h3>
+                  <div class="d-flex flex-row call-col-2">
+                        <div class="align-self-center">Please Call</div>
+                        <div><input id="name" type="text" class="form-control" name="name" placeholder="John Smith" required autofocus></div>
                   </div>
-                  <div class="row form-live-text py-3 m-0">
-                    <div class="col-sm">
-                        <div class="form-group{{ $errors->has('name') ? ' has-error' : '' }} mb-0">      
-                          <input id="name" type="text" class="form-control form-input-n-b" name="name" required autofocus placeholder="Start typing your message...">
-                          @if ($errors->has('name'))
-                               <span class="help-block">
-                                    <strong>{{ $errors->first('name') }}</strong>
-                               </span>
-                          @endif
-                       </div>  
-                    </div>
-                    <div class="col-sm">
-                        <div class="text-right">
-                            <button type="submit" class="btn btn-primary bg-009900 px-3 btn-no-border b-radius-7"><b>SEND</b></button>
-                        </div>  
-                    </div>
+                  <div class="d-flex flex-row call-col-2 my-3">
+                        <div class="align-self-center">Mobile</div>
+                        <div><input id="name" type="text" class="form-control" name="" required autofocus></div>
                   </div>
-                  <h3 class="color-6600cc mt-5">Please telephone call me!</h3>
-                  <div class="d-flex flex-column">
-                      <div class="row m-r-l">
-                            <div class="col-sm-2 align-self-center">Please Call</div>
-                            <div class="col-sm"><input id="name" type="text" class="form-control" name="name" required autofocus></div>
-                            <div class="col-sm-2 align-self-center text-center"><a href="">Change</a></div>
-                      </div>
-                      <div class="">or</div>
-                      <div class="row m-r-l">
-                            <div class="col-sm-2 align-self-center">Mobile</div>
-                            <div class="col-sm"><input id="name" type="text" class="form-control" name="name" required autofocus></div>
-                            <div class="col-sm-2 align-self-center text-center"><a href="">Change</a></div>
-                      </div>
+                  <div class="d-flex flex-row call-col-2 my-3">
+                        <div class="align-self-center">Best Time</div>
+                        <div><input id="name" type="text" class="form-control" name="" required autofocus></div>
                   </div>
                   <div class="d-flex flex-row-reverse">
-                            <button type="submit" class="btn btn-primary btn-6600cc">CALL</button>
-                  </div>  
+                        <div><button type="submit" class="btn btn-primary btn-6600cc"><b>CALL ME</b></button></div>
+                  </div> 
               </div>
             </form>
         </div>
