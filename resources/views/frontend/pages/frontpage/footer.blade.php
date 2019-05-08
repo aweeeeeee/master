@@ -22,7 +22,6 @@
                               <div class="col-auto p-0"><a href=""><i class="social-icon2 chk2"></i></a></div>
                               <div class="col-auto p-0"><a href=""><i class="social-icon2 ytb2"></i></a></div>
                               <div class="col-auto p-0"><a href=""><i class="social-icon2 pin2"></i></a></div>
-                              <div class="col-auto p-0"><a href=""><i class="social-icon2 glg2"></i></a></div>
                       </div>
                       <div class="my-2 text-center text-white">REVid Systems Pty Ltd 2019 - <br>Terms and Conditions - Copyright - <br>Privacy Policy - Contact</div>
                   </div>
@@ -33,7 +32,6 @@
                       <a href=""><i class="social-icon chk"></i></a>
                       <a href=""><i class="social-icon ytb"></i></a>
                       <a href=""><i class="social-icon pin"></i></a>
-                      <a href=""><i class="social-icon glg"></i></a>
                       <p class="my-2 text-center text-white">REVid Systems Pty Ltd 2019 - Terms and Conditions - Copyright - Privacy Policy - Contact</p>
                   </div>
       </div>

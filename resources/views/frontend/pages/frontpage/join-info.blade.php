@@ -2,9 +2,9 @@
   <h3 class="header-border font-weight-bold">Join Today, and Receive 12-months FREE PREMIUM Package</h3>
     
   <p class="text-justify">As an introductory offer, be one of the few to receive a FREE PREMIUM service for the next 12-months. Valued at over @if (request()->is('/')) $790; @else $396; @endif this means
-  you get all the benefits of PREMIUM at no extra 
+  you get @if(request()->is('/')) all @endif the benefits of PREMIUM at no extra 
           @if(request()->is('promotional'))
-            cost<sup>(4)</sup> 
+            cost<sup>(4)</sup>. 
           @else 
             cost.
           @endif 

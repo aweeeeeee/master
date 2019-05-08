@@ -39,7 +39,7 @@
                     <div class="align-self-center"><a href=""><i class="medium-icons m-fb"></i></a></div>
                     <div class="mx-2"><a href=""><i class="medium-icons m-instag"></i></a></div>
                     <div><a href=""><i class="medium-icons m-twtr"></i></a></div>
-                    <div class="mx-2"><a href=""><i class="medium-icons m-gplus"></i></a></div>
+                    <div class="mx-2"><a href=""><i class="medium-icons m-ytb"></i></a></div>
                     <div><a href=""><i class="medium-icons m-in"></i></a></div>
                 </div>
             </div>
