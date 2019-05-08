@@ -4,6 +4,9 @@ Route::get('/', function () {
     return view('frontend.pages.frontpage');
 });
 
+Route::get('/promotional', function () {
+    return view('frontend.pages.promotional');
+});
 Route::get('/use-revid/help-sell', function () {
     return view('frontend.pages.use-revid.use-revid-sell');
 });

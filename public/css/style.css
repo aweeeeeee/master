@@ -225,7 +225,9 @@ h3.my-account-title { font-size:20px; border-bottom:1px solid #999999; padding:3
 .revid-list p { margin-top:20px; }
 .revid-list a { color:#414142; font-weight:bold; }
 .f-page-info h3 { font-size:20px; font-family:arial; }
-.f-page-info span { color:#02a32b; }
+.f-page-info span.lightgreen { color:#02a32b; }
+.f-page-info span.lightblue { color:#004fad; }
+.f-page-info .position-absolute { padding:65px 10px; }
 .step-info { margin:30px 0px 20px 0px; font-family:Trebuchet MS !important; }
 .step-info h3 { margin:0px; font-size:18px; border-bottom:1px solid #999; font-weight:bold; margin:10px 0px; padding-bottom:10px; }
 .step-info > .col-md-auto:nth-child(n+2) h3 { padding-left:15px; }
@@ -951,6 +953,8 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
 .peard-color-2 div:nth-child(3) { color:#ffffff; font-size:26px; line-height:25px; }
 .peard-color-2 div:nth-child(4) { color:#ffffff; font-size:21px; line-height:25px; }
 .peard-color-2 div:last-child { color:#0199d8; font-size:20px; }
+.promotion-bg { padding-top:20px; padding-bottom:200px; background-image:url('backgrounds/bg.jpg'); background-repeat:no-repeat; background-position:center;background-size:cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; height:100%; color:#ffffff; font-size:14px; }
+.promotion-bg .row .col:first-child { border-right:1px solid #333333; padding-top:15px; }
 @media (max-width:330px){
     .bg-primary { background-image:linear-gradient(180deg, #424244 50%, #eaeaea 30%); }
     .pricing-data label { font-size:14px; }
@@ -987,6 +991,7 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
     .get-started-column .w-205 { width:auto; }
     .get-started-column .m-l-4 {margin-left:0px; }
     .get-started-column .col-sm:nth-child(2) { margin:20px 0px; }
+    .promotion-bg .row .col:first-child { padding-top:10px; }
     
 }
 @media (min-width:615px){
@@ -1014,7 +1019,8 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
     .surge-button { margin:20px 0px; }
     .my-account-video { margin:20px 0px; }
     .f-av-home .border-left-666 { border-left:none; }
-    .f-r2-video .col-lg:first-child { text-align:center; } 
+    .f-r2-video .col-lg:first-child { text-align:center; }
+    .f-page-info .position-absolute { display:none; }
 }
 
 @media (max-width:980px){
