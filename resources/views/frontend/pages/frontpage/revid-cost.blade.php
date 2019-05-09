@@ -13,7 +13,7 @@
             <td>
                 <div class="d-flex justify-content-between pricing-data">
                     <div>Casual @ $0/month</div>
-                    @if (!request()->is('/'))
+                    @if (!request()->is('/') && !request()->is('promotional') )
                         <div class="custom-control custom-checkbox mt-1">
                             <input type="checkbox" class="custom-control-input" id="customCheck1">
                             <label class="custom-control-label font-weight-bold" for="customCheck1"></label>
@@ -24,7 +24,7 @@
             <td>
                 <div class="d-flex justify-content-between pricing-data">
                     <div>Premium @ $33/month</div>
-                    @if (!request()->is('/'))
+                     @if (!request()->is('/') && !request()->is('promotional') )
                         <div class="custom-control custom-checkbox mt-1">
                             <input type="checkbox" class="custom-control-input" id="customCheck2">
                             <label class="custom-control-label font-weight-bold" for="customCheck2"></label>
