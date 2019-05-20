@@ -16,9 +16,13 @@
                     <option>Period</option>
                 </select>
                 <div class="video-text my-3">Set Date Range</div>
-                <div class="d-flex justify-content-between">
-                    <div class="video-text">From</div>
-                    <div class="video-text">To</div>
+                <div class="d-flex justify-content-between date-picker">
+                    <div>
+                        <input type="text" name="" class="video-text" placeholder="From">
+                    </div>
+                    <div>
+                        <input type="text" name="" class="video-text" placeholder="To">
+                    </div>
                 </div>
             </div>
             <div class="col-sm">
