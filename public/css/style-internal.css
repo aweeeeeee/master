@@ -55,11 +55,11 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .tbl-last { border-bottom:1px solid #cccccc; border-left:1px solid #cccccc; border-right:1px solid #cccccc; }
 .tbl-last tr td,.tbl-w-2 tr td { width:240px; padding:10px; }
 .tbl-last tr td:first-child,.tbl-summary tr td:nth-child(4) { border-right:1px solid #cccccc; }
-.nav-tabs { border-bottom:5px solid #FFCE00; }
-.nav-tabs .nav-item { width:calc(980px/3); }
-.nav-tabs .nav-link.active { background:#ffce00; border-color:#ffce00; border-radius:0px; color:#333333; }
-.nav-tabs .nav-link { background:#e5e5e5; border-radius:0px; color:#333333; border-left:2px solid #fff; font-size:18px; font-weight:bold; }
-.nav-tabs .nav-link:hover { background:#ffce00; border:1px solid #ffce00;}
+.content > .nav-tabs { border-bottom:5px solid #FFCE00; }
+.content > .nav-tabs .nav-item { width:calc(980px/3); }
+.content > .nav-tabs .nav-link.active,#sub-nav-tabs .nav-link.active { background:#ffce00; border-color:#ffce00; border-radius:0px; color:#333333; }
+.content > .nav-tabs .nav-link,#sub-nav-tabs .nav-link { background:#e5e5e5; border-radius:0px; color:#333333; border-left:2px solid #fff; font-size:18px; font-weight:bold; }
+.content > .nav-tabs .nav-link:hover,#sub-nav-tabs .nav-link:hover  { background:#ffce00; border:1px solid #ffce00;}
 .nav-tabs-user,.nav-tabs-manager { border-bottom:5px solid #FFCE00; }
 .nav-tabs-user .nav-item { width:auto; }
 .nav-tabs-manager .nav-item { width:490px; }
@@ -67,8 +67,8 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .nav-tabs-user .nav-link.active,.nav-tabs-manager .nav-link.active { background:#ffce00; border-color:#ffce00; border-radius:0px; color:#333333; }
 .nav-tabs-user .nav-link,.nav-tabs-manager .nav-link  { background:#e5e5e5; border-radius:0px; color:#333333; border-left:2px solid #fff; font-size:18px; font-weight:bold; }
 .nav-tabs-user .nav-link:hover,.nav-tabs-manager .nav-link:hover { background:#ffce00; border-color:#ffce00; }
-.tab-content { border-left:2px solid #ffce00; border-right:2px solid #ffce00; border-bottom:2px solid #ffce00; font-family:arial; }
-.tab-content input { border-radius:0px; }
+.content > .tab-content { border-left:2px solid #ffce00; border-right:2px solid #ffce00; border-bottom:2px solid #ffce00; font-family:arial; }
+.content > .tab-content input { border-radius:0px; }
 .tbl-summary tr td:nth-child(2) { border-left:1px solid #ccc; border-right:1px solid #ccc; width:430px; }
 .tbl-qa tr td:nth-child(3) { border-left:1px solid #ccc; border-right:1px solid #ccc; }
 .tbl-summary tr td:not(:nth-child(3)),.tbl-qa tr td:not(:nth-child(2)) { border-bottom:1px solid #ccc; padding:10px; }

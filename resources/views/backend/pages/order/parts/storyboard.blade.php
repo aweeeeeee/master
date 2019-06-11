@@ -84,47 +84,9 @@
                                 <h3>Uploader</h3>
                             </a>
                         </div>
-                        <div class="bg-efefef p-2 color-333"><b>Picture 1</b></div>
-                        <img src="{{ asset('storage/manual-video-sample.jpg') }}" >
-                        <div class="text-right mb-1"><a href="">Delete</a></div>
-                        
-                        <div class="bg-efefef p-2 color-333"><b>Picture 2</b></div>
-                        <img src="{{ asset('storage/manual-video-default.jpg') }}" >
-                        <div class="text-right mb-1"><a href="">Delete</a></div>
-                        
-                        <div class="bg-efefef p-2 color-333"><b>Picture 3</b></div>
-                        <img src="{{ asset('storage/manual-video-default.jpg') }}" >
-                        <div class="text-right mb-1"><a href="">Delete</a></div>
-                        
-                        <div class="bg-efefef p-2 color-333"><b>Picture 4</b></div>
-                        <img src="{{ asset('storage/manual-video-default.jpg') }}" >
-                        <div class="text-right mb-1"><a href="">Delete</a></div>
-                        
-                        <div class="bg-efefef p-2 color-333"><b>Picture 5</b></div>
-                        <img src="{{ asset('storage/manual-video-default.jpg') }}" >
-                        <div class="text-right mb-1"><a href="">Delete</a></div>
-                        
-                        <div class="bg-efefef p-2 color-333"><b>Picture 6</b></div>
-                        <img src="{{ asset('storage/manual-video-default.jpg') }}" >
-                        <div class="text-right mb-1"><a href="">Delete</a></div>
-                        
-                        <div class="bg-efefef p-2 color-333"><b>Picture 7</b></div>
-                        <img src="{{ asset('storage/manual-video-default.jpg') }}" >
-                        <div class="text-right mb-1"><a href="">Delete</a></div>
-                        
-                        <div class="bg-efefef p-2 color-333"><b>Picture 8</b></div>
-                        <img src="{{ asset('storage/manual-video-default.jpg') }}" >
-                        <div class="text-right mb-1"><a href="">Delete</a></div>
-                        
-                        <div class="bg-efefef p-2 color-333"><b>Picture 9</b></div>
-                        <img src="{{ asset('storage/manual-video-default.jpg') }}" >
-                        <div class="text-right mb-1"><a href="">Delete</a></div>
-                        
-                        <div class="bg-efefef p-2 color-333"><b>Picture 10</b></div>
-                        <img src="{{ asset('storage/manual-video-default.jpg') }}" >
                     </div>
                     <div class="col-md">
-                        <div class="d-flex flex-column storyboard-list">
+                          <div class="d-flex flex-column storyboard-list">
                             <div>
                                 <div class="d-flex justify-content-start board-data">
                                     <div class="p-2"><b>VOICE Identification #</b></div>
@@ -139,162 +101,61 @@
                                     <div class="p-2">text</div>
                                 </div>
                             </div>
-                            <div>
-                                <div class="d-flex justify-content-start board-title">
-                                    <div class="bg-efefef p-2 color-333"><b>Introductory Statement</b></div>
-                                    <div class="border-data p-2">Audio.File Identification</div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-start board-title mt-2">
-                                    <div class="bg-efefef p-2 color-333"><b>General Statement About Property</b></div>
-                                    <div class="border-data d-flex justify-content-between">
-                                        <div class="p-2">Audio.File Identification</div>
-                                        <div class="border-data2"> &nbsp; </div>
-                                    </div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-start board-title mt-2">
-                                    <div class="bg-efefef p-2 color-333"><b>Linked General Statement About Property</b></div>
-                                    <div class="border-data d-flex justify-content-between">
-                                        <div class="p-2">Audio.File Identification</div>
-                                        <div class="border-data2"> &nbsp; </div>
-                                    </div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-start board-title mt-2">
-                                    <div class="bg-efefef p-2 color-333"><b>Layout Property Style Statement</b></div>
-                                    <div class="border-data d-flex justify-content-between">
-                                        <div class="p-2">Audio.File Identification</div>
-                                        <div class="border-data2"> &nbsp; </div>
-                                    </div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-start board-title mt-2">
-                                    <div class="bg-efefef p-2 color-333"><b>Key Feature Statement</b></div>
-                                    <div class="border-data d-flex justify-content-between">
-                                        <div class="p-2">Audio.File Identification</div>
-                                        <div class="border-data2"> &nbsp; </div>
-                                    </div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-start board-title mt-2">
-                                    <div class="bg-efefef p-2 color-333"><b>Linked Key Feature Statement 1</b></div>
-                                    <div class="border-data d-flex justify-content-between">
-                                        <div class="p-2">Audio.File Identification</div>
-                                        <div class="border-data2"> &nbsp; </div>
-                                    </div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                            <div>
-                                 <div class="d-flex justify-content-start board-title mt-2">
-                                    <div class="bg-efefef p-2 color-333"><b>Linked Key Feature Statement 2</b></div>
-                                    <div class="border-data d-flex justify-content-between">
-                                        <div class="p-2">Audio.File Identification</div>
-                                        <div class="border-data2"> &nbsp; </div>
-                                    </div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-start board-title mt-2">
-                                    <div class="bg-efefef p-2 color-333"><b>Uniqueness Statement</b></div>
-                                    <div class="border-data d-flex justify-content-between">
-                                        <div class="p-2">Audio.File Identification</div>
-                                        <div class="border-data2"> &nbsp; </div>
-                                    </div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-start board-title mt-2">
-                                    <div class="bg-efefef p-2 color-333"><b>Linked Uniqueness Statement</b></div>
-                                    <div class="border-data d-flex justify-content-between">
-                                        <div class="p-2">Audio.File Identification</div>
-                                        <div class="border-data2"> &nbsp; </div>
-                                    </div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-start board-title mt-2">
-                                    <div class="bg-efefef p-2 color-333"><b>Closing Statement with Call to Action</b></div>
-                                    <div class="border-data d-flex justify-content-between">
-                                        <div class="p-2">Audio.File Identification</div>
-                                        <div class="border-data2"> &nbsp; </div>
-                                    </div>
-                                </div>
-
-                                <div class="border-data my-3 px-3 height-80">here</div>
-                                <select class="form-control">
-                                    <option value="">No Statement</option>
-                                </select>
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-                <div class="row board-row2">
-                    <div class="col-md-3 py-3">
-                        <div class="picture-uploader">
-                            <h3 class="mt-3">CLOSING</h3>
-                            <h3>ANIMATION</h3>
+                          </div>
                         </div>
-                    </div>
-                    <div class="col-md py-3">
-                        <div class="d-flex justify-content-start board-data">
-                            <div class="p-2"><b>CLOSING Identification #</b></div>
-                            <div></div>
-                        </div>
-                        <div class="d-flex flex-row-reverse align-items-end height-90">
-                            <button type="submit" class="btn btn-primary b-radius-7 bg-009900 btn-no-border px-3">
-                                        <i class="standard-video sv-save"></i> <b>SAVE</b>
-                            </button>
-                        </div>                                      
-                    </div>
                 </div>
+
+                <ul class="nav nav-tabs" id="sub-nav-tabs" role="tablist">
+                  <li class="nav-item">
+                    <a class="nav-link active" id="Upsize90-tab" data-toggle="tab" href="#upsize" role="tab" aria-controls="Upsize90" aria-selected="true">Upsize90</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="Main60-tab" data-toggle="tab" href="#Main" role="tab" aria-controls="Main60" aria-selected="false">Main60</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="HomeOpen-tab" data-toggle="tab" href="#HomeOpen" role="tab" aria-controls="Main60" aria-selected="false">Home Open</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="NewPrice-tab" data-toggle="tab" href="#NewPrice" role="tab" aria-controls="NewPrice" aria-selected="false">New Price</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="Sold-tab" data-toggle="tab" href="#Sold" role="tab" aria-controls="Sold" aria-selected="false">Sold</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="Auction90-tab" data-toggle="tab" href="#Auction90" role="tab" aria-controls="Auction90" aria-selected="false">Auction90</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="Auction60-tab" data-toggle="tab" href="#Auction60" role="tab" aria-controls="Auction60" aria-selected="false">Auction60</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="Land-tab" data-toggle="tab" href="#Land" role="tab" aria-controls="Land" aria-selected="false">Land</a>
+                  </li>
+                </ul>
+                <div id="myTabContent" class="tab-content">
+                  <div class="tab-pane fade show active" id="upsize" role="tabpanel" aria-labelledby="Upsize90-tab">
+                        @include('backend.pages.order.parts.storyboard.storyboard-data')
+                  </div>
+                  <div class="tab-pane fade" id="Main" role="tabpanel" aria-labelledby="Main60-tab">
+                       data2
+                  </div>
+                  <div class="tab-pane fade" id="HomeOpen" role="tabpanel" aria-labelledby="HomeOpen-tab">
+                       data3
+                  </div>
+                  <div class="tab-pane fade" id="NewPrice" role="tabpanel" aria-labelledby="NewPrice-tab">
+                        data4
+                  </div>
+                  <div class="tab-pane fade" id="Sold" role="tabpanel" aria-labelledby="Sold-tab">
+                        data5
+                  </div>
+                  <div class="tab-pane fade" id="Auction90" role="tabpanel" aria-labelledby="Auction90-tab">
+                        data6
+                  </div>
+                  <div class="tab-pane fade" id="Auction60" role="tabpanel" aria-labelledby="Auction60-tab">
+                        data7
+                  </div>
+                  <div class="tab-pane fade" id="Land" role="tabpanel" aria-labelledby="Land-tab">
+                        data8
+                  </div>
+                </div>
+
+
