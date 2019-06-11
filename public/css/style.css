@@ -711,7 +711,7 @@ i.m-in { background-position:-222px 0px; }
 .f-s-video { height:122px; }
 .text-medium { font-size:26px; font-weight:bold; }
 .text-small { font-size:19px; font-weight:bold; }
-.box-block { font-size:12px;  color:#ffffff; font-weight:bold; text-align:center; margin-top:15px; }
+.box-block { font-size:12px;  color:#ffffff; font-weight:bold; text-align:center; margin-top:10px; }
 .box-block div:first-child { background:#02a32b; padding:5px; width:200px; }
 .box-block div:last-child { background:#0066ff; padding:5px; width:200px; }
 .box-container .col-md-4 { line-height:22px; }

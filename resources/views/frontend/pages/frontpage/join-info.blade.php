@@ -13,24 +13,19 @@
           <div class="row box-container line-height20">
             <div class="col-md-auto">
                 <div><span class="text-medium">$99<sup>+gst</sup></span></div>
-                <div>All Videos include <span class="text-small">Voice-Over,</span></div>
+                <div>All 7 Videos include <span class="text-small">Voice-Over,</span></div>
                 <div><span class="text-small">Subtitles</span> and <span class="text-small">Music.</span></div>
                 <div class="box-block">
                     <div class="">
-                            FREE VIDEO 
-                                @if (request()->is('promotional'))
-                                    <sup>(4)</sup> 
-                                @endif<br>
-                            Every 3 Months
+                            Personalised <br>Vendor Video
                     </div>
                     <div class="mt-3">
-                            Personalised <br>
-                            Vendor Marketing
+                            Personalised <br>Vendor Brochure
                     </div>
                 </div>
             </div>
             <div class="col-md">
-                <span class="text-medium">Includes</span>
+                <span class="text-medium">Videos Included:</span>
                 <div class="d-flex flex-row mt-2">
                   <div><a href="/"><img class="img-fluid" src={{ asset('storage/mv-4.png') }} /></a></div>
                   <div class="mx-3"><a href="/"><img class="img-fluid" src={{ asset('storage/rv-2.png') }} /></a></div>
