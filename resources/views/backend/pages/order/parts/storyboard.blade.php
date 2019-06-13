@@ -130,6 +130,11 @@
                   <li class="nav-item">
                     <a class="nav-link" id="Land-tab" data-toggle="tab" href="#Land" role="tab" aria-controls="Land" aria-selected="false">Land</a>
                   </li>
+                  <li class="align-self-center mx-auto">
+                      <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-0066ff">
+                        Approve
+                      </button>
+                  </li>
                 </ul>
                 <div id="myTabContent" class="tab-content">
                   <div class="tab-pane fade show active" id="upsize" role="tabpanel" aria-labelledby="Upsize90-tab">
