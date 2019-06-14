@@ -35,14 +35,14 @@
         </tr>
         <tr>
             <td><b>Main Video in Fullscreen</b>
-                <div>Main60 + Upgrade90</div>
+                <div>Main60 + Upgsize90</div>
             </td>
             <td><b>Yes</b></td>
             <td><b>Yes</b></td>
         </tr>
         <tr>
             <td><b>Main Video in Agent Frame</b>
-                <div>Main60 + Upgrade90</div>
+                <div>Main60 + Upsize90</div>
             </td>
             <td><b>Yes</b></td>
             <td><b>Yes</b></td>
@@ -65,7 +65,7 @@
             <td><b>Yes</b></td>
         </tr>
         <tr>
-            <td><b>Price Adjustment Video</b> 
+            <td><b>New Price Video</b> 
                 <div>40 Seconds</div>
             </td>
             <td><b>No, extra $20</b></td>
