@@ -151,6 +151,10 @@ Route::get('/direct-upload', function () {
     return view('frontend.pages.direct-upload');
 });
 
+Route::get('/page-not-found', function () {
+    return view('frontend.pages.not-found');
+});
+
 Route::get('/account/home','MyAccountController@index');
 
 Route::get('/account/videos','MyVideoController@index');

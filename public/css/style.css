@@ -461,7 +461,12 @@ i.help { background-position:60px 0px; }
 i.billing { background-position:-177px 0px; }
 i.pricing { background-position:-101px 0px; }
 i.make-videos { background-position:-127px 0px; }
-i.logout { background-position:-75px 0px; }
+i.menu-icon2 { background:url(backgrounds/nav-bar-icon-2.png); height:20px; width:22px; display:inline-block; margin-bottom:10px; }
+i.home { background-position:0px 0px; }
+i.about2 { background-position:95px 0px; }
+i.join-today { background-position:72px 0px; }
+i.pricing2 { background-position:48px 0px; }
+i.make-videos2 { background-position:22px 0px; }
 i.driveby-link { background:url(backgrounds/drive-look-link.png); height:55px; width:135px; display:inline-block; background-position:1px 0px; }
 i.lookfirst-link { background:url(backgrounds/drive-look-link.png); height:55px; width:155px; display:inline-block; background-position:-138px 0px; }
 i.billing-icon { background:url(backgrounds/billing-icon.png);  display:inline-block; }
@@ -955,6 +960,10 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
 .peard-color-2 div:last-child { color:#0199d8; font-size:20px; }
 .promotion-bg { padding-top:60px; padding-bottom:240px; background-image:url('backgrounds/bg.jpg'); background-repeat:no-repeat; background-position:center;background-size:cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; height:100%; color:#ffffff; font-size:14px; }
 .promotion-bg .row .col:first-child { border-right:1px solid #333333; padding-top:15px; }
+.custom-menu div:not(:last-child) { border-right:1px solid #424244;  }
+.custom-menu div { padding:0px 30px; }
+span.error-desc { font-size:15px; }
+.custom-menu a { color:#424244; font-family:Trebuchet MS; }
 @media (max-width:330px){
     .bg-primary { background-image:linear-gradient(180deg, #424244 50%, #eaeaea 30%); }
     .pricing-data label { font-size:14px; }
