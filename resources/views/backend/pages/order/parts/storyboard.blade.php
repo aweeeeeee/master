@@ -76,13 +76,23 @@
                 </div>
                 <div class="row board-row mt-3">
                     <div class="col-md-3">
-                        <div class="picture-uploader">
+                        <div class="picture-uploader mb-0">
                             <input type="file" style="display:none;" id="inputfile" name="filename[]" multiple="">
                             <a href="">
                                 <h3>Picture</h3>
                                 <h3>+</h3>
                                 <h3>Uploader</h3>
                             </a>
+                        </div>
+                        <div class="d-flex justify-content-between my-3">
+                            <div class="custom-control custom-checkbox tbl-pay">
+                                <input type="checkbox" class="custom-control-input" id="customcheckbox">
+                                <label class="custom-control-label px-2" for="customcheckbox">Upsize90</label>
+                            </div>
+                            <div class="custom-control custom-checkbox tbl-pay">
+                                <input type="checkbox" class="custom-control-input" id="customcheckbox2">
+                                <label class="custom-control-label px-2" for="customcheckbox2">Main60</label>
+                            </div>
                         </div>
                     </div>
                     <div class="col-md">
