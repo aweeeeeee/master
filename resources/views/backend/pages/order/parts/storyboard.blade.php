@@ -121,8 +121,8 @@
                             </div>
                         </div>
                         <div>
-                            <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-0066ff">Save</button>
-                            <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-0066ff">Approve</button>
+                            <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-009900">Save</button>
+                            <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-009900">Approve</button>
                         </div>
                 </div>
                 <div>
