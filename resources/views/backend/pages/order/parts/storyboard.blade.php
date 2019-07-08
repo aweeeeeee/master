@@ -84,16 +84,7 @@
                                 <h3>Uploader</h3>
                             </a>
                         </div>
-                        <div class="d-flex justify-content-between my-3">
-                            <div class="custom-control custom-checkbox tbl-pay">
-                                <input type="checkbox" class="custom-control-input" id="customcheckbox">
-                                <label class="custom-control-label px-2" for="customcheckbox">Upsize90</label>
-                            </div>
-                            <div class="custom-control custom-checkbox tbl-pay">
-                                <input type="checkbox" class="custom-control-input" id="customcheckbox2">
-                                <label class="custom-control-label px-2" for="customcheckbox2">Main60</label>
-                            </div>
-                        </div>
+                        
                     </div>
                     <div class="col-md">
                           <div class="d-flex flex-column storyboard-list">
@@ -114,38 +105,54 @@
                           </div>
                         </div>
                 </div>
-
-                <ul class="nav nav-tabs" id="sub-nav-tabs" role="tablist">
-                  <li class="nav-item">
-                    <a class="nav-link active" id="Upsize90-tab" data-toggle="tab" href="#upsize" role="tab" aria-controls="Upsize90" aria-selected="true">Upsize90</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" id="Main60-tab" data-toggle="tab" href="#Main" role="tab" aria-controls="Main60" aria-selected="false">Main60</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" id="HomeOpen-tab" data-toggle="tab" href="#HomeOpen" role="tab" aria-controls="Main60" aria-selected="false">Home Open</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" id="NewPrice-tab" data-toggle="tab" href="#NewPrice" role="tab" aria-controls="NewPrice" aria-selected="false">New Price</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" id="Sold-tab" data-toggle="tab" href="#Sold" role="tab" aria-controls="Sold" aria-selected="false">Sold</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" id="Auction90-tab" data-toggle="tab" href="#Auction90" role="tab" aria-controls="Auction90" aria-selected="false">Auction90</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" id="Auction60-tab" data-toggle="tab" href="#Auction60" role="tab" aria-controls="Auction60" aria-selected="false">Auction60</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" id="Land-tab" data-toggle="tab" href="#Land" role="tab" aria-controls="Land" aria-selected="false">Land</a>
-                  </li>
-                  <li class="align-self-center mx-auto">
-                      <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-0066ff">
-                        Approve
-                      </button>
-                  </li>
-                </ul>
+                <div class="d-flex justify-content-between my-3">
+                        <div class="d-flex flex-row">
+                            <div class="custom-control custom-checkbox tbl-pay">
+                                <input type="checkbox" class="custom-control-input" id="customcheckbox">
+                                <label class="custom-control-label px-2" for="customcheckbox">Sales</label>
+                            </div>
+                            <div class="custom-control custom-checkbox tbl-pay">
+                                <input type="checkbox" class="custom-control-input" id="customcheckbox2">
+                                <label class="custom-control-label px-2" for="customcheckbox2">Rentals</label>
+                            </div>
+                            <div class="custom-control custom-checkbox tbl-pay">
+                                <input type="checkbox" class="custom-control-input" id="customcheckbox3">
+                                <label class="custom-control-label px-2" for="customcheckbox3">Land/Auction</label>
+                            </div>
+                        </div>
+                        <div>
+                            <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-0066ff">Save</button>
+                            <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-0066ff">Approve</button>
+                        </div>
+                </div>
+                <div>
+                    <ul class="nav nav-tabs" id="sub-nav-tabs" role="tablist">
+                          <li class="nav-item nav-link active">
+                             <div class="custom-control custom-checkbox tbl-pay d-inline-block pl-3">
+                                    <input type="checkbox" class="custom-control-input" id="customcheckboxupsize">
+                                    <label class="custom-control-label px-2" for="customcheckboxupsize"></label>
+                              </div>
+                              <a class="d-inline-block" id="Upsize90-tab" data-toggle="tab" href="#upsize" role="tab" aria-controls="Upsize90" aria-selected="true">Upsize90</a>
+                          </li>
+                          <li class="nav-item nav-link">
+                              <div class="custom-control custom-checkbox tbl-pay d-inline-block pl-3">
+                                    <input type="checkbox" class="custom-control-input" id="customcheckboxmain">
+                                    <label class="custom-control-label px-2" for="customcheckboxmain"></label>
+                              </div>
+                            <a class="d-inline-block"  id="Main60-tab" data-toggle="tab" href="#Main" role="tab" aria-controls="Main60" aria-selected="false">Main60</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" id="HomeOpen-tab" data-toggle="tab" href="#HomeOpen" role="tab" aria-controls="Main60" aria-selected="false">Home Open</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" id="NewPrice-tab" data-toggle="tab" href="#NewPrice" role="tab" aria-controls="NewPrice" aria-selected="false">New Price</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" id="Sold-tab" data-toggle="tab" href="#Sold" role="tab" aria-controls="Sold" aria-selected="false">Sold</a>
+                          </li>
+                    </ul>
+                </div>
+  
                 <div id="myTabContent" class="tab-content">
                   <div class="tab-pane fade show active" id="upsize" role="tabpanel" aria-labelledby="Upsize90-tab">
                         @include('backend.pages.order.parts.storyboard.storyboard-data')
@@ -172,5 +179,22 @@
                         data8
                   </div>
                 </div>
+                <script type="text/javascript">
+                    function SelectionMenu(){
+                         $( "#sub-nav-tabs li:first-child,#sub-nav-tabs li:nth-child(2)" ).removeClass('active');
 
+                    }
+                    $( "#Upsize90-tab" ).click(function() {
+                            SelectionMenu();
+                        $( "#sub-nav-tabs li:first-child" ).addClass('active');
+
+                    });
+                    $( "#Main60-tab" ).click(function() {
+                        SelectionMenu();
+                        $( "#sub-nav-tabs li:nth-child(2)" ).addClass('active');
+                    });
+                    $( "#sub-nav-tabs li a.nav-link" ).click(function() {
+                        SelectionMenu();
+                    });
+                </script>
 

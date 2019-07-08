@@ -61,6 +61,7 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .content > .nav-tabs .nav-link,#sub-nav-tabs .nav-link { background:#e5e5e5; border-radius:0px; color:#333333; border-left:2px solid #fff; font-size:18px; font-weight:bold; }
 .content > .nav-tabs .nav-link:hover,#sub-nav-tabs .nav-link:hover  { background:#ffce00; border:1px solid #ffce00;}
 #sub-nav-tabs .nav-link { font-size:16px; }
+#sub-nav-tabs a { color:#333333 !important;}
 .nav-tabs-user,.nav-tabs-manager { border-bottom:5px solid #FFCE00; }
 .nav-tabs-user .nav-item { width:auto; }
 .nav-tabs-manager .nav-item { width:490px; }
