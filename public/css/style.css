@@ -568,9 +568,10 @@ i.upload-script { background-position:-1px 0px; }
 i.write-script { background-position:-20px 0px; }
 i.interview-script { background-position:-39px 0px; }
 i.f-video-icon { background:url(backgrounds/video-icon.png); height:33px; width:37px; display:inline-block; }
+i.f-about { background-position:44px 0px; }
 i.f-pricing { background-position:2px 0px; }
 i.f-video { background-position:-40px 0px; }
-i.f-quick{ background-position:37px 0px; }
+i.f-quick{ background-position:81px 0px; }
 i.first-video-icon { background:url(backgrounds/first-video-icon.png); height:45px; width:56px; display:inline-block; }
 i.f-v-fast{ background-position:0px 0px; margin:0px 15px 0px 5px; }
 i.f-v-low { background-position:-59px 0px; margin:0px 15px 0px 5px;}

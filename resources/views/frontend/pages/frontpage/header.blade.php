@@ -33,8 +33,8 @@
                     <div class="row mx-0">
                         <div class="col text-center pl-0 pr-1">
                             <div class="col-bg pt-3 pb-2 h-100">
-                                <a href=""><i class="f-video-icon f-pricing"></i></a>
-                                <h3><a href="/pricing">Pricing</a></h3>
+                                <a href=""><i class="f-video-icon f-about"></i></a>
+                                <h3><a href="/about">About</a></h3>
                             </div>
                         </div>
                         <div class="col text-center pr-0 pl-1 h-100">
