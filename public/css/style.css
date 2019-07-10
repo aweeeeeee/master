@@ -676,15 +676,17 @@ i.m-in { background-position:-222px 0px; }
 
 /**frontpage**/
 .h-col-2 { border:1px solid #999999; }
-.h-col-2 h2 { color:#363636; font-family:arial; border-top:1px solid #999999; margin:20px 0px 0px; padding-top:20px; font-size:52px; line-height:51px; }
+.h-col-2 h2 { color:#363636; font-family:arial; border-top:1px solid #999999; margin:15px 0px 0px; padding-top:15px; font-size:52px; line-height:48px; }
 .h-col-1 h3,.h-col-2 h3,.h-col-3 h4,.col-border h4 { color:#ff0033; font-size:20px; font-family: 'tilium'; font-weight:bold; }
-.h-col-2 .col:first-child .col-bg:first-child { background:#eaeaea; }
-.h-col-2 .col:last-child .col-bg:first-child { background:#02a32b; }
+.h-col-2 .col-5 .col-bg { background:#eaeaea; padding-top:13px; padding-bottom:4px;  }
+.h-col-2 .col .col-bg { background:#02a32b; padding-top:13px; padding-bottom:4px; }
 .h-col-2 .col:last-child a { color:#fff; }
 .h-col-3 { border:1px solid #ff0033; }
 .h-col-3 h3 {  background: linear-gradient(to right, #ff0169 , #ff1e05); color:#ffffff; margin-bottom:0px; font-family: 'tilium'; font-size:25px; }
 .h-col-3 .d-flex .p-2 { background:#eaeaea; font-family: 'tilium'; }
-.h-col-3 span { font-size:20px; }
+.h-col-3 span,.h-row-2 a { font-size:20px; }
+.h-row-2,.h-row-2 a { color:#363636 !important; font-family: 'tilium'; font-weight:bold; }
+.h-row-2 .col > div { border-top:1px solid #999999; border-bottom:1px solid #999999; font-size:25px; }
 .border-f75777 { border:1px solid #f75777; }
 .border-0066ff { border:1px solid #0066ff; }
 .border-ccc { border:1px solid #cccccc; }

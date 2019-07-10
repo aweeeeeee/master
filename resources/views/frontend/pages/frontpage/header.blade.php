@@ -31,17 +31,32 @@
           <div class="col-sm mt-4">
               <div class="h-col-2 p-3 h-100">
                     <div class="row mx-0">
-                        <div class="col text-center pl-0 pr-1">
-                            <div class="col-bg pt-3 pb-2 h-100">
-                                <a href=""><i class="f-video-icon f-about"></i></a>
-                                <h3><a href="/about">About</a></h3>
+                        <div class="col-5 text-center pl-0 pr-1">
+                            <div class="col-bg px-2 h-100">
+                                <div class="d-flex flex-row">
+                                    <div><a href="/about"><i class="f-video-icon f-about"></i></a></div>
+                                    <div class="p-1"><h3><a href="/about">About</a></h3></div>
+                                </div>
                             </div>
                         </div>
                         <div class="col text-center pr-0 pl-1 h-100">
-                            <div class="col-bg pt-3 pb-2">
-                                <a href=""><i class="f-video-icon f-quick"></i></a>
-                                <h3><a href="/lets-get-started/1" data-toggle="modal" data-target="#QuickModalCenter">Quick Order</a></h3>
-
+                            <div class="col-bg px-2">
+                                <div class="d-flex flex-row">
+                                    <div><a href="/lets-get-started/1"><i class="f-video-icon f-quick"></i></a></div>
+                                    <div class="py-1"><h3><a href="/lets-get-started/1" data-toggle="modal" data-target="#QuickModalCenter">Quick Order</a></h3></div>
+                                </div>
+                            </div>
+                        </div>
+                      </div>
+                      <div class="row mt-2 mx-0 h-row-2">
+                        <div class="col-5 text-center pl-0 pr-1">
+                            <div class="col-bg pt-3 pb-2 px-2 h-100">
+                                <a href="/contact">Contact Us</a>
+                            </div>
+                        </div>
+                        <div class="col text-center pr-0 pl-1 h-100">
+                            <div class="py-2">
+                                1300 100 111
                             </div>
                         </div>
                       </div>
