@@ -102,6 +102,7 @@ i.a-s-icons { background:url(backgrounds/social-icons-v3.png); height:60px; widt
 i.a-s-icons-rev { background-position:-334px 0px; }
 i.a-s-icons-yt { background-position:-399px 0px; }
 i.a-s-icons-url { background-position:-465px 0px; }
+i.a-s-icons-wb { background-position:-532px 0px; }
 .bg-eae { background:#eaeaea; }
 .border-property { padding:10px; border-top:1px solid #cccccc; border-left:1px solid #cccccc; border-right:1px solid #cccccc; }
 .border-property input,.user-form input,.search-container input { border-radius:0px; }

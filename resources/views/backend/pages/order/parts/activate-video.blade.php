@@ -104,4 +104,21 @@
                                 </div>
                         </div>
                     </div>
+                    <div class="my-3">
+                        <b>Agency Geolocator</b>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-wb"></i></div>
+                                <div class="col-sm">
+                                    <div>Longtitude</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                        <div class="row m-r-l">
+                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-wb"></i></div>
+                                <div class="col-sm">
+                                    <div>Latitude</div>
+                                    <div><input type="text" name="" class="form-control"></div>
+                                </div>
+                        </div>
+                    </div>
                 </div>
