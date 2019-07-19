@@ -16,12 +16,16 @@
                 <div>All 7 Videos include <span class="text-small">Voice-Over,</span></div>
                 <div><span class="text-small">Subtitles</span> and <span class="text-small">Music.</span></div>
                 <div class="box-block">
-                    <div class="">
-                            Personalised <br>Vendor Video
-                    </div>
-                    <div class="mt-3">
+                    <a href="">
+                            <div>
+                                Personalised <br>Vendor Video
+                            </div>
+                    </a>
+                    <a href="" class="mt-3">
+                        <div>
                             Personalised <br>Vendor Brochure
-                    </div>
+                        </div>
+                    </a>
                 </div>
             </div>
             <div class="col-md">
