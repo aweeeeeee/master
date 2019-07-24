@@ -1180,3 +1180,8 @@ span.error-desc { font-size:15px; }
         overflow-y: auto;
     }
 }
+@-moz-document url-prefix() {
+    .h-row-2 .col > div { font-size:24px; }
+    .h-row-2 a { font-size:15px; }
+    .h-col-2 h3 { font-size:19px; }
+}
