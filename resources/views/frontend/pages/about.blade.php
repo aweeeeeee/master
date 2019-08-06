@@ -7,8 +7,8 @@
                 <h1>About</h1>
                 
                 <p class="text-justify line-height20">We turn your property listings into Video with Voice-over. REVid is a NO
-                FUSS Online System that makes it Easy (one-click ordering), Fast (from
-                2 hrs) and Low Cost to access professional Video for use in many
+                FUSS Online System that makes it <b>Easy</b> (one-click ordering), <b>Fast</b> (from
+                24 hrs) and Lost Cost to access professional Video for use in many
                 applications and media.</p>
                 
                 <h1>What is REVid</h1>
@@ -16,9 +16,10 @@
                 <h5 class="font16 c-6600cc"><b>System-Based Low-Click</b></h5>
                 
                 <p class="text-justify line-height20">All you need to do is paste the property URL from your agency’s website
-                into the REVid online system or if you prefer, direct upload the images
-                and description. We take care of the rest, turning your property listings
-                into a professional video that includes voice over and music.</p>
+                into the REVid online system or if you prefer a higher resolution result,
+                direct upload the images and description. We take care of the rest,
+                turning your property listings into a professional video that includes
+                voice-over, music and subtiles</p>
             </div>
             <div class="col-sm">
                 <h1>What is REVid? Video</h1>
@@ -38,12 +39,11 @@
         thing because most property video recordings typically contain little movement. Each video uses your brand and image – and your
         contact details – integrating the promotion of property and agent to maximum effect.</p>
         
-        <h5 class="font16 c-6600cc"><b>Makes Real Estate Video Doable</b></h5>
+        <h5 class="font16 c-6600cc"><b>Makes Real Estate Video Doable + Great Value for Money!</b></h5>
         
-        <p class="text-justify  line-height20">REVid gives you a Fast, Low Cost and Easy solution. Yes, it’s not a fully directed film-crew production – it’s not meant to be – <b>it’s a
-        low cost doable solution</b> – quick and easy to achieve. The video production framework gives you options of 2-hour to 24-hour
-        turn-around or the standard time of 2-3 days. You also get four video formats, including sub-titles, each designed and set-up to cover
-        most online, social media and marketing applications. <b>It’s great value for money!</b></p>
+        <p class="text-justify line-height20">REVid gives you a Fast, Low Cost and Easy solution. Yes, it’s not a fully directed film-crew production – it’s not meant to be – it’s a
+        low cost doable solution – quick and easy to achieve. You also get 7 video formats, each designed and set-up to cover most online,
+        social media and marketing applications. <b>It’s great value for money!</b></p>
         
         <div class="row bg-efefef col-border m-0">
             <div class="col-sm align-self-center">
@@ -74,7 +74,7 @@
                  </div>
             </div>
             <div class="col-sm align-self-center">
-                <img class="img-fluid" src={{ asset('storage/included-free.jpg') }}>
+                <img class="img-fluid" src={{ asset('storage/available_now.jpg') }}>
             </div>
         </div>
         
@@ -113,17 +113,18 @@
                 <p class="text-justify p-3 mb-0 line-height20">Video strongly incorporates and promotes your personal identity and agency brand. This might help further boost your profile, including online and in social media channels.</p>
             </div>
         </div>
-        
+        <h1>What You Get on Premium (FREE for 12-months)</h1>
         <div class="row">
             <div class="col-sm">
-                <h1>What You Get</h1>
                 <div class="bg-efefef p-3">
                  
-                    <h5 class="font16 c-6600cc"><b>4 Video Productions</b></h5>
+                    <h5 class="font16 c-6600cc"><b>Branded Video Productions</b></h5>
                     
-                    For Desktop, Tablet or Smartphone - with or without subtitles
+                    For Desktop, Tablet or Smartphone
                     
-                    <img class="img-fluid my-2" src={{ asset('storage/video-productions.jpg') }}>
+                    <img class="img-fluid my-2" src={{ asset('storage/video-productions-v2.jpg') }}>
+                    
+                    Branded with your profile picture and details.
                 </div>
                 <div class="bg-efefef px-3 py-1 mt-4">
                     <h5 class="font16 c-6600cc"><b>Uploaded for Use</b></h5>
@@ -142,37 +143,37 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm">
-                <h1>Options</h1>
-                <div class="bg-efefef pt-3 pb-1 px-4">
-                    <h5 class="font16 c-6600cc"><b>Options</b></h5>
-                    <ul class="list-option-about">
-                        <li>Upload to Websites and Social Media Sites</li>
-                    </ul>
-                    <div class="my-1">
-                        <div class="row">
-                            <div class="col-sm text-center"><i class="a-s-icons a-s-icons-fb"></i></div>
-                            <div class="col-sm text-center"><i class="a-s-icons a-s-icons-i"></i></div>
-                            <div class="col-sm text-center"><i class="a-s-icons a-s-icons-twtr"></i></div>
-                            <div class="col-sm text-center"><i class="a-s-icons a-s-icons-g"></i></div>
-                            <div class="col-sm text-center"><i class="a-s-icons a-s-icons-in"></i></div>
+            <div class="col-sm font-tilium">
+                <div class="bg-efefef pt-3 pb-1 px-4 h-100">
+                    <h3 class="Dark-title">Yes! All 7 Videos for $99+</h3>
+                    <div class="d-flex flex-column">
+                        <div class="d-flex justify-content-between">
+                            <div class="align-self-center"><b>Main60</b> (Agent Frame)</div>
+                            <div><i class="frame-icon sixty-sec"></i></div>
                         </div>
-                    </div>
-                    <ul class="list-option-about">
-                        <li>Rush and Surge Options</li>
-                        <li>Broadcast Distribution System</li>
-                        <li>Home Open USB Download System</li>
-                        <li>REVid Display *</li>
-                        <li>DriveBy * When Available 2019</li>
-                        <li class="mt-3">Download Formats Available</li>
-                    </ul>
-                    <div class="my-2">
-                        <div class="row">
-                            <div class="col-sm"><i class="a-files a-f-mwv"></i></div>
-                            <div class="col-sm"><i class="a-files a-f-mp4"></i></div>
-                            <div class="col-sm"><i class="a-files a-f-flv"></i></div>
-                            <div class="col-sm"><i class="a-files a-f-avi"></i></div>
-                            <div class="col-sm"><i class="a-files a-f-mov"></i></div>
+                        <div class="d-flex justify-content-between">
+                            <div class="align-self-center"><b>Main60</b> (Full-screen)</div>
+                            <div><i class="frame-icon sixty-sec"></i></div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <div class="align-self-center"><b>Upsize90</b> (Agent Frame)</div>
+                            <div><i class="frame-icon ninety-sec"></i></div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <div class="align-self-center"><b>Upsize90</b> (Full-screen)</div>
+                            <div><i class="frame-icon ninety-sec"></i></div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <div class="align-self-center">New Price</div>
+                            <div><i class="frame-icon fourty-sec"></i></div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <div class="align-self-center">Home Open</div>
+                            <div><i class="frame-icon fourty-sec"></i></div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <div class="align-self-center">It's Sold! (Another Wanted)</div>
+                            <div><i class="frame-icon fourty-sec"></i></div>
                         </div>
                     </div>
                 </div>
