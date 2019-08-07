@@ -40,7 +40,7 @@
             </div>
         </div>
         
-        <h5 class="font16 c-6600cc mb-4 sub-top-title"><b>Video with Voice Over</b></h5>
+        <h5 class="font16 c-6600cc mb-4 sub-top-title"><b>Video with Voice-Over</b></h5>
         
         <p class="text-justify line-height20">You receive a video that includes voice-over and, music and subtitles edited into a professional video production. We compile
         professionally pre-recorded voice over tracks that have been selected to match the inclusion and features of your property. Using
@@ -267,6 +267,7 @@
         @include('frontend.register.register-form')
         
     </div>
+        @include('frontend.pages.frontpage.why-use-revid')
 
         @include('frontend.pages.frontpage.footer')
     </div>

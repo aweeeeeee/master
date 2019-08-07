@@ -13,7 +13,7 @@
                         West Perth<br>
                         Western Australia 6005<br><br>
                         Telephone: 1300 100 333<br>
-                        Email: corporate@revid.com.au<br>
+                        Email: info@revid.com.au<br>
                   </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                             REVid Systems Terms and Conditions.</p>
                     </div>
                     <div class="col-sm-5 d-flex align-items-end flex-row-reverse">
-                        <div><a href="/terms-condition" class="btn btn-primary px-1 col-12">Click here <span>for full Terms and Conditions</span></a></div>
+                        <div><a href="/terms-condition" class="btn btn-primary px-1 col-12"><b>Click here <span>for full Terms and Conditions</span></b></a></div>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                           your copyright materials.</p>
                     </div>
                     <div class="col-sm-5 d-flex align-items-end flex-row-reverse">
-                        <a href="/copyright" class="btn btn-primary">Click here <span>full Copyright Terms</span></a>
+                        <a href="/copyright" class="btn btn-primary"><b>Click here <span>full Copyright Terms</span></b></a>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                           to use or protect your detail and privacy.</p>
                     </div>
                     <div class="col-sm-5 d-flex align-items-end flex-row-reverse">
-                        <a href="/privacy-terms" class="btn btn-primary">Click here <span>for full Privacy Terms</span></a>
+                        <a href="/privacy-terms" class="btn btn-primary"><b>Click here <span>for full Privacy Terms</span></b></a>
                     </div>
                 </div>
             </div>
