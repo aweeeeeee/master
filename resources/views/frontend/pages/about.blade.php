@@ -8,7 +8,7 @@
                 
                 <p class="text-justify line-height24">We turn your property listings into Video with Voice-over. REVid is a NO
                 FUSS Online System that makes it <b>Easy</b> (one-click ordering), <b>Fast</b> (from
-                24 hrs) and <b>Lost Cost</b> to access professional Video for use in many
+                24 hrs) and <b>Low Cost</b> to access professional Video for use in many
                 applications and media.</p>
                 
                 <h1>What is REVid</h1>
@@ -19,7 +19,7 @@
                 into the REVid online system or if you prefer a higher resolution result,
                 direct upload the images and description. We take care of the rest,
                 turning your property listings into a professional video that includes
-                voice-over, music and subtiles</p>
+                voice-over, music and subtiles.</p>
             </div>
             <div class="col-sm">
                 <h1>What is REVid? Video</h1>
@@ -117,7 +117,7 @@
                     <i class="link-icon sell mb-2"></i>
                     <div class="b-v-text color-333"><b>Helps List <br>and Sell</b></div>
                 </div>
-                <p class="text-justify p-2 mb-0 line-height20">Video might help gain a property listing, and is a great marketing tool for your prospective vendors. Video is something your vendors can easily send to their own personal social media friends, family and business networks.</p>
+                <p class="text-justify p-3 mb-0 line-height20">Video might help gain a property listing, and is a great marketing tool for your prospective vendors. Video is something your vendors can easily send to their own personal social media friends, family and business networks.</p>
             </div>
             <div class="col-sm p-0">
                 <div class="text-center bg-efefef pb-2">
