@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="my-3">
-                <img class="img-fluid" src={{ asset('storage/included-free2.jpg') }} />
+                <img class="img-fluid" src={{ asset('storage/available_now.jpg') }} />
             </div>
         </div>  
     </div>
@@ -69,7 +69,7 @@
             <p class="m-0"><a href="/use-revid/marketing">Promotes <br>Your Brand</a></p>
         </div>
         <div class="col-md-auto">
-            <img class="img-fluid" src={{ asset('storage/driveby-soon.jpg') }} />
+            <img class="img-fluid" src={{ asset('storage/available_now.jpg') }} />
         </div>
     </div>  
 </div>

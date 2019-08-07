@@ -35,14 +35,14 @@
         </tr>
         <tr>
             <td><b>Main Video in Fullscreen</b>
-                <div>Main60 + Upgsize90</div>
+                <div>Main60 + Upgrade90</div>
             </td>
             <td><b>Yes</b></td>
             <td><b>Yes</b></td>
         </tr>
         <tr>
             <td><b>Main Video in Agent Frame</b>
-                <div>Main60 + Upsize90</div>
+                <div>Main60 + Upgrade90</div>
             </td>
             <td><b>Yes</b></td>
             <td><b>Yes</b></td>
@@ -65,7 +65,7 @@
             <td><b>Yes</b></td>
         </tr>
         <tr>
-            <td><b>New Price Video</b> 
+            <td><b>Price Adjustment Video</b>
                 <div>40 Seconds</div>
             </td>
             <td><b>No, extra $20</b></td>
@@ -94,10 +94,10 @@
             <td><b>Personalised to Your Brand</b></td>
         </tr>
     </table>
-     @if (request()->is('promotional'))
+
          <p class="text-justify font14 mt-4 color-000">
                 <span class="color-ff0033">(1)</span> $99 (plus GST) = $108.90 including GST <span class="color-ff0033">(2)</span> Pricing valid until 31 Dec 2019.
-             <span class="color-ff0033">(3)</span> FREE Premium OFFER is for 12 Months from initial set-up date and will NOT Auto-renew without consent. No lock-ins and no credit cards required. <span class="color-ff0033">(4)</span> Not included in FREE 12-months Premium offer.
+                <span class="color-ff0033">(3)</span> FREE Premium OFFER is for 12 Months from initial set-up date and will NOT Auto-renew without consent. No lock-ins and no credit cards required. <span class="color-ff0033">(4)</span> Not included in FREE 12-months Premium offer.
          </p>
-     @endif
+
 </div>

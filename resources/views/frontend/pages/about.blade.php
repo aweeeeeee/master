@@ -6,16 +6,16 @@
             <div class="col-sm">
                 <h1>About</h1>
                 
-                <p class="text-justify line-height20">We turn your property listings into Video with Voice-over. REVid is a NO
+                <p class="text-justify line-height24">We turn your property listings into Video with Voice-over. REVid is a NO
                 FUSS Online System that makes it <b>Easy</b> (one-click ordering), <b>Fast</b> (from
-                24 hrs) and Lost Cost to access professional Video for use in many
+                24 hrs) and <b>Lost Cost</b> to access professional Video for use in many
                 applications and media.</p>
                 
                 <h1>What is REVid</h1>
                 
-                <h5 class="font16 c-6600cc"><b>System-Based Low-Click</b></h5>
+                <h5 class="font16 c-6600cc"><b>System-Based NO Fuss</b></h5>
                 
-                <p class="text-justify line-height20">All you need to do is paste the property URL from your agency’s website
+                <p class="text-justify line-height24">All you need to do is paste the property URL from your agency’s website
                 into the REVid online system or if you prefer a higher resolution result,
                 direct upload the images and description. We take care of the rest,
                 turning your property listings into a professional video that includes
@@ -23,19 +23,33 @@
             </div>
             <div class="col-sm">
                 <h1>What is REVid? Video</h1>
-                <img class="img-fluid" src={{ asset('storage/revid-video2.jpg') }}>
+                <img class="img-fluid" src={{ asset('storage/revid-video3.jpg') }}>
+                <div class="d-flex flex-row bg-ed contact-details p-3 mt-3">
+                  <div class="align-self-center text-center"><b>Contact me</b></div>
+                  <div>
+                        <div class="row">
+                            <div class="col-5">Telephone:</div>
+                            <div class="col"><b>1300 100 111</b></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-5">Email:</div>
+                            <div class="col"><span class="c-ff0033">info@revid.com.au</span></div>
+                        </div>
+                  </div>
+                </div>
             </div>
         </div>
         
-        <h5 class="font16 c-6600cc"><b>Video with Voice Over</b></h5>
+        <h5 class="font16 c-6600cc mb-4 sub-top-title"><b>Video with Voice Over</b></h5>
         
-        <p class="text-justify line-height20">You receive a photo-based video that includes voice over and music edited into a professional video production. We compile professionally pre-recorded voice over tracks that have been selected to match the inclusion and features of your property. Using voice is
-        an effective way of describing the property to viewers as they watch. It’s amazing how voice engages with your viewers and makes
-        the video much more interesting and enjoyable.</p>
+        <p class="text-justify line-height20">You receive a video that includes voice-over and, music and subtitles edited into a professional video production. We compile
+        professionally pre-recorded voice over tracks that have been selected to match the inclusion and features of your property. Using
+        voice is an effective way of describing the property to viewers as they watch. It’s amazing how voice engages with your viewers and
+        makes the video much more interesting and enjoyable</p>
         
         <h5 class="font16 c-6600cc"><b>Images to Life</b></h5>
         
-        <p class="text-justify  line-height20">Your property images are bought to life using animation, movement and transition – to mimic actual video. It’s pretty close to the real
+        <p class="text-justify line-height20">Your property images are bought to life using animation, movement and transition – to mimic actual video. It’s pretty close to the real
         thing because most property video recordings typically contain little movement. Each video uses your brand and image – and your
         contact details – integrating the promotion of property and agent to maximum effect.</p>
         

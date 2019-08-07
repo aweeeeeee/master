@@ -9,7 +9,7 @@
                <a href=""><img class="img-fluid" src={{ asset('storage/get-started.jpg') }} /></a>
            </div>
            <div class="col-sm line-height20">
-               <p class="text-justify m-0">Set-up is done in 4 Easy Steps. Once you have set-up your preferences and picked your selections - we are ready to make your Videos.</p>
+               <p class="text-justify m-0"><b>Set-up is done in 4 Easy Steps</b>. Once you have set-up your preferences and picked your selections - we are ready to make your Videos.</p>
                
                 <div class="d-flex justify-content-between mt-3">
                     <div>
