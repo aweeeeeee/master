@@ -1199,4 +1199,5 @@ span.error-desc { font-size:15px; }
     .h-row-2 .col > div { font-size:24px; }
     .h-row-2, .h-row-2 a { font-size:19px; }
     .h-col-1 h3, .h-col-2 h3, .h-col-3 h4, .col-border h4 { font-size:19px; }
+    .h-col-2 h2 { line-height:44px; }
 }
