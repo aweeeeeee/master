@@ -3,7 +3,6 @@
 @section('content')
     <div class="container pb-0" id="content">
         <h1 class="color-000">What is DriveBy</h1>
-        <b>Coming soon in 2019.</b>
         <div class="row mt-3 mb-4">
             <div class="col-sm">
                 <p class="text-justify line-height20"><b>DriveBy</b> uses smartphone geolocation to turn your For-Sale signboard into a “See Inside Now” experience by identifying location and playing the property video on demand. 
@@ -15,14 +14,11 @@
             <div class="col-md-auto"><img class="img-fluid" src="{{ asset('storage/what-is-driveby3.jpg') }}"></div>
         </div>
         <div class="border-top-bot-999 py-4 look-first mb-r">
-            <h1 class="c0066ff">It “Supercharges” the value of the Signboard</h1>
-            <div class="row text-center">
-                <div class="col-sm-3"><img src="{{ asset('storage/account/what-is-drive-by-1.png') }}" class="img-fluid"></div>
-                <div class="col-sm-3"><img src="{{ asset('storage/account/what-is-drive-by-2.png') }}" class="img-fluid"></div>
-                <div class="col-sm-3"><img src="{{ asset('storage/account/what-is-drive-by-3.png') }}" class="img-fluid"></div>
-                <div class="col-sm-3"><img src="{{ asset('storage/account/what-is-drive-by-4.png') }}" class="img-fluid"></div>
+            <h1>It “Supercharges” the value of the Signboard</h1>
+            <div class="d-flex flex-column bd-highlight mb-3">
+              <div><img src="{{ asset('storage/drive-by-info.jpg') }}" class="img-fluid"></div>
+              <div><img src="{{ asset('storage/drive-by-location.jpg') }}" class="img-fluid"></div>
             </div>
-            <div class="text-center mt-4"><button class="btn btn-primary col-sm-3 font-weight-bold">SEE INSIDE NOW</button></div>
         </div>
         
         @include('frontend.register.register-join-info')
