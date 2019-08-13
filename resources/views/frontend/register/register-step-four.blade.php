@@ -16,9 +16,7 @@
                    
                     @include('frontend.register.steps.payment-details')
                     
-                    @include('frontend.register.steps.how-will-pay')
-                    
-                    @include('frontend.register.steps.agency-pay')
+                    @include('frontend.register.steps.invoice-payment')
                     
                 </form>
         </div>

@@ -1,46 +1,23 @@
 <div class="border-bot4 pb-4">
-    <div class="row mt-3 mb-2 m-r-l">
-                <div class="col-lg-3">
-                    <h4 class="reg-title">Will the Agency Pay?</h4>
-                </div>
-                <div class="col-lg step-three-register">
-                    <div class="custom-control custom-checkbox premium">
-                                <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                <label class="custom-control-label" for="customCheck12">Video/Extras Costs ONLY</label>
-                    </div>
-                    <div class="custom-control custom-checkbox premium">
-                        <input type="checkbox" class="custom-control-input" id="customCheck13">
-                        <label class="custom-control-label" for="customCheck13">Both Monthly Plan + Video/Extras Costs</label>
-                    </div>
-                </div>
-    </div>
     <div class="row">
         <div class="col-sm">
-            <h4 class="reg-title my-3">Invoice Details</h4>
-            <input id="name" type="text" class="form-control" name="" required autofocus placeholder="Entity Name">
+            <h4 class="reg-title my-3">Who Do We Invoice</h4>
+            <div class="d-flex flex-column bd-highlight">
+              <div><input id="name" type="text" class="form-control" name="" required autofocus placeholder="Entity or Name"></div>
+              <div class="my-3"><input id="name" type="text" class="form-control" name="" required autofocus placeholder="ACN/ABN"></div>
+              <div><input id="name" type="text" class="form-control" name="" required autofocus placeholder="Address 1"></div>
+            </div>
         </div>
         <div class="col-sm">
             <h4 class="reg-title my-3">Payment Contact</h4>
-            <input id="name" type="text" class="form-control" name="" required autofocus placeholder="Contact Name">
+            <div class="d-flex flex-column bd-highlight">
+                <div><input id="name" type="text" class="form-control" name="" required autofocus placeholder="Contact Name"></div>
+                <div class="my-3"><input id="name" type="text" class="form-control" name="" required autofocus placeholder="Contact Mobile"></div>
+                <div><input id="name" type="email" class="form-control" name="" required autofocus placeholder="Email for Invoice"></div>
+            </div>
         </div>
     </div>
     <div class="row my-3">
-        <div class="col-sm">
-            <input id="name" type="text" class="form-control" name="" required autofocus placeholder="ACN/ABN">
-        </div>
-        <div class="col-sm">
-            <input id="name" type="text" class="form-control" name="" required autofocus placeholder="Contact Mobile">
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm">
-            <input id="name" type="text" class="form-control" name="" required autofocus placeholder="Address 1">
-        </div>
-        <div class="col-sm">
-            <input id="name" type="email" class="form-control" name="" required autofocus placeholder="Email for Invoice">
-        </div>
-    </div>
-     <div class="row my-3">
         <div class="col-sm-6">
             <input id="name" type="text" class="form-control" name="" required autofocus placeholder="Address 2">
         </div>
