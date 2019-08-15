@@ -27,8 +27,8 @@
         <div class="col-sm step-three-register">
                 <div class="custom-control custom-checkbox premium">
                     <input type="checkbox" class="custom-control-input" id="customCheck5">
-                    <label class="custom-control-label chck-a text-justify" for="customCheck5">I accept that should my nominated payment party decline to accept my
-                    purchase invoice I will be liable for payment</label>
+                    <label class="custom-control-label chck-a text-justify" for="customCheck5">I agree that should the nominated party decline to make payment then
+I will be responsible for any charges I have incurred.</label>
                 </div>
         </div>
     </div>
