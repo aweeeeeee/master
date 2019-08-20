@@ -2,26 +2,24 @@
       <div class="container pb-3">
            <div class="row f-r2-video pb-2">
                 <div class="col-lg">
-                      <div class="d-flex flex-column mt-3 border-top-bot-363636 px-2 color-363636">
-                            <div><b>Smart</b> Online Video System for</div>
-                            <div>Real Estate Agents Only</div>
-                            <div class="mt-3">Video has a <b>Voice-Over</b> and <b>Subtitles</b>,</div>
-                            <div class="mb-3">perfect for Online and Social Media</div>
-                            <div>Video uses <b>Your Brand</b> and Personalised</div>
-                            <div>details for Maximum Promotion.</div>
-                      </div>
+                        <iframe width="300" height="172" src="https://www.youtube.com/embed/KgJkKSO751I" frameborder="0" allowfullscreen></iframe>
+                        <div class="py-1 border-bot-0066ff">
+                             <p class="py-3 mx-0 text-center">What is REVid?</p>
+                        </div>
+                       
                 </div>
                 <div class="col-lg">
-                  <div class="mt-3">
-                        <iframe width="300" height="165" src="https://www.youtube.com/embed/KgJkKSO751I" frameborder="0" allowfullscreen></iframe>
-                        <p class="py-3 mx-0 border-bot-ff0033">How REVid Can Help You Sell More?</p>
-                  </div>
+                        <a href=""><img class="img-fluid my-0" src={{ asset('storage/driveby-v2-inside.jpg') }} /></a>
+                        <div class="py-2 border-bot-6600cc">
+                            <p class="py-3 mx-0 bg-d1d1d1 text-center"><a href="/what-is-driveby">More Information?</a></p>
+                        </div>
+                        
                 </div>
                 <div class="col-lg">
-                    <div class="mt-3">
-                         <iframe width="300" height="165" src="https://www.youtube.com/embed/qLHe3CLbr9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                         <p class="text-center p-3 border-bot-0066ff">Vendor Video about REVid</p>
-                  </div>
+                        <iframe width="300" height="172" src="https://www.youtube.com/embed/5XC1DzN7C9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <div class="py-1 border-bot-ff0033">
+                            <p class="text-center p-3  text-center">What is DriveBy?</p>
+                        </div>
                 </div>
             </div>
       </div>

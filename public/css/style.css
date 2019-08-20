@@ -140,6 +140,7 @@ ul.list-option-about li:before { content: "■"; color:#6600cc; font-size:15px; 
 .front-video img { margin:20px 0px; }
 .front-video p { line-height:18px; font-size:20px; font-family:tilium; }
 .front-video h1 { font-size: 20px; font-family: arial; margin-bottom: 0px; font-weight: bold; color:#6600cc; }
+.front-video a { color:#363636; }
 .register-title { background-color:#424244; font-weight:bold; padding:10px; color:#fff; font-size:22px; font-family:arial; margin:25px 0px; }
 .help-content h3 { font-size:18px; }
 .help-content h3.border-title { padding:10px 0px 20px; border-bottom:1px solid #999999; }
@@ -214,6 +215,7 @@ h3.my-account-title { font-size:20px; border-bottom:1px solid #999999; padding:3
 .bg-d8d8d8 { background:#d8d8d8; border-radius:10px; }
 .bg-424243 { background:#424243; }
 .bg-ff6600 { background:#ff6600; }
+.bg-d1d1d1 { background:#d1d1d1; }
 .join-container { padding:20px 0px 30px; margin:0px 0px 30px; }
 .join-container form { margin-top:20px; }
 .join-container .btn-primary { background-color:#414142; border:none; font-weight:bold; width:100%; padding:10px; font-size:22px; border-radius:10px; }
@@ -435,6 +437,7 @@ button.per-month { background-color:#0066ff; color:#fff; width:100%; font-family
 .border-left-660 { border-left:1px solid #6600cc }
 .border-bot-ff0033 { border-bottom:1px solid #ff0033; }
 .border-bot-0066ff { border-bottom:1px solid #0066ff; }
+.border-bot-6600cc { border-bottom:1px solid #6600cc; }
 .border-t-b-6600cc { border-top:10px solid #6600cc; border-bottom:1px solid #6600cc;}
 .border-t-b-0066ff { border-top:10px solid #0066ff; border-bottom:1px solid #0066ff;}
 .border-top-10-0066ff { border-top:10px solid #0066ff; }

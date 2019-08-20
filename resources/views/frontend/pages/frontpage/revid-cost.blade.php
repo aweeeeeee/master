@@ -3,7 +3,10 @@
 
         <div class="d-flex flex-row-reverse">
             <div class="position-absolute">
-                <img class="img-fluid" src={{ asset('storage/free-premium.png') }} />
+                <img class="img-fluid" src={{ asset('storage/free-premium-v2.png') }} />
+                <div class="my-2">
+                    <img class="img-fluid" src={{ asset('storage/free-premium-info.png') }} />
+                </div>
             </div>
         </div>
 
@@ -35,14 +38,14 @@
         </tr>
         <tr>
             <td><b>Main Video in Fullscreen</b>
-                <div>Main60 + Upgrade90</div>
+                <div>Main60 + Upsize90</div>
             </td>
             <td><b>Yes</b></td>
             <td><b>Yes</b></td>
         </tr>
         <tr>
             <td><b>Main Video in Agent Frame</b>
-                <div>Main60 + Upgrade90</div>
+                <div>Main60 + Upsize90</div>
             </td>
             <td><b>Yes</b></td>
             <td><b>Yes</b></td>
