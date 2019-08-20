@@ -685,9 +685,9 @@ i.fourty-sec { background-position:-178px 0px; }
 .h-col-2 { border:1px solid #999999; }
 .h-col-2 h2 { color:#363636; font-family:arial; border-top:1px solid #999999; margin:15px 0px 0px; padding-top:15px; font-size:52px; line-height:48px; }
 .h-col-1 h3,.h-col-2 h3,.h-col-3 h4,.col-border h4 { color:#ff0033; font-size:20px; font-family: 'tilium'; font-weight:bold; }
-.h-col-2 .col-5 .col-bg { background:#eaeaea; padding-top:13px; padding-bottom:4px;  }
-.h-col-2 .col .col-bg { background:#02a32b; padding-top:13px; padding-bottom:4px; }
-.h-col-2 .col:last-child a { color:#fff; }
+.h-col-2 .col-lg-5 .col-bg { background:#eaeaea; padding-top:13px; padding-bottom:4px;  }
+.h-col-2 .col-lg .col-bg { background:#02a32b; padding-top:13px; padding-bottom:4px; }
+.h-col-2 .col-lg:last-child a { color:#fff; }
 .h-col-3 { border:1px solid #ff0033; }
 .h-col-3 h3 {  background: linear-gradient(to right, #ff0169 , #ff1e05); color:#ffffff; margin-bottom:0px; font-family: 'tilium'; font-size:25px; }
 .h-col-3 .d-flex .p-2 { background:#eaeaea; font-family: 'tilium'; }
@@ -996,6 +996,7 @@ span.error-desc { font-size:15px; }
     .fv-web,.f-r2-video p { display:none; }
     .front-video h1 { display:none; }
     .f-r2-video .border-f75777,.f-r2-video .border-0066ff,.f-r2-video .border-6600cc { border:none; }
+    .f-r2-video .col-lg { padding:20px 0px !important; text-align:center; }
     .join-container { padding:15px 30px; }
     .join-container h3,.join-container span { font-size:28px; }
     .join-container  .col-sm-8 { padding:0px 20px; }
@@ -1105,6 +1106,9 @@ span.error-desc { font-size:15px; }
      .contact span { display:none; }
      .hdr-i-col { margin:0px 0px 80px !important; }
      .bg-primary-account .container { background-image:none !important; }
+     .h-row-2 .col > div { font-size:18px; }
+     .h-row-2 a { font-size:13px; }
+     i.f-video-icon { display:none; }
 }
 @media all and  (min-width:771px) and (max-width:980px){
      .contact span { display:none; }
@@ -1171,6 +1175,9 @@ span.error-desc { font-size:15px; }
     .guest-menu { margin-top:50px; }
     header .container { background-image:none; }
     .sub-nav li:nth-child(n+3) { padding:5px 0px 0px 0px; }
+}
+@media only screen and (min-width:990px) and (max-width:1200px){
+    .h-col-2 h2 { font-size:51px; }
 }
 @media only screen and (min-width:1024px) and (max-width:1200px){
     .guest-menu div:first-child { padding:0px 30px; }

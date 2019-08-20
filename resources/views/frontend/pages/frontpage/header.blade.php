@@ -31,7 +31,7 @@
           <div class="col-sm mt-4">
               <div class="h-col-2 p-3 h-100">
                     <div class="row mx-0">
-                        <div class="col-5 text-center pl-0 pr-1">
+                        <div class="col-lg-5 text-center pl-0 pr-1">
                             <div class="col-bg px-2 h-100">
                                 <div class="d-flex flex-row">
                                     <div><a href="/about"><i class="f-video-icon f-about"></i></a></div>
@@ -39,7 +39,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col text-center pr-0 pl-1 h-100">
+                        <div class="col-lg text-center pr-0 pl-1 h-100">
                             <div class="col-bg px-2">
                                 <div class="d-flex flex-row">
                                     <div><a href="/lets-get-started/1"><i class="f-video-icon f-quick"></i></a></div>
