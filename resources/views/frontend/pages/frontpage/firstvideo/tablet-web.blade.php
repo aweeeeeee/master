@@ -10,7 +10,7 @@
                         <div class="d-inline-block"><i class="first-video-icon f-v-low"></i></div>
                         <div class="d-inline-block">
                             <h4 class="m-0">Low Cost</h4>
-                            <span>From $99<sup class="font12">+gst</sup></span>
+                            <span>$99<sup class="font12">+gst</sup> for 7 versions</span>
                         </div>
                   </div>
                   <div class="p-2">

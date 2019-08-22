@@ -11,7 +11,7 @@
                 <div class="col-lg">
                         <a href=""><img class="img-fluid my-0" src={{ asset('storage/driveby-v2-inside.jpg') }} /></a>
                         <div class="py-2 border-bot-6600cc">
-                            <p class="py-3 mx-0 bg-d1d1d1 text-center"><a href="/what-is-driveby">More Information?</a></p>
+                            <p class="py-3 mx-0 bg-d1d1d1 text-center b-radius-7"><a href="/what-is-driveby">More Information?</a></p>
                         </div>
                         
                 </div>
