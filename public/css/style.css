@@ -685,7 +685,7 @@ i.fourty-sec { background-position:-178px 0px; }
 .h-col-2 { border:1px solid #999999; }
 .h-col-2 h2 { color:#363636; font-family:arial; border-top:1px solid #999999; margin:15px 0px 0px; padding-top:15px; font-size:52px; line-height:48px; }
 .h-col-1 h3,.h-col-2 h3,.h-col-3 h4,.col-border h4 { color:#ff0033; font-size:20px; font-family: 'tilium'; font-weight:bold; }
-.h-col-2 .col-lg-5 .col-bg { background:#eaeaea; padding-top:13px; padding-bottom:4px;  }
+.h-col-2 .col-lg-5 .col-bg,.h-col-2 .col-5 .col-bg { background:#eaeaea; padding-top:13px; padding-bottom:4px;  }
 .h-col-2 .col-lg .col-bg { background:#02a32b; padding-top:13px; padding-bottom:4px; }
 .h-col-2 .col-lg:last-child a { color:#fff; }
 .h-col-3 { border:1px solid #ff0033; }
