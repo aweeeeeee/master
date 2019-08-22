@@ -4,7 +4,7 @@
         <div class="d-flex flex-row-reverse">
             <div class="position-absolute">
                 <img class="img-fluid" src={{ asset('storage/free-premium-v2.png') }} />
-                <div class="my-2">
+                <div class="my-2 text-center">
                     <img class="img-fluid" src={{ asset('storage/free-premium-info.png') }} />
                 </div>
             </div>
