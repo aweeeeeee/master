@@ -158,7 +158,7 @@
                         @include('backend.pages.order.parts.storyboard.storyboard-data')
                   </div>
                   <div class="tab-pane fade" id="Main" role="tabpanel" aria-labelledby="Main60-tab">
-                       data2
+                        @include('backend.pages.order.parts.storyboard.storyboard-data-2')
                   </div>
                   <div class="tab-pane fade" id="HomeOpen" role="tabpanel" aria-labelledby="HomeOpen-tab">
                        data3

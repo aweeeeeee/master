@@ -275,7 +275,8 @@ i.arrow-down { border: solid #666666; border-width: 0 1px 1px 0; display: inline
 .select-hide { display: none; }
 .select-items div:hover, .same-as-selected { background-color: rgba(0, 0, 0, 0.1); }
 .select-items > div:first-child { text-align:center; }
-
+.statement-txt-medium { font-size:12px; padding:13px 0px; text-align:center; }
+.statement-txt-small { font-size:10px; padding:12px 0px; text-align:center; }
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
     .bg-light { background:none !important; }
