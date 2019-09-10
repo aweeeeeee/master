@@ -108,6 +108,12 @@
                             </td>
                             <td>
                                 <div class="d-flex justify-content-between">
+                                    <div>Agency Name</div>
+                                    <div><i class="arrow-down"></i></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-flex justify-content-between">
                                     <div>Order Date</div>
                                     <div><i class="arrow-up"></i></div>
                                 </div>
@@ -141,6 +147,7 @@
                         <tr>
                             <td>123</td>
                             <td>Firstname Lastname Firstname</td>
+                            <td></td>
                             <td>day</td>
                             <td>day</td>
                             <td>casual</td>
@@ -169,6 +176,7 @@
                         <tr>
                             <td>123</td>
                             <td>Firstname Lastname</td>
+                            <td></td>
                             <td>day</td>
                             <td>day</td>
                             <td>automatic</td>
@@ -185,9 +193,11 @@
                             <td></td>
                             <td></td>
                             <td></td>
+                            <td></td>
                         </tr>
                         <tr>
                             <td> &nbsp; </td>
+                            <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
