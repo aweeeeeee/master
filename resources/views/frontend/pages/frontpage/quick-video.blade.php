@@ -13,7 +13,14 @@
             </div>
             <div class="row mt-4">
                 <div class="col-sm"><input type="text" class="form-control w-100" placeholder="Property Website Listing URL or Address Here"></div>
-                <div class="col-sm-2 align-self-center"><button type="submit" class="btn btn-primary b-radius-7 w-100"><b>GO</b></button></div>
+                <div class="col-sm-2 align-self-center px-1">
+                    <div class="col-bg px-2">
+                                <div class="d-flex flex-row">
+                                    <div><a href="/lets-get-started/1"><i class="f-video-icon f-quick"></i></a></div>
+                                    <div class="py-1"><h3><a href="/lets-get-started/1" data-toggle="modal" data-target="#QuickModalCenter">Quick Order</a></h3></div>
+                                </div>
+                    </div>
+                </div>
             </div>
         </form>
     </div>
