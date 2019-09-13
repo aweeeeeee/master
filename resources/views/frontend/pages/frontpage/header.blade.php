@@ -80,8 +80,8 @@
                             <div class="modal-body">
                                 <div class="row">
                                     <div class="col-sm-3">
-                                        <img class="img-fluid" src={{ asset('storage/quick-order-logo.jpg') }} />
-                                        <div class="border-bot5"><span class="w-100">Cost</span></div>
+                                        <img class="img-fluid py-4" src={{ asset('storage/quick-order-logo.jpg') }} />
+                                        <div class="border-bot5"><span class="w-100 c-ff0033">Cost</span></div>
                                         <div class="d-flex justify-content-between mt-2">
                                             <div>Video</div>
                                             <div>$99.00</div>
@@ -106,7 +106,7 @@
                                             <div class="d-flex justify-content-between my-3">
                                                 <div>
                                                     <b>Order My Video Now;</b>
-                                                    <div>See <a href="" class="font-weight-normal">Terms and Conditions</a></div>
+                                                    <div>See <a href="" class="font-weight-normal c-ff0033">Terms and Conditions</a></div>
                                                 </div>
                                                 <div><button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-4"><b>GO</b></button></div>
                                             </div>
