@@ -113,7 +113,9 @@ i.a-s-icons-wb { background-position:-532px 0px; }
 .on-off .custom-control-input:checked~.custom-control-label::before { background:#009900; }
 .pdf-icon { background:url(backgrounds/pdf.png); background-repeat:no-repeat; height:63px; width:51px; display:inline-block; }
 .storyboard-tab h3 { font-size:22px; font-family:Myriad Pro; margin:0px; margin-left:10px; }
-.storyboard-tab select { border:1px solid #cccccc; background-color: #ffffff; background-image: url(backgrounds/arrow-down.jpg); -moz-appearance: none; -webkit-appearance: none; background-repeat: no-repeat; background-position: right; border-radius:0px !important; }
+.storyboard-form select,.statement-select select { border:1px solid #cccccc; background-color: #ffffff; background-image: url(backgrounds/arrow-down.jpg); background-repeat: no-repeat; background-position: right; border-radius:0px !important; }
+.storyboard-form select,.statement-select select { -moz-appearance: none; -webkit-appearance: none; }
+.board-data select { border:none; padding:5px; }
 .storyboard-tab button { background:#006633; border:none; border-radius:7px; }
 .colour-width div:nth-child(even) { width:100px; padding-left:15px; }
 i.standard-video { background:url(backgrounds/standard-video-icons.png); height:23px; width:23px; display:inline-block; margin-right:10px; vertical-align:middle; background-repeat:no-repeat; }
@@ -277,6 +279,7 @@ i.arrow-down { border: solid #666666; border-width: 0 1px 1px 0; display: inline
 .select-items > div:first-child { text-align:center; }
 .statement-txt-medium { font-size:12px; padding:13px 0px; text-align:center; }
 .statement-txt-small { font-size:10px; padding:12px 0px; text-align:center; }
+.board-data select { -webkit-appearance: regular !important; }
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
     .bg-light { background:none !important; }

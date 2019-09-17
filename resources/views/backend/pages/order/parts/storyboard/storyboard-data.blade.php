@@ -50,14 +50,14 @@
                                 </div>
 
                                 <div class="border-data my-3 px-3 height-80">here</div>
-                                <div class="statement-select">
+        
                                     <select class="form-control">
                                         <option default>Select Your Statement</option>
                                         <option value="">No Statement1</option>
                                         <option value="">No Statement2</option>
                                         <option value="">No Statement3</option>
                                     </select>
-                                </div>
+                    
                             </div>
                             <div>
                                 <div class="d-flex justify-content-start board-title mt-2">

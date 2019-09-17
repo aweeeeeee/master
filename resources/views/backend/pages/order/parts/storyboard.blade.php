@@ -91,7 +91,11 @@
                             <div>
                                 <div class="d-flex justify-content-start board-data">
                                     <div class="p-2"><b>VOICE Identification #</b></div>
-                                    <div class="p-2">text</div>
+                                    <div>
+                                        <select class="form-control">
+                                            <option value="">data</option>
+                                        </select>
+                                    </div>
                                 </div>
                                 <div class="d-flex justify-content-start board-data my-2">
                                     <div class="p-2"><b>MUSIC Identification #</b></div>
