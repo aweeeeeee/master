@@ -679,6 +679,9 @@ i.frame-icon { background:url(backgrounds/frame-icon.png); height:40px; width:85
 i.sixty-sec { background-position:1px 0px; }
 i.ninety-sec { background-position:-87px 0px; }
 i.fourty-sec { background-position:-178px 0px; }
+i.c-icon { background:url(backgrounds/centre-icon.png); height:35px; width:45px; display:inline-block; }
+i.mc-icon { background-position:-43px 0px; }
+i.ac-icon { background-position:1px 0px; }
 /** end icons **/
 
 /**frontpage**/
@@ -983,6 +986,8 @@ span.error-desc { font-size:15px; }
 .contact-details > div:last-child { width:285px; line-height:20px; border-left:1px solid #424244; padding-left:30px; }
 .contact-details > div:last-child .row:first-child .col:last-child { font-size:22px; }
 .sub-top-title { margin-top:-20px; }
+.marketing-container .col-sm:nth-child(2) { border-left:1px solid #414141; border-right:1px solid #414141; }
+.marketing-container .col-md a { color:#414141; }
 @media (max-width:330px){
     .bg-primary { background-image:linear-gradient(180deg, #424244 50%, #eaeaea 30%); }
     .pricing-data label { font-size:14px; }

@@ -1,4 +1,4 @@
-<footer class="py-3 bg-dark">
+<footer class="pt-4 pb-1 bg-dark">
       <div class="container">
                   @if (Request::segment(2) != '1') 
                       <div class="footer-con">
@@ -11,28 +11,45 @@
                           </form>
                       </div>
                   @endif
-                  <div class="text-center footer-logo">
-                      <a href="/"><img class="img-fluid" src={{ asset('storage/revid-icon.png') }} /></a>
-                  </div>
-                  <div class="fv-mobile">
-                      <div class="row justify-content-center">
-                              <div class="col-auto p-0"><a href=""><i class="social-icon2 fb2"></i></a></div>
-                              <div class="col-auto p-0"><a href=""><i class="social-icon2 twt2"></i></a></div>
-                              <div class="col-auto p-0"><a href=""><i class="social-icon2 in2"></i></a></div>
-                              <div class="col-auto p-0"><a href=""><i class="social-icon2 chk2"></i></a></div>
-                              <div class="col-auto p-0"><a href=""><i class="social-icon2 ytb2"></i></a></div>
-                              <div class="col-auto p-0"><a href=""><i class="social-icon2 pin2"></i></a></div>
-                      </div>
-                      <div class="my-2 text-center text-white">REVid Systems Pty Ltd 2019 - <br>Terms and Conditions - Copyright - <br>Privacy Policy - Contact</div>
-                  </div>
-                  <div class="fv-web text-center">
-                      <a href=""><i class="social-icon fb"></i></a>
-                      <a href=""><i class="social-icon twt"></i></a>
-                      <a href=""><i class="social-icon in"></i></a>
-                      <a href=""><i class="social-icon chk"></i></a>
-                      <a href=""><i class="social-icon ytb"></i></a>
-                      <a href=""><i class="social-icon pin"></i></a>
-                      <p class="my-2 text-center text-white">REVid Systems Pty Ltd 2019 - Terms and Conditions - Copyright - Privacy Policy - Contact</p>
-                  </div>
+                
       </div>
+</footer>
+<div class="container py-4 marketing-container">
+    <div class="row">
+        <div class="col-sm"><a href="/"><img class="img-fluid" src={{ asset('storage/revid-footer-logo.png') }} /></a></div>
+        <div class="col-sm">
+            <div class="row mt-3">
+                <div class="col-md text-center">
+                    <a href=""><i class="c-icon mc-icon"></i></a>
+                    <div><a href="">Marketing <br>Centre</a></div>
+                </div>
+                <div class="col-md text-center">
+                    <a href=""><i class="c-icon ac-icon"></i></a>
+                    <div><a href="">Artwork <br>Centre</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm"><a href="/"><img class="img-fluid" src={{ asset('storage/driveby-footer-logo.png') }} /></a></div>
+    </div>
+</div>
+<footer class="py-3 bg-dark">
+    <div class="container">
+        <div class="row color-ffffff">
+            <div class="col-sm">
+                REVid Systems Pty Ltd 2019<br>info@revid.com.au
+            </div>
+            <div class="col-sm">
+                    <div class="d-flex flex-row mx-3">
+                        <div class="mx-1"><a href=""><i class="medium-icons m-fb"></i></a></div>
+                        <div class="mx-1"><a href=""><i class="medium-icons m-instag"></i></a></div>
+                        <div class="mx-1"><a href=""><i class="medium-icons m-twtr"></i></a></div>
+                        <div class="mx-1"><a href=""><i class="medium-icons m-ytb"></i></a></div>
+                        <div class="mx-1"><a href=""><i class="medium-icons m-in"></i></a></div>
+                    </div>
+            </div>
+            <div class="col-sm text-right">
+                Terms and Conditions - Copyright<br>Privacy Policy - Contact
+            </div>
+        </div>
+    </div>
 </footer>
