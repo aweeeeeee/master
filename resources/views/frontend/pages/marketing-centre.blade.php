@@ -4,7 +4,7 @@
 
     <div class="container pb-0" id="content">
         <h1>Marketing Centre</h1>
-        <div class="row">
+        <div class="row mc-container">
             <div class="col-lg-4 col-6 mb-5">
                 <div class="d-flex flex-row">
                   <div><img class="img-fluid" src={{ asset('storage/mc-1.png') }} /></div>
