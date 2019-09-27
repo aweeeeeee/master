@@ -35,7 +35,7 @@
 <footer class="py-3 bg-dark">
     <div class="container">
         <div class="row color-ffffff">
-            <div class="col-sm">
+            <div class="col-sm align-self-center">
                 REVid Systems Pty Ltd 2019<br>info@revid.com.au
             </div>
             <div class="col-sm">
@@ -47,7 +47,7 @@
                         <div class="mx-1"><a href=""><i class="medium-icons m-in"></i></a></div>
                     </div>
             </div>
-            <div class="col-sm text-right">
+            <div class="col-sm text-right align-self-center">
                 Terms and Conditions - Copyright<br>Privacy Policy - Contact
             </div>
         </div>

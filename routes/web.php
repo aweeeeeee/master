@@ -155,6 +155,14 @@ Route::get('/page-not-found', function () {
     return view('frontend.pages.not-found');
 });
 
+Route::get('/artwork-centre', function () {
+    return view('frontend.pages.artwork-centre');
+});
+
+Route::get('/marketing-centre', function () {
+    return view('frontend.pages.marketing-centre');
+});
+
 Route::get('/account/home','MyAccountController@index');
 
 Route::get('/account/videos','MyVideoController@index');

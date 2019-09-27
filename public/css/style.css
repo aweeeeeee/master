@@ -315,6 +315,7 @@ button.per-month { background-color:#0066ff; color:#fff; width:100%; font-family
 .font13 { font-size:13px; }
 .font13-5 { font-size:13.5px; }
 .font14 { font-size:14px; }
+.font15 { font-size:15px; }
 .font16 { font-size:16px; }
 .font18 { font-size:18px; }
 .font20 { font-size:20px; }
@@ -682,6 +683,11 @@ i.fourty-sec { background-position:-178px 0px; }
 i.c-icon { background:url(backgrounds/centre-icon.png); height:35px; width:45px; display:inline-block; }
 i.mc-icon { background-position:-43px 0px; }
 i.ac-icon { background-position:1px 0px; }
+i.ac-dl-icon { background:url(backgrounds/ac-icon.png); height:48px; width:50px; display:inline-block; }
+i.ac-dl-pdf { background-position:8px 0px; }
+i.ac-dl-jpg { background-position:-59px 0px; }
+i.ac-dl-png { background-position:-128px 0px; }
+i.ac-dl-ai { background-position:-191px 0px; }
 /** end icons **/
 
 /**frontpage**/
