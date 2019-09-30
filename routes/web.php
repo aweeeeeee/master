@@ -163,6 +163,10 @@ Route::get('/marketing-centre', function () {
     return view('frontend.pages.marketing-centre');
 });
 
+Route::get('/reset-password', function () {
+    return view('frontend.pages.reset-password');
+});
+
 Route::get('/account/home','MyAccountController@index');
 
 Route::get('/account/videos','MyVideoController@index');
