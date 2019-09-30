@@ -167,6 +167,10 @@ Route::get('/reset-password', function () {
     return view('frontend.pages.reset-password');
 });
 
+Route::get('/change-password', function () {
+    return view('frontend.pages.change-password');
+});
+
 Route::get('/account/home','MyAccountController@index');
 
 Route::get('/account/videos','MyVideoController@index');
