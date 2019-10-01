@@ -24,6 +24,12 @@
                         <input type="text" name="" class="video-text" placeholder="To">
                     </div>
                 </div>
+                <div class="btn b-radius-7 btn-no-border px-1 bg-ff3300 my-3">
+                    <div class="d-flex flex-row">
+                      <div><i class="tracker-icon"></i></div>
+                      <div class="align-self-center"><b>REVid Production Tracker</b></div>
+                    </div>
+                </div>
             </div>
             <div class="col-sm">
                 <div class="row">
