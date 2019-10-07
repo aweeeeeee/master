@@ -1,8 +1,25 @@
                 <div class="d-flex flex-column m-v-scroll p-3">
                     <div>
-                        <div class="row tbl-av">
-                            <div class="col-sm-7 align-self-center"><input type="text" name="" class="form-control" placeholder="Address (Short Format)"></div>
-                            <div class="col-sm align-self-center text-left">
+                        <div class="row tbl-av my-3">
+                            <div class="col-sm">
+                                <div class="row">
+                                        <div class="col-sm-9 pr-2"><input type="email" name="email" placeholder="Enter Email" class="form-control"></div>
+                                        <div class="col-sm align-self-center"><a href=""><b>Add +</b></a></div>
+                                </div>
+                                <div class="row mt-3 mx-0">
+                                        <div class="col-sm-9 email-scroll">
+                                            <ul>
+                                                <li>john@professionals.com.au</li>
+                                                <li>mary@professionals.com.au</li>
+                                                <li>admin@professionals.com.au</li>
+                                                <li>other@professionals.com.au</li>
+                                                <li>other@professionals.com.au</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm reg-step-link"><a href=""><span class="pl-2">Remove -</span></a></div>
+                                </div>
+                            </div>
+                            <div class="col-sm text-left">
                                 <div class="row">
                                     <div class="col-sm">
                                         <div><b>STATUS</b></div>
@@ -26,6 +43,14 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="d-flex flex-row-reverse my-3">
+                                    <div>
+                                         <button type="submit" class="btn btn-primary b-radius-7 bg-009900 btn-no-border px-3">
+                                            <b>Send To Client</b>
+                                         </button>
+                                    </div>
+                                </div>
+                               
                             </div>
                         </div>
                     </div>
