@@ -43,24 +43,6 @@
             </div>
             <div class="col-lg-4 col-6 mb-5">
                 <div class="d-flex flex-row">
-                  <div><img class="img-fluid" src={{ asset('storage/mc-3.png') }} /></div>
-                  <div class="bg-eae ml-2 p-2 font14">
-                        <div class="d-flex flex-column">
-                          <div>Description:</div>
-                          <div class="my-2"><b>DriveBy Brochure</b></div>
-                          <div><b>Generic</b></div>
-                          <div class="my-2"><b>All Agency</b></div>
-                          <div>Download:</div>
-                          <div class="d-flex justify-content-between mt-2">
-                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
-                                <div><a href=""><i class="ac-dl-icon ac-dl-jpg"></i></a></div>
-                          </div>
-                        </div>
-                  </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-6 mb-5">
-                <div class="d-flex flex-row">
                   <div><img class="img-fluid" src={{ asset('storage/mc-4.png') }} /></div>
                   <div class="bg-eae ml-2 p-2 font14">
                         <div class="d-flex flex-column">
@@ -104,6 +86,24 @@
                           <div class="my-2"><b>Tips and Hints</b></div>
                           <div><b>When Using</b></div>
                           <div class="my-2"><b>Your Videos</b></div>
+                          <div>Download:</div>
+                          <div class="d-flex justify-content-between mt-2">
+                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
+                                <div><a href=""><i class="ac-dl-icon ac-dl-jpg"></i></a></div>
+                          </div>
+                        </div>
+                  </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-6 mb-5">
+                <div class="d-flex flex-row">
+                  <div><img class="img-fluid" src={{ asset('storage/mc-7.png') }} /></div>
+                  <div class="bg-eae ml-2 p-2 font14">
+                        <div class="d-flex flex-column">
+                          <div>Description:</div>
+                          <div class="my-2"><b>See Our</b></div>
+                          <div><b>Homes</b></div>
+                          <div class="my-2"><b>For Sale</b></div>
                           <div>Download:</div>
                           <div class="d-flex justify-content-between mt-2">
                                 <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
