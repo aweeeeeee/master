@@ -50,9 +50,14 @@
                                          </button>
                                     </div>
                                 </div>
-                               
+                                Date/Time Email Sent to Client: 
+                                <div class="d-flex flex-column">
+                                    <div>11/10/2019 9:00</div>
+                                    <div>11/09/2019 8:00</div>
+                                </div>
                             </div>
                         </div>
+                       
                     </div>
                     <div class="my-3">
                         <b>Video Template (No Subtitles)</b>
