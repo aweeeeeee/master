@@ -24,6 +24,10 @@
                     <div><a href="">Marketing <br>Centre</a></div>
                 </div>
                 <div class="col-md text-center">
+                    <a href=""><i class="c-icon th-icon"></i></a>
+                    <div><a href="">Tips and <br>Hints</a></div>
+                </div>
+                <div class="col-md text-center">
                     <a href=""><i class="c-icon ac-icon"></i></a>
                     <div><a href="">Artwork <br>Centre</a></div>
                 </div>
