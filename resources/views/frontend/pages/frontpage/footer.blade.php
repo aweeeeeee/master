@@ -20,16 +20,16 @@
         <div class="col-sm">
             <div class="row mt-3">
                 <div class="col-md text-center">
-                    <a href=""><i class="c-icon mc-icon"></i></a>
-                    <div><a href="">Marketing <br>Centre</a></div>
+                    <a href="/marketing-centre"><i class="c-icon mc-icon"></i></a>
+                    <div><a href="/marketing-centre">Marketing <br>Centre</a></div>
                 </div>
                 <div class="col-md text-center">
-                    <a href=""><i class="c-icon th-icon"></i></a>
-                    <div><a href="">Tips and <br>Hints</a></div>
+                    <a href="/tips-hints"><i class="c-icon th-icon"></i></a>
+                    <div><a href="/tips-hints">Tips and <br>Hints</a></div>
                 </div>
                 <div class="col-md text-center">
-                    <a href=""><i class="c-icon ac-icon"></i></a>
-                    <div><a href="">Artwork <br>Centre</a></div>
+                    <a href="/artwork-centre"><i class="c-icon ac-icon"></i></a>
+                    <div><a href="/artwork-centre">Artwork <br>Centre</a></div>
                 </div>
             </div>
         </div>

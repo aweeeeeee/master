@@ -163,6 +163,9 @@ Route::get('/marketing-centre', function () {
     return view('frontend.pages.marketing-centre');
 });
 
+Route::get('/tips-hints', function () {
+    return view('frontend.pages.tips-hints');
+});
 Route::get('/reset-password', function () {
     return view('frontend.pages.reset-password');
 });

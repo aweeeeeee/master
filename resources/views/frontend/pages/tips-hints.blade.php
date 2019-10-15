@@ -1,0 +1,99 @@
+@extends('frontend.layouts.main')
+
+@section('content')
+
+    <div class="container pb-0" id="content">
+        <h1>Tips and Hints Centre</h1>
+        <div class="row mc-container">
+            <div class="col-lg-4 col-6 mb-5">
+                <div class="d-flex flex-row">
+                  <div><img class="img-fluid" src={{ asset('storage/th-1.png') }} /></div>
+                  <div class="bg-eae ml-2 p-2 font14">
+                        <div class="d-flex flex-column">
+                          <div>Description:</div>
+                          <div class="my-2"><b>Tips and Hints</b></div>
+                          <div><b>When Using</b></div>
+                          <div class="my-2"><b>Your Videos</b></div>
+                          <div>Download:</div>
+                          <div class="d-flex justify-content-between mt-2">
+                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
+                          </div>
+                        </div>
+                  </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-6 mb-5">
+                <div class="d-flex flex-row">
+                  <div><img class="img-fluid" src={{ asset('storage/th-2.png') }} /></div>
+                  <div class="bg-eae ml-2 p-2 font14">
+                        <div class="d-flex flex-column">
+                          <div>Description:</div>
+                          <div class="my-2"><b>How to Get the</b></div>
+                          <div><b>Best from</b></div>
+                          <div class="my-2"><b>REVid + DriveBy</b></div>
+                          <div>Download:</div>
+                          <div class="d-flex justify-content-between mt-2">
+                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
+                          </div>
+                        </div>
+                  </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-6 mb-5">
+                <div class="d-flex flex-row">
+                  <div><img class="img-fluid" src={{ asset('storage/th-3.png') }} /></div>
+                  <div class="bg-eae ml-2 p-2 font14">
+                        <div class="d-flex flex-column">
+                          <div>Description:</div>
+                          <div class="my-2"><b>DriveBy Brochure</b></div>
+                          <div><b>Generic</b></div>
+                          <div class="my-2"><b>All Agency</b></div>
+                          <div>Download:</div>
+                          <div class="d-flex justify-content-between mt-2">
+                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
+                          </div>
+                        </div>
+                  </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-6 mb-5">
+                <div class="d-flex flex-row">
+                  <div><img class="img-fluid" src={{ asset('storage/th-4.png') }} /></div>
+                  <div class="bg-eae ml-2 p-2 font14">
+                        <div class="d-flex flex-column">
+                          <div>Description:</div>
+                          <div class="my-2"><b>How to Upload</b></div>
+                          <div><b>to YouTube</b></div>
+                          <div class="my-2"> &nbsp; </div>
+                          <div>Download:</div>
+                          <div class="d-flex justify-content-between mt-2">
+                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
+                          </div>
+                        </div>
+                  </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-6 mb-5">
+                <div class="d-flex flex-row">
+                  <div><img class="img-fluid" src={{ asset('storage/th-5.png') }} /></div>
+                  <div class="bg-eae ml-2 p-2 font14">
+                        <div class="d-flex flex-column">
+                          <div>Description:</div>
+                          <div class="my-2"><b>How to Upload</b></div>
+                          <div><b>to Facebook</b></div>
+                          <div class="my-2"> &nbsp; </div>
+                          <div>Download:</div>
+                          <div class="d-flex justify-content-between mt-2">
+                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
+                          </div>
+                        </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+ 
+    </div>
+
+    @include('frontend.pages.frontpage.footer')
+
+@endsection
