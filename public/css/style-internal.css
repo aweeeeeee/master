@@ -124,7 +124,7 @@ i.sv-export { background-position:-23px 0px; }
 .picture-uploader { border:1px solid #ccc; text-align:center; height:141px;padding:10% 0; margin-bottom:22px; }
 .board-data { background:#eaeaea; }
 .board-data div:first-child { width:250px; text-align:center; }
-.board-data div:nth-child(2) { border:1px solid #cccccc; background:#ffffff; width:450px; }
+.board-data div:nth-child(2) { border:1px solid #cccccc; background:#ffffff; width:290px; }
 .bg-efefef { background:#efefef; }
 .color-333 { color:#333333; }
 .border-data { border:1px solid #cccccc; } 

@@ -96,7 +96,7 @@
                                             <option value="">data</option>
                                         </select>
                                     </div>
-                                    <div class="align-self-center text-center mx-4">Client Selected</div>
+                                    <div class="align-self-center text-center px-4">Client Selected</div>
                                 </div>
                                 <div class="d-flex justify-content-start board-data my-2">
                                     <div class="p-2"><b>MUSIC Identification #</b></div>
