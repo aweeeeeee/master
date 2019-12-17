@@ -124,6 +124,10 @@
                                 <input type="checkbox" class="custom-control-input" id="customcheckbox3">
                                 <label class="custom-control-label px-2" for="customcheckbox3">Land/Auction</label>
                             </div>
+                            <div class="custom-control custom-checkbox tbl-pay">
+                                <input type="checkbox" class="custom-control-input" id="customcheckbox4">
+                                <label class="custom-control-label px-2" for="customcheckbox4">Music Only</label>
+                            </div>
                         </div>
                         <div>
                             <button type="submit" class="btn btn-primary b-radius-7 btn-no-border px-2 bg-009900">Save</button>
