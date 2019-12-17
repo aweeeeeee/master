@@ -1,106 +1,27 @@
 <div class="container f-page-info my-4">
-    <h3 class="font-weight-bold mb-3">What Does REVid Cost?</h3>
-
-        <div class="d-flex flex-row-reverse">
-            <div class="position-absolute">
-                <img class="img-fluid" src={{ asset('storage/free-premium-v2.png') }} />
-                <div class="my-2 text-center">
-                    <img class="img-fluid" src={{ asset('storage/free-premium-info.png') }} />
-                </div>
+    <h3 class="font-weight-bold pb-4 border-bot2">What Does REVid Cost?</h3>
+       
+        <div class="text-center pb-4 border-bot2">
+            <div class="text-right pr-5 font20 c-414142">
+                $99+gst Includes all 7 Videos
             </div>
+            <img class="img-fluid" src={{ asset('storage/revid-cost-new.jpg') }} />
         </div>
-
-    <table cellpadding="0" cellspacing="0" border="0" class="premium-table w-100">
-        <tr>
-            <td>$99<sup>+gst</sup> per Property Listing</td>
-            <td>
-                <div class="d-flex justify-content-between pricing-data">
-                    <div>Casual @ $0/month</div>
-                    @if (!request()->is('/') && !request()->is('promotional') )
-                        <div class="custom-control custom-checkbox mt-1">
-                            <input type="checkbox" class="custom-control-input" id="customCheck1">
-                            <label class="custom-control-label font-weight-bold" for="customCheck1"></label>
-                        </div>
-                    @endif
-                </div>
-            </td>
-            <td>
-                <div class="d-flex justify-content-between pricing-data">
-                    <div>Premium @ $33/month</div>
-                     @if (!request()->is('/') && !request()->is('promotional') )
-                        <div class="custom-control custom-checkbox mt-1">
-                            <input type="checkbox" class="custom-control-input" id="customCheck2">
-                            <label class="custom-control-label font-weight-bold" for="customCheck2"></label>
-                        </div>
-                    @endif
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td><b>Main Video in Fullscreen</b>
-                <div>Main60 + Upsize90</div>
-            </td>
-            <td><b>Yes</b></td>
-            <td><b>Yes</b></td>
-        </tr>
-        <tr>
-            <td><b>Main Video in Agent Frame</b>
-                <div>Main60 + Upsize90</div>
-            </td>
-            <td><b>Yes</b></td>
-            <td><b>Yes</b></td>
-        </tr>
-        <tr>
-            <td><b>Voice-Over</b></td>
-            <td><b>Yes</b></td>
-            <td><b>Yes</b></td>
-        </tr>
-        <tr>
-            <td><b>Subtitles</b></td>
-            <td><b>Yes</b></td>
-            <td><b>Yes</b></td>
-        </tr>
-        <tr>
-            <td><b>Home Open Video</b>
-                <div>40 Seconds</div>
-            </td>
-            <td><b>No, extra $20</b></td>
-            <td><b>Yes</b></td>
-        </tr>
-        <tr>
-            <td><b>Price Adjustment Video</b>
-                <div>40 Seconds</div>
-            </td>
-            <td><b>No, extra $20</b></td>
-            <td><b>Yes</b></td>
-        </tr>
-        <tr>
-            <td><b>SOLD</b> (Another Wanted!) <b>Video</b>
-                <div>40 Seconds</div>
-            </td>
-            <td><b>No, extra $20</b></td>
-            <td><b>Yes</b></td>
-        </tr>
-        <tr>
-            <td>One <b>FREE</b> Video
-            <div>EVERY 3 Months</div></td>
-            <td><b>No</b></td>
-            <td><b>Yes</b><sup>(4)</sup> 
-
-            </td>
-        </tr>
-        <tr>
-            <td><b>Vendor Marketing Material</b>
-                <div>(Brochure + Video)</div>
-            </td>
-            <td><b>Generic Only</b></td>
-            <td><b>Personalised to Your Brand</b></td>
-        </tr>
-    </table>
-
+    
+            <table cellpadding="0" cellspacing="0" class="cost-table margin-0-auto">
+                <tr>
+                    <td><img class="img-fluid" src={{ asset('storage/cost-driveby.jpg') }} /></td>
+                    <td><img class="img-fluid" src={{ asset('storage/cost-walkby.jpg') }} /></td>
+                    <td><img class="img-fluid" src={{ asset('storage/cost-home.jpg') }} /></td>
+                </tr>
+            </table>
+        
+        <div class="py-4 border-bot2">
+            <div class="cost-sub-title p-3">All REVid Videos include Voice-Over and Subtitles</div>
+        </div>
          <p class="text-justify font14 mt-4 color-000">
-                <span class="color-ff0033">(1)</span> $99 (plus GST) = $108.90 including GST <span class="color-ff0033">(2)</span> Pricing valid until 31 Dec 2019.
-                <span class="color-ff0033">(3)</span> FREE Premium OFFER is for 12 Months from initial set-up date and will NOT Auto-renew without consent. No lock-ins and no credit cards required. <span class="color-ff0033">(4)</span> Not included in FREE 12-months Premium offer.
+                <span class="color-ff0033">(1)</span> $99 (plus GST) = $108.90 including GST <span class="color-ff0033">(2)</span> Pricing valid until 30 June 2020.
+                <span class="color-ff0033">(3)</span> Includes 7 Videos subject to you providing enough images for a 90 sec video.
          </p>
 
 </div>

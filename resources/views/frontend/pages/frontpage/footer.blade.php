@@ -2,7 +2,7 @@
       <div class="container">
                   @if (Request::segment(2) != '1') 
                       <div class="footer-con">
-                          <h6 class="text-center c-414 text-white"><span>JOIN TODAY,</span> and Receive 12-months <span>FREE PREMIUM Package</span></h6>
+                          <h6 class="text-center c-414 text-white"><span>JOIN TODAY,</span> Get <span>ALL 7 Videos</span> with Voice-Over and Subtiles for <span>$99<sup>+gst</sup>!</span></h6>
                           <form>
                               <div class="row">
                                     <div class="col-sm-8"><input type="email" class="form-control" placeholder="Add Your Email Address"></div>

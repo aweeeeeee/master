@@ -247,9 +247,10 @@ h3.my-account-title { font-size:20px; border-bottom:1px solid #999999; padding:3
 .c-6600cc { color:#6600cc !important; }
 .c0066ff { color:#0066ff !important; }
 .c-ff0033 { color:#ff0033 !important; }
+.c-414142 { color:#414142; }
 footer,.contact-page a { font-family:arial; }
 footer h6 { color:#fff; font-size: 29px; }
-footer h6 span,.join-container span { font-size: 35px; font-weight:bold; }
+footer h6 span,.join-container span { font-size: 29px; font-weight:bold; }
 .footer-logo { margin-bottom:25px; }
 footer form { margin:25px 0px 35px; }
 footer .form-control,.join-container .form-control { width:100% !important; padding:14px; border-radius:7px; }
@@ -745,7 +746,7 @@ i.ac-dl-ai { background-position:-191px 0px; }
 .order-form input:placeholder-shown { color:#999999; }
 .order-form button { background:#009933; border:none; padding:12px; font-size:20px; }
 .order-form h4 { color:#ff0033; font-weight:bold; font-size:19px; }
-.order-form .col-bg { background:#02a32b; padding:6px 0px 0px; border:5px solid #fff; }
+.order-form .col-bg { background:#009933; padding:12px 0px 3px; border-radius:7px; }
 .order-form h3 a { font-family: 'tilium'; font-weight:bold; font-size:19px; }
 .premium-table { border-top:1px solid #000000; border-bottom:1px solid #000000; color:#000; }
 .premium-table tr:not(:last-child) td { border-bottom:1px solid #999999; }
@@ -768,6 +769,10 @@ i.ac-dl-ai { background-position:-191px 0px; }
 #QuickModalCenter .modal-content { border-radius:0px; }
 #QuickModalCenter .modal-body { padding:0px 20px; }
 .premium-table tr:nth-child(n+4):nth-child(-n+5) td:first-child { padding:20px 0px !important; }
+.cost-sub-title { background:#2900af; color:#fff; font-size:20px; font-weight:bold; }
+.cost-table { width:900px; }
+.cost-table tr td:nth-child(2) { padding:0px 30px; }
+.margin-0-auto { margin:0px auto; }
 /** end frontpage**/
 
 /** account **/
@@ -901,6 +906,7 @@ header .container .float-l:nth-child(2) { margin:15px 0px 20px; }
 .m-r-l { margin-left:-15px !important; margin-right:-15px !important; }
 .p-0-28 { padding-left:28px; padding-right:28px; }
 .f-use-revid .col-sm:not(:nth-child(7)),.f-use-revid-2 .col-sm:not(:nth-child(6)) { border-right:1px solid #cccccc; }
+.f-use-revid .col-sm:first-child { border-left:1px solid #cccccc }
 .chck-a { font-size:11px !important; margin-top:2px !important; }
 .m-r-13 { margin-right:13px; }
 .h-t-70 { height:70px !important; }

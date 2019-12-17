@@ -38,12 +38,9 @@
                     <div class="col-auto p-0 align-self-center line-height20"><a href="/use-revid/marketing"><b>Promotes Your Brand</b></a></div>
                 </div>
             </div>
-            <div class="my-3">
-                <img class="img-fluid" src={{ asset('storage/available_now.jpg') }} />
-            </div>
         </div>  
     </div>
-    <div class="row text-center f-use-revid font-weight-bold my-4 fv-web">
+    <div class="row text-center f-use-revid font-weight-bold my-4 fv-web px-3">
         <div class="col-sm">
             <i class="link-icon fast mb-3"></i>
             <p class="m-0"><a href="/use-revid/fast">Fast</a></p>
@@ -67,9 +64,6 @@
         <div class="col-sm">
             <i class="link-icon brand mb-2"></i>
             <p class="m-0"><a href="/use-revid/marketing">Promotes <br>Your Brand</a></p>
-        </div>
-        <div class="col-md-auto">
-            <img class="img-fluid" src={{ asset('storage/available_now.jpg') }} />
         </div>
     </div>  
 </div>
