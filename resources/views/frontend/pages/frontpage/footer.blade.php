@@ -1,4 +1,4 @@
-<footer class="pt-4 pb-1 bg-dark">
+<footer class="pt-4 pb-1 bg-dark  @if (Request::segment(2) == '1') d-none @endif">
       <div class="container">
                   @if (Request::segment(2) != '1') 
                       <div class="footer-con">

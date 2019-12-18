@@ -1099,6 +1099,7 @@ span.error-desc { font-size:15px; }
     .h-r-0 { padding-right:15px; }
     .h-l-0 { padding-left:15px; }
     .h-1 { padding:0px 15px; margin:10px 0px; }
+    .cost-table { width:auto; }
 }
 @media (max-width:1200px){
     .join-step-container .col-md-auto:last-child div { display:none; }
