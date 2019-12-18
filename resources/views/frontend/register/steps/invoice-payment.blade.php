@@ -1,7 +1,15 @@
 <div class="border-bot4 pb-4">
     <div class="row">
         <div class="col-sm">
-            <h4 class="reg-title my-3">Who Do We Invoice</h4>
+            <div class="d-flex flex-row bd-highlight mb-3">
+                  <div>
+                        <div class="custom-control custom-checkbox premium step-three-register">
+                                <input type="checkbox" class="custom-control-input" id="customCheck2">
+                                <label class="custom-control-label chck-a text-justify" for="customCheck2"> &nbsp; </label>
+                        </div>
+                  </div>
+                  <div class="align-self-center my-2 font15"><b>Will the Agency Pay??</b></div>
+           </div>
             <div class="d-flex flex-column bd-highlight">
               <div><input id="name" type="text" class="form-control" name="" required autofocus placeholder="Entity or Name"></div>
               <div class="my-3"><input id="name" type="text" class="form-control" name="" required autofocus placeholder="ACN/ABN"></div>
@@ -9,7 +17,7 @@
             </div>
         </div>
         <div class="col-sm">
-            <h4 class="reg-title my-3">Payment Contact</h4>
+            <div class="my-3 font15"><b>Payment Contact</b></div>
             <div class="d-flex flex-column bd-highlight">
                 <div><input id="name" type="text" class="form-control" name="" required autofocus placeholder="Contact Name"></div>
                 <div class="my-3"><input id="name" type="text" class="form-control" name="" required autofocus placeholder="Contact Mobile"></div>
