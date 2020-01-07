@@ -288,10 +288,10 @@ i.tracker-icon { background:url(backgrounds/tracker-icon.png); display:inline-bl
 .info-agent-template-2 div:nth-child(6) { padding-right:40px;  }
 .info-agent-template-2 div:nth-child(7) { border-left:1px solid #fff; padding-left:40px; height:85px; }
 .info-agent-template-2 > div { margin:10px 0px; }
-i.d-icon { background:url(backgrounds/dimension-icon.jpg); background-repeat:no-repeat; height:88px; width:120px; display:inline-block; margin:0px 30px; }
+i.d-icon { background:url(backgrounds/dimension-png.png); background-repeat:no-repeat; height:88px; width:120px; display:inline-block; margin:0px 30px; }
 i.d-icon-bed { background-position:0px 0px; }
-i.d-icon-bat { background-position:-230px 0px; }
-i.d-icon-car { background-position:-443px 0px; }
+i.d-icon-bat { background-position:-132px 0px; }
+i.d-icon-car { background-position:-251px 0px; }
 
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }

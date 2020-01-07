@@ -87,8 +87,7 @@
        
         <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
         
-        
-        <div class="d-flex flex-row info-agent-template-2 py-4">
+        <div class="d-flex info-agent-template-2 justify-content-center py-4">
             <div><i class="d-icon"></i></div>
             <div>4</div>
             <div><i class="d-icon d-icon-bat"></i></div>
@@ -101,7 +100,7 @@
         <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
         
         <div class="d-flex flex-row info-agent-template-2 p-4">
-                <div><b>Contact:</b> Agent's Full Name</div>
+                <div class="w-100 text-center"><b>Contact:</b> Agent's Full Name</div>
         </div>
         
         
