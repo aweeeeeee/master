@@ -73,6 +73,39 @@
             </div>
         </div>
         <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
+        
+        <div class="info-agent-template-1">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-6 mx-auto text-center">
+                        <div><b>3 Rugby Street</b></div>
+                        <div>Bayswater</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+        <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
+        
+        
+        <div class="d-flex flex-row info-agent-template-2 py-4">
+            <div><i class="d-icon"></i></div>
+            <div>4</div>
+            <div><i class="d-icon d-icon-bat"></i></div>
+            <div>3</div>
+            <div><i class="d-icon d-icon-car"></i></div>
+            <div>2</div>
+            <div class="mx-2">House</div>
+        </div>
+        
+        <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
+        
+        <div class="d-flex flex-row info-agent-template-2 p-4">
+                <div><b>Contact:</b> Agent's Full Name</div>
+        </div>
+        
+        
+        <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
     </div>
 
 
