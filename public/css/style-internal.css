@@ -286,12 +286,11 @@ i.tracker-icon { background:url(backgrounds/tracker-icon.png); display:inline-bl
 .info-agent-template-1 { width:918px; height:516px; font-family: tilium; background:#1D1D1D; color:#fff; font-size:60px;  }
 .info-agent-template-2 { background:#1d1d1d; height:167px; width:1157px; font-family: tilium; color:#fff;  font-size:65px; padding:32px 0px 20px 58px; }
 .info-agent-template-2 div:nth-child(even) { margin-left:26px;  width:78px;  }
-.info-agent-template-2 div:nth-child(7) { border-left:2px solid #fff; padding-left:35px; height:85px; }
-.info-agent-template-22 > div { margin:10px 0px; }
+.info-agent-template-2 div:nth-child(7) { border-left:3px solid #fff; padding-left:35px; height:85px; margin-left:7px; }
 i.d-icon { background:url(backgrounds/dimension-png.png); background-repeat:no-repeat; height:88px; width:119px; display:inline-block; margin:0px 0px; }
 i.d-icon-bed { background-position:0px 0px; }
 i.d-icon-bat { background-position:-132px 0px; }
-i.d-icon-car { background-position:-251px 0px; }
+i.d-icon-car { background-position:-253px 0px; }
 
 @media (min-width:980px){
     .navbar-light .navbar-nav .nav-link,.header-internal a { color:#000; }
