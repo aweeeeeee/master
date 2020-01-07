@@ -87,20 +87,20 @@
        
         <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
         
-        <div class="d-flex info-agent-template-2 justify-content-center py-4">
-            <div><i class="d-icon"></i></div>
+        <div class="d-flex info-agent-template-2 flex-row">
+            <div><i class="d-icon d-icon-bed"></i></div>
             <div>4</div>
             <div><i class="d-icon d-icon-bat"></i></div>
             <div>3</div>
             <div><i class="d-icon d-icon-car"></i></div>
             <div>2</div>
-            <div class="mx-2">House</div>
+            <div>House</div>
         </div>
         
         <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
         
         <div class="d-flex flex-row info-agent-template-2 p-4">
-                <div class="w-100 text-center"><b>Contact:</b> Agent's Full Name</div>
+                <div class="w-100 text-center align-self-center"><b>Contact:</b> Agent's Full Name</div>
         </div>
         
         
