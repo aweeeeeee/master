@@ -10,7 +10,25 @@
         </div>
         <div class="col-lg-8 make-video-con">
             <h3 class="border-title">Make My Video</h3>
-            <div class="px-3 my-5 f-av-home register-form">
+            <div class="d-flex flex-row bd-highlight">
+                  <div class="align-self-center my-2 font15 col-5 px-0"><b>Music Only</b></div>
+                  <div>
+                        <div class="custom-control custom-checkbox premium step-three-register">
+                                <input type="checkbox" class="custom-control-input" id="customCheck1">
+                                <label class="custom-control-label chck-a text-justify" for="customCheck1"> &nbsp; </label>
+                        </div>
+                  </div>
+            </div>
+            <div class="d-flex flex-row bd-highlight">
+                  <div class="align-self-center my-2 font15 col-5 px-0"><b>Platinum Video $99 + gst</b></div>
+                  <div>
+                        <div class="custom-control custom-checkbox premium step-three-register">
+                                <input type="checkbox" class="custom-control-input" id="customCheck2">
+                                <label class="custom-control-label chck-a text-justify" for="customCheck2"> &nbsp; </label>
+                        </div>
+                  </div>
+            </div>
+            <div class="px-3 mb-5 f-av-home register-form pt-0">
                         <div class="row border-top-10-6600cc bg-eae py-3">
                             <div class="col-sm-4">
                                 <div class="d-flex align-items-start flex-column bd-highlight mb-3 h-100">
