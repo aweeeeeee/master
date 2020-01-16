@@ -95,42 +95,6 @@
                   </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-6 mb-5">
-                <div class="d-flex flex-row">
-                  <div><img class="img-fluid" src={{ asset('storage/mc-7.png') }} /></div>
-                  <div class="bg-eae ml-2 p-2 font14">
-                        <div class="d-flex flex-column">
-                          <div>Description:</div>
-                          <div class="my-2"><b>WalkBy Artwork</b></div>
-                          <div><b>Landscape</b></div>
-                          <div class="my-2"><b> &nbsp; </b></div>
-                          <div>Download:</div>
-                          <div class="d-flex justify-content-between mt-2">
-                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
-                                <div><a href=""><i class="ac-dl-icon ac-dl-jpg"></i></a></div>
-                          </div>
-                        </div>
-                  </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-6 mb-5">
-                <div class="d-flex flex-row">
-                  <div><img class="img-fluid" src={{ asset('storage/mc-8.png') }} /></div>
-                  <div class="bg-eae ml-2 p-2 font14">
-                        <div class="d-flex flex-column">
-                          <div>Description:</div>
-                          <div class="my-2"><b>WalkBy</b></div>
-                          <div><b>Artwork (A4)</b></div>
-                          <div class="my-2"><b> &nbsp; </b></div>
-                          <div>Download:</div>
-                          <div class="d-flex justify-content-between mt-2">
-                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
-                                <div><a href=""><i class="ac-dl-icon ac-dl-jpg"></i></a></div>
-                          </div>
-                        </div>
-                  </div>
-                </div>
-            </div>
         </div>
  
     </div>
