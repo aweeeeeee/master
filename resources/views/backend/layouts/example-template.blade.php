@@ -77,9 +77,9 @@
         <div class="info-agent-template-1">
             <div class="container h-100">
                 <div class="row align-items-center h-100">
-                    <div class="col-6 mx-auto text-center">
-                        <div><b>3 Rugby Street</b></div>
-                        <div>Bayswater</div>
+                    <div class="col-7 mx-auto text-center">
+                        <div><b>test test test test</b></div>
+                        <div>test test</div>
                     </div>
                 </div>
             </div>
