@@ -4,7 +4,7 @@
 
     <div class="container pb-0" id="content">
         <h1>Artwork Centre</h1>
-        <div class="row">
+        <div class="row artwork-centre">
             <div class="col-lg-3 col-6 mb-5">
                 <img class="img-fluid" src={{ asset('storage/DriveByStickerBlack.png') }} />
                 <div class="p-3 bg-eae">
@@ -1558,7 +1558,7 @@
                 <div class="p-3 bg-eae">
                     <div class="d-flex flex-column line-height22">
                       <div>Signboard Artwork:</div>
-                      <div class="font15"><b>WalkBy Artwork (A4)</b></div>
+                      <div class="font15"><b>WalkBy Artwork (A4) </b></div>
                       <div class="mt-3 mb-2">Download: </div>
                       <div>
                             <div class="d-flex flex-row ">
