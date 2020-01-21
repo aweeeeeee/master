@@ -1004,7 +1004,7 @@ span.error-desc { font-size:15px; }
 .mc-container .bg-eae { width:148px; }
 .r-password-form input { width:400px; }
 .r-password-form button { background:#ff0033 !important; color:#fff; font-weight:bold; border:none; }
-.artwork-centre .bg-eae { height:220px; }
+.artwork-centre .col-lg-3:nth-child(n+57):nth-child(-n+60) .bg-eae,.artwork-centre .col-lg-3:nth-child(n+65):nth-child(-n+68) .bg-eae,.artwork-centre .col-lg-3:nth-child(n+85):nth-child(-n+88) .bg-eae { height:220px; }
 .artwork-centre .col-lg-3:last-child img { height:155px; }
 @media (max-width:330px){
     .bg-primary { background-image:linear-gradient(180deg, #424244 50%, #eaeaea 30%); }
