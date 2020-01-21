@@ -402,7 +402,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-6 mb-5">
-                <img class="img-fluid" src={{ asset('storage/DriveByStickerGreenwithBleed-01.png') }} />
+                <img class="img-fluid" src={{ asset('storage/DriveByStickerPinkwithBleed-01.png') }} />
                 <div class="p-3 bg-eae">
                     <div class="d-flex flex-column">
                       <div>Signboard Artwork:</div>
@@ -533,24 +533,6 @@
                     <div class="d-flex flex-column line-height22">
                       <div>Signboard Artwork:</div>
                       <div class="font15"><b>WalkBy Artwork (A4) - Black</b></div>
-                      <div class="mt-3 mb-2">Download: </div>
-                      <div>
-                            <div class="d-flex flex-row ">
-                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
-                                <div><a href=""><i class="ac-dl-icon ac-dl-jpg"></i></a></div>
-                                <div><a href=""><i class="ac-dl-icon ac-dl-png"></i></a></div>
-                                <div><a href=""><i class="ac-dl-icon ac-dl-ai"></i></a></div>
-                            </div>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-6 mb-5">
-                <img class="img-fluid" src={{ asset('storage/WalkByArtwork(A4)-DarkBlue-Thumbnail.jpg') }} />
-                <div class="p-3 bg-eae">
-                    <div class="d-flex flex-column line-height22">
-                      <div>Signboard Artwork:</div>
-                      <div class="font15"><b>WalkBy Artwork (A4) - Dark Blue</b></div>
                       <div class="mt-3 mb-2">Download: </div>
                       <div>
                             <div class="d-flex flex-row ">
