@@ -52,7 +52,7 @@
                                                             <div>
                                                                 <div class="my-account-subcription step-three-register align-self-center v-s-width">
                                                                     <div class="custom-control custom-checkbox standard ml-2">
-                                                                        <input type="checkbox" class="custom-control-input" id="customCheck6">
+                                                                        <input checked type="checkbox" class="custom-control-input" id="customCheck6">
                                                                         <label class="custom-control-label" for="customCheck6"></label>
                                                                     </div>
                                                                 </div>
@@ -76,7 +76,7 @@
                                                             <div>
                                                                 <div class="my-account-subcription step-three-register align-self-center v-s-width">
                                                                     <div class="custom-control custom-checkbox standard ml-2">
-                                                                        <input type="checkbox" class="custom-control-input" id="customCheck7">
+                                                                        <input type="checkbox" class="custom-control-input" id="customCheck7" checked>
                                                                         <label class="custom-control-label" for="customCheck7"></label>
                                                                     </div>
                                                                 </div>
@@ -130,7 +130,7 @@
                                                             <div>
                                                                 <div class="my-account-subcription step-three-register align-self-center v-s-width">
                                                                     <div class="custom-control custom-checkbox standard ml-2">
-                                                                        <input type="checkbox" class="custom-control-input" id="customCheck9">
+                                                                        <input type="checkbox" class="custom-control-input" id="customCheck9"  checked="checked">
                                                                         <label class="custom-control-label" for="customCheck9"></label>
                                                                     </div>
                                                                 </div>

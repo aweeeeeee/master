@@ -135,20 +135,54 @@
                         </div>
                     </div>
                     <div class="my-3">
-                        <b>Agency Geolocator</b>
-                        <div class="row m-r-l">
-                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-wb"></i></div>
-                                <div class="col-sm">
-                                    <div>Longtitude</div>
-                                    <div><input type="text" name="" class="form-control"></div>
+                        <div id="add-agency">
+                                <b>Agency Geolocator</b>
+                                <div class="mb-2">
+                                    <div class="row m-r-l">
+                                            <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-wb"></i></div>
+                                            <div class="col-sm">
+                                                <div>Agency address</div>
+                                                <div><input type="text" name="" class="form-control"></div>
+                                            </div>
+                                    </div>
+                                    <div class="row m-r-l">
+                                            <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-wb"></i></div>
+                                            <div class="col-sm">
+                                                <div>Longtitude</div>
+                                                <div><input type="text" name="" class="form-control"></div>
+                                            </div>
+                                    </div>
+                                    <div class="row m-r-l">
+                                            <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-wb"></i></div>
+                                            <div class="col-sm">
+                                                <div>Latitude</div>
+                                                <div><input type="text" name="" class="form-control"></div>
+                                            </div>
+                                    </div>
                                 </div>
                         </div>
-                        <div class="row m-r-l">
-                                <div class="col-md-auto align-self-center pt-1"><i class="a-s-icons a-s-icons-wb"></i></div>
-                                <div class="col-sm">
-                                    <div>Latitude</div>
-                                    <div><input type="text" name="" class="form-control"></div>
-                                </div>
+
+                        <div id="agency-add">
+                            
                         </div>
+                        
+                        <button type="button" name="add" id="add-list-agency" class="btn btn-success my-3">Add More +</button> 
+         
+                        <script type="text/javascript">
+                            $(document).ready(function(){      
+                                
+                              var RowContent = document.getElementById('add-agency').innerHTML
+                              var i=1;  
+                                
+                              $('#add-list-agency').click(function(){  
+                                   i++;  
+                                   $('#agency-add').append('<div id="row'+i+'"><button type="button" name="remove" id="'+i+'" class="btn btn-danger btn_remove">X</button>' + RowContent + '</div>');  
+                              });  
+                             $(document).on('click', '.btn_remove', function(){  
+                                   var button_id = $(this).attr("id");   
+                                   $('#row'+button_id+'').remove();  
+                              });  
+                            });
+                        </script>
                     </div>
                 </div>
