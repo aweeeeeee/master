@@ -176,7 +176,7 @@
                                 
                               $('#add-list-agency').click(function(){  
                                    i++;  
-                                   $('#agency-add').append('<div id="row'+i+'"><button type="button" name="remove" id="'+i+'" class="btn btn-danger btn_remove">X</button>' + RowContent + '</div>');  
+                                   $('#agency-add').append('<div id="row'+i+'"><button type="button" name="remove" id="'+i+'" class="btn btn-danger btn_remove">X</button> <button type="button" name="add" class="btn btn-success my-3"> <i class="standard-video sv-save m-0"></i> </button> ' + RowContent + '</div>');  
                               });  
                              $(document).on('click', '.btn_remove', function(){  
                                    var button_id = $(this).attr("id");   
