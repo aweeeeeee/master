@@ -9,10 +9,10 @@
         @endauth
         </div>
         <div class="col-lg-8 my-account-form pb-5">
-            <h4 class="my-account-title mb-2">My Preferences</h4>
-            HOMEOPEN info SETTINGS
+            <h3 class="my-account-title mb-2 pb-3">My Preferences</h3>
+            <div class="reg-title">HOMEOPEN info SETTINGS</div>
             <div class="d-flex flex-row step-three-register">
-                <div class="col-md-5 px-0 py-3"><b>Register Your Attendance System</b></div>
+                <div class="col-md-5 px-0 py-3 font13">Register Your Attendance System</div>
                 <div class="col-md">
                     <div class="d-flex flex-row">
                         <div class="align-self-center col-2 py-1">
