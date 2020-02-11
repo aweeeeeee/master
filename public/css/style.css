@@ -172,6 +172,7 @@ ul.list-option-about li:before { content: "■"; color:#6600cc; font-size:15px; 
 .block-grey {  background:#dbdbdb; padding:10px; }
 .btn-ff0033 { background-color:#ff0033; }
 h3.my-account-title { font-size:20px; border-bottom:1px solid #999999; padding:30px 0px 50px; margin-bottom:40px; }
+h4.my-account-title { font-size:20px; padding:30px 0px 10px; margin-bottom:40px; color: #424244; font-weight:bold; }
 .billing-button button { padding:5px 10px 0px 5px; width:128px; }
 .billing-button span { vertical-align:text-bottom; padding-left:10px; }
 .billing-a { padding:0px 10px; width:120px; }
