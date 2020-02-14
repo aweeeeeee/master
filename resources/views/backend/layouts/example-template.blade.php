@@ -119,14 +119,14 @@
         <div class="info-agent-template-full">
             <div class="container h-100">
                 <div class="row align-items-center h-100">
-                    <div class="col-10 mx-auto">
+                    <div class="col-auto mx-auto">
                         <div>
                             <div><b>FirstName LastName</b></div>
                             <div>Presents</div>
                         </div>
                         <div>
-                            <div><b>3 Revid Street</b></div>
-                            <div>Revidville 3</div>
+                            <div><b>3 Revid Street text text</b></div>
+                            <div>Revidville 3 text text</div>
                         </div>
                     </div>
                 </div>
