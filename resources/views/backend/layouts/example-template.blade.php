@@ -87,13 +87,23 @@
        
         <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
         
-        <div class="d-flex info-agent-template-2 flex-row">
+        <div class="d-flex info-agent-template-2 justify-content-end">
             <div><i class="d-icon d-icon-bed"></i></div>
             <div>4</div>
             <div><i class="d-icon d-icon-bat"></i></div>
             <div>3</div>
             <div><i class="d-icon d-icon-car"></i></div>
             <div>2</div>
+            <div>House</div>
+        </div>
+        
+        <br><br> <br><br>
+        
+        <div class="d-flex info-agent-template-2 justify-content-end">
+            <div><i class="d-icon d-icon-bed"></i></div>
+            <div>4</div>
+            <div><i class="d-icon d-icon-bat"></i></div>
+            <div>3</div>
             <div>House</div>
         </div>
         
