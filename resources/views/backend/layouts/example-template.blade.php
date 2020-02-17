@@ -99,7 +99,7 @@
         
         <br><br> <br><br>
         
-        <div class="d-flex info-agent-template-2 justify-content-end">
+        <div class="d-flex info-agent-template-2 t-n-car-select justify-content-end">
             <div><i class="d-icon d-icon-bed"></i></div>
             <div>4</div>
             <div><i class="d-icon d-icon-bat"></i></div>
