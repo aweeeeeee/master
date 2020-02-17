@@ -1703,7 +1703,7 @@
                 <div class="p-3 bg-eae">
                     <div class="d-flex flex-column line-height22">
                       <div>Signboard Artwork:</div>
-                      <div class="font15"><b>HHomeOpen sign (A4) v2 MAROON</b></div>
+                      <div class="font15"><b>HomeOpen sign (A4) v2 MAROON</b></div>
                       <div class="mt-3 mb-2">Download: </div>
                       <div>
                             <div class="d-flex flex-row ">
@@ -1721,7 +1721,25 @@
                 <div class="p-3 bg-eae">
                     <div class="d-flex flex-column line-height22">
                       <div>Signboard Artwork:</div>
-                      <div class="font15"><b>HHomeOpen sign (A4) v2 ORANGE</b></div>
+                      <div class="font15"><b>HomeOpen sign (A4) v2 ORANGE</b></div>
+                      <div class="mt-3 mb-2">Download: </div>
+                      <div>
+                            <div class="d-flex flex-row ">
+                                <div><a href=""><i class="ac-dl-icon ac-dl-pdf"></i></a></div>
+                                <div><a href=""><i class="ac-dl-icon ac-dl-jpg"></i></a></div>
+                                <div><a href=""><i class="ac-dl-icon ac-dl-png"></i></a></div>
+                                <div><a href=""><i class="ac-dl-icon ac-dl-ai"></i></a></div>
+                            </div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-6 mb-5">
+                <img class="img-fluid" src={{ asset('storage/HomeOpensign(A4)v2Pink.jpg') }} />
+                <div class="p-3 bg-eae">
+                    <div class="d-flex flex-column line-height22">
+                      <div>Signboard Artwork:</div>
+                      <div class="font15"><b>HomeOpen sign (A4) v2 PINK</b></div>
                       <div class="mt-3 mb-2">Download: </div>
                       <div>
                             <div class="d-flex flex-row ">
@@ -1739,7 +1757,7 @@
                 <div class="p-3 bg-eae">
                     <div class="d-flex flex-column line-height22">
                       <div>Signboard Artwork:</div>
-                      <div class="font15"><b>HomeOpen sign (A4) v2 PURPLE - thumbnail</b></div>
+                      <div class="font15"><b>HomeOpen sign (A4) v2 PURPLE</b></div>
                       <div class="mt-3 mb-2">Download: </div>
                       <div>
                             <div class="d-flex flex-row ">
