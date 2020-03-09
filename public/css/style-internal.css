@@ -102,8 +102,11 @@ i.logout { background:url(backgrounds/admin/logout.png); height:25px; display:in
 .tbl-av .custom-control-label::after { margin-top:-5px; width:22px; height:22px; } 
 .tbl-notes { border:1px solid #cccccc; padding:10px; height:100px; }
 i.d-u-icon { background:url(backgrounds/direct-upload-icon2.png); background-repeat:no-repeat; height:15px; width:25px; display:inline-block; }
+i.d-u-icon-bed { background-position:2px 0px; }
 i.d-u-icon-bat { background-position:-23px 0px; }
 i.d-u-icon-car { background-position:-47px 0px; }
+i.d-u-icon-pet { background-position:-68px 0px; }
+i.d-u-icon-people { background-position:-93px 0px; }
 i.a-s-icons { background:url(backgrounds/social-icons-v3.png); height:60px; width:60px; display:inline-block; }
 i.a-s-icons-rev { background-position:-334px 0px; }
 i.a-s-icons-yt { background-position:-399px 0px; }

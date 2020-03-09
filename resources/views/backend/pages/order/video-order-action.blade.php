@@ -58,7 +58,7 @@
                         <div class="row">
                             <div class="col-sm">
                                 <div class="d-flex flex-row">
-                                    <div class="bg-eae px-2 pt-2"><i class="d-u-icon"></i></div>
+                                    <div class="bg-eae px-2 pt-2"><i class="d-u-icon d-u-icon-bed"></i></div>
                                     <div class="video-text ml-2">Bedroom</div>
                                 </div>
                             </div>
@@ -74,6 +74,25 @@
                                      <div class="video-text ml-2 w-100">Cars</div>
                                  </div>
                             </div>
+                        </div>
+                        <div class="row pt-2">
+                                    <div class="col-sm">
+                                        <div class="d-flex flex-row">
+                                            <div class="bg-eae px-2 pt-2"><i class="d-u-icon d-u-icon-people"></i></div>
+                                            <div class="video-text ml-2 w-100">No. People</div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm px-0">
+                                         <div class="d-flex flex-row">
+                                             <div class="bg-eae p-2"><i class="d-u-icon d-u-icon-pet"></i></div>
+                                             <div class="video-text mx-3 w-100">
+                                                <select>
+                                                    <option>test</option> 
+                                                     <option>test</option> 
+                                                </select>
+                                             </div>
+                                         </div>
+                                    </div>
                         </div>
                      </div>
                     
