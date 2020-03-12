@@ -110,45 +110,7 @@
         
         <br><br> <br><br>
         
-        
-        <div class="d-flex info-agent-template-2 info-agent-template-4 justify-content-end">
-            <div><i class="d-icon d-icon-people"></i></div>
-            <div>4</div>
-            <div><i class="d-icon d-icon-bed"></i></div>
-            <div>4</div>
-            <div><i class="d-icon d-icon-bat"></i></div>
-            <div>3</div>
-            <div><i class="d-icon d-icon-car"></i></div>
-            <div>2</div>
-            <div class="ml-0">House</div>
-        </div>
-        
-        <br><br> <br><br>
-        
-        <div class="d-flex info-agent-template-2 info-agent-template-3 justify-content-end">
-            <div><i class="d-icon d-icon-bed"></i></div>
-             <div class="mr-0">4</div>
-            <div><i class="d-icon d-icon-bat"></i></div>
-            <div class="mr-0">3</div>
-            <div><i class="d-icon d-icon-car"></i></div>
-            <div class="mr-0">2</div>
-            <div><i class="d-icon d-icon-pet"></i></div>
-            <div class="ml-0">House</div>
-        </div>
-         <br><br> <br><br>
-        
-         <div class="d-flex info-agent-template-2 info-agent-template-3 justify-content-end">
-            <div><i class="d-icon d-icon-people"></i></div>
-            <div>4</div>
-            <div><i class="d-icon d-icon-bed"></i></div>
-            <div>4</div>
-            <div><i class="d-icon d-icon-bat"></i></div>
-            <div>3</div>
-            <div><i class="d-icon d-icon-car"></i></div>
-            <div>2</div>
-            <div><i class="d-icon d-icon-pet"></i></div>
-            <div class="ml-0">House</div>
-        </div>
+
         
          <br><br> <br><br>
         <div class="d-flex flex-row info-agent-template-2 p-4">
