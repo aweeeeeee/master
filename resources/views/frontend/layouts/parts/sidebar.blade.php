@@ -41,6 +41,18 @@
         <i class="account-icon my-preferences @if (Request::segment(2) == 'preferences') {{'my-preferences-active'}} @else {{'my-preferences'}} @endif"></i>
         <a href="/account/preferences/" class="@if (Request::segment(2) == 'preferences') {{'c-ff0033'}} @endif">My Preferences</a>
     </li>
+    <li>
+        <i class="account-icon @if (Request::segment(2) == 'page') {{'my-marketing-active'}} @else {{'my-marketing'}} @endif"></i>
+        <a href="/account/preferences/" class="@if (Request::segment(2) == 'page') {{'c-ff0033'}} @endif">Marketing Centre</a>
+    </li>
+    <li>
+        <i class="account-icon my-preferences @if (Request::segment(2) == 'page') {{'my-artwork-active'}} @else {{'my-artwork'}} @endif"></i>
+        <a href="/account/preferences/" class="@if (Request::segment(2) == 'page') {{'c-ff0033'}} @endif">Artwork Centre</a>
+    </li>
+    <li>
+        <i class="account-icon my-preferences @if (Request::segment(2) == 'page') {{'my-tips-active'}} @else {{'my-tips'}} @endif"></i>
+        <a href="/account/preferences/" class="@if (Request::segment(2) == 'page') {{'c-ff0033'}} @endif">Tips and Hints</a>
+    </li>
 </ul>
 <nav class="my-account-menu navbar navbar-expand-lg navbar-light bg-light">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

@@ -486,19 +486,25 @@ i.sv-move { background-position:-24px 0px; }
 i.sv-pdf { background-position:-97px 0px; }
 i.sv-hear { background-position:-118px 0px; } 
 i.account-icon { background:url(backgrounds/side-bar-icon.png); height:40px; width:41px; display:inline-block; vertical-align: middle; padding:10px 20px 10px 10px; }
-i.my-account { background-position:-83px 0px; }
+i.my-account { background-position:-82px 0px; }
 i.my-videos { background-position:-164px 0px; }
-i.my-creator { background-position:-205px 0px; }
+i.my-creator { background-position:-204px 0px; }
 i.my-tracker { background-position:-123px 0px; }
 i.my-explore { background-position:-167px 0px; }
 i.my-settings { background-position:-41px 0px; }
 i.my-preferences { background-position:0px 0px; }
 i.my-account-active { background-position:-328px 0px; }
-i.my-videos-active { background-position:-411px 0px; }
+i.my-videos-active { background-position:-409px 0px; }
 i.my-preferences-active { background-position:-247px 0px; }
 i.my-settings-active { background-position:-288px 0px; }
-i.my-creator-active { background-position:-452px 0px; }
-i.my-tracker-active { background-position:-370px 0px; }
+i.my-creator-active { background-position:-450px 0px; }
+i.my-tracker-active { background-position:-368px 0px; }
+i.my-marketing { background-position:-534px; }
+i.my-marketing-active { background-position:-400px; }
+i.my-artwork { background-position:-576px; }
+i.my-artwork-active { background-position:520px; }
+i.my-tips { background-position:-492px; }
+i.my-tips-active { background-position:-500px; }
 i.link-icon { background:url(backgrounds/link-icons.png); height:50px; width:55px; display:inline-block; margin:10px 0px; }
 i.media { background-position:1px 0px; }
 i.social { background-position:-59px 0px; }
