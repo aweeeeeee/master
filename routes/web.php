@@ -230,6 +230,8 @@ Route::get('/account/help/','MyVideoController@Help');
 
 Route::get('/account/direct-upload/','MyVideoController@DirectUpload');
 
+Route::get('/account/marketing-centre/','MyAccountController@MarketingCentre');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

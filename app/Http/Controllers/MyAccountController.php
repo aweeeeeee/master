@@ -15,4 +15,9 @@ class MyAccountController extends Controller
     {
         return view('frontend.pages.my-account');
     }
+    
+    public function MarketingCentre()
+    {
+        return view('frontend.pages.account-marketing-centre');
+    }
 }
